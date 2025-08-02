@@ -1,0 +1,12 @@
+#!/bin/bash -l
+#SBATCH --job-name="deltar"
+#SBATCH --output="./deltar.log"
+#SBATCH --partition=shared
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --export=ALL
+#SBATCH -t 8:00:00
+#SBATCH -A uoo104
+#SBATCH --mem=80G
+
+python write_deltar_traj.py notail.xtc ../../notebooks/CAnotail.pdb
