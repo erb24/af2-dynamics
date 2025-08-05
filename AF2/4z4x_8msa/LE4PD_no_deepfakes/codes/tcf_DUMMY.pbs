@@ -1,0 +1,15 @@
+#!/bin/bash -l
+#SBATCH --job-name="tcf_DUMMY"
+#SBATCH -A uoo104
+#SBATCH --output="./tcfDUMMY.log"
+#SBATCH --partition=shared
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --export=ALL
+#SBATCH -t 1:00:00
+
+step=1
+i=DUMMY
+sed -i "s#dummy#${i}#g" tcf_DUMMY.f95
+gfortran tcf_DUMMY.f95 -o tcfDUMMY.exe
+./tcfDUMMY.exe ${step}

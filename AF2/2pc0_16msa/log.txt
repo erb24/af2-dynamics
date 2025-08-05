@@ -1,0 +1,1927 @@
+2024-09-26 08:00:05,144 Running colabfold 1.5.5 (4e198f5cecc6a808daa6baf7441899e5e76f7b9e)
+2024-09-26 08:00:12,173 Running on GPU
+2024-09-26 08:00:40,864 Found 5 citations for tools or databases
+2024-09-26 08:00:40,865 Query 1/1: test_0 (length 99)
+2024-09-26 08:00:44,206 Setting max_seq=16, max_extra_seq=32
+2024-09-26 08:02:02,140 alphafold2_ptm_model_1_seed_000 recycle=0 pLDDT=70.9 pTM=0.56
+2024-09-26 08:02:02,548 alphafold2_ptm_model_1_seed_000 recycle=1 pLDDT=84.7 pTM=0.751 tol=1.64
+2024-09-26 08:02:02,952 alphafold2_ptm_model_1_seed_000 recycle=2 pLDDT=81.9 pTM=0.708 tol=0.626
+2024-09-26 08:02:03,359 alphafold2_ptm_model_1_seed_000 recycle=3 pLDDT=84.7 pTM=0.753 tol=0.597
+2024-09-26 08:02:03,359 alphafold2_ptm_model_1_seed_000 took 24.6s (3 recycles)
+2024-09-26 08:02:03,921 alphafold2_ptm_model_2_seed_000 recycle=0 pLDDT=79.4 pTM=0.667
+2024-09-26 08:02:04,329 alphafold2_ptm_model_2_seed_000 recycle=1 pLDDT=83.8 pTM=0.757 tol=0.825
+2024-09-26 08:02:04,738 alphafold2_ptm_model_2_seed_000 recycle=2 pLDDT=87.2 pTM=0.783 tol=0.711
+2024-09-26 08:02:05,146 alphafold2_ptm_model_2_seed_000 recycle=3 pLDDT=84.3 pTM=0.765 tol=3.61
+2024-09-26 08:02:05,146 alphafold2_ptm_model_2_seed_000 took 1.6s (3 recycles)
+2024-09-26 08:02:05,571 alphafold2_ptm_model_3_seed_000 recycle=0 pLDDT=77.1 pTM=0.616
+2024-09-26 08:02:05,980 alphafold2_ptm_model_3_seed_000 recycle=1 pLDDT=85.9 pTM=0.771 tol=0.924
+2024-09-26 08:02:06,387 alphafold2_ptm_model_3_seed_000 recycle=2 pLDDT=85.4 pTM=0.754 tol=0.459
+2024-09-26 08:02:06,796 alphafold2_ptm_model_3_seed_000 recycle=3 pLDDT=85.5 pTM=0.769 tol=0.39
+2024-09-26 08:02:06,796 alphafold2_ptm_model_3_seed_000 took 1.6s (3 recycles)
+2024-09-26 08:02:07,223 alphafold2_ptm_model_4_seed_000 recycle=0 pLDDT=81.3 pTM=0.688
+2024-09-26 08:02:07,634 alphafold2_ptm_model_4_seed_000 recycle=1 pLDDT=86.8 pTM=0.776 tol=0.75
+2024-09-26 08:02:08,045 alphafold2_ptm_model_4_seed_000 recycle=2 pLDDT=87.9 pTM=0.785 tol=0.362
+2024-09-26 08:02:08,456 alphafold2_ptm_model_4_seed_000 recycle=3 pLDDT=87.8 pTM=0.789 tol=0.32
+2024-09-26 08:02:08,457 alphafold2_ptm_model_4_seed_000 took 1.6s (3 recycles)
+2024-09-26 08:02:08,884 alphafold2_ptm_model_5_seed_000 recycle=0 pLDDT=80.9 pTM=0.692
+2024-09-26 08:02:09,295 alphafold2_ptm_model_5_seed_000 recycle=1 pLDDT=86.8 pTM=0.792 tol=0.78
+2024-09-26 08:02:09,707 alphafold2_ptm_model_5_seed_000 recycle=2 pLDDT=87.8 pTM=0.796 tol=0.522
+2024-09-26 08:02:10,119 alphafold2_ptm_model_5_seed_000 recycle=3 pLDDT=87.4 pTM=0.794 tol=0.528
+2024-09-26 08:02:10,120 alphafold2_ptm_model_5_seed_000 took 1.6s (3 recycles)
+2024-09-26 08:02:11,701 alphafold2_ptm_model_1_seed_001 recycle=0 pLDDT=60.6 pTM=0.478
+2024-09-26 08:02:12,106 alphafold2_ptm_model_1_seed_001 recycle=1 pLDDT=82.7 pTM=0.707 tol=3.28
+2024-09-26 08:02:12,513 alphafold2_ptm_model_1_seed_001 recycle=2 pLDDT=85.9 pTM=0.766 tol=0.609
+2024-09-26 08:02:12,921 alphafold2_ptm_model_1_seed_001 recycle=3 pLDDT=85.4 pTM=0.76 tol=2.15
+2024-09-26 08:02:12,922 alphafold2_ptm_model_1_seed_001 took 1.6s (3 recycles)
+2024-09-26 08:02:13,345 alphafold2_ptm_model_2_seed_001 recycle=0 pLDDT=54.4 pTM=0.434
+2024-09-26 08:02:13,750 alphafold2_ptm_model_2_seed_001 recycle=1 pLDDT=76.9 pTM=0.655 tol=3.88
+2024-09-26 08:02:14,159 alphafold2_ptm_model_2_seed_001 recycle=2 pLDDT=83.7 pTM=0.76 tol=1.2
+2024-09-26 08:02:14,568 alphafold2_ptm_model_2_seed_001 recycle=3 pLDDT=84.4 pTM=0.766 tol=1.09
+2024-09-26 08:02:14,569 alphafold2_ptm_model_2_seed_001 took 1.6s (3 recycles)
+2024-09-26 08:02:14,992 alphafold2_ptm_model_3_seed_001 recycle=0 pLDDT=59.9 pTM=0.443
+2024-09-26 08:02:15,400 alphafold2_ptm_model_3_seed_001 recycle=1 pLDDT=84.4 pTM=0.741 tol=2.15
+2024-09-26 08:02:15,810 alphafold2_ptm_model_3_seed_001 recycle=2 pLDDT=86.5 pTM=0.779 tol=1.94
+2024-09-26 08:02:16,224 alphafold2_ptm_model_3_seed_001 recycle=3 pLDDT=87.8 pTM=0.794 tol=0.395
+2024-09-26 08:02:16,224 alphafold2_ptm_model_3_seed_001 took 1.6s (3 recycles)
+2024-09-26 08:02:16,649 alphafold2_ptm_model_4_seed_001 recycle=0 pLDDT=70.4 pTM=0.595
+2024-09-26 08:02:17,058 alphafold2_ptm_model_4_seed_001 recycle=1 pLDDT=86.6 pTM=0.785 tol=1.03
+2024-09-26 08:02:17,472 alphafold2_ptm_model_4_seed_001 recycle=2 pLDDT=87.2 pTM=0.787 tol=0.803
+2024-09-26 08:02:17,882 alphafold2_ptm_model_4_seed_001 recycle=3 pLDDT=87.9 pTM=0.789 tol=0.639
+2024-09-26 08:02:17,883 alphafold2_ptm_model_4_seed_001 took 1.6s (3 recycles)
+2024-09-26 08:02:18,307 alphafold2_ptm_model_5_seed_001 recycle=0 pLDDT=70.8 pTM=0.605
+2024-09-26 08:02:18,717 alphafold2_ptm_model_5_seed_001 recycle=1 pLDDT=85.7 pTM=0.784 tol=1.31
+2024-09-26 08:02:19,130 alphafold2_ptm_model_5_seed_001 recycle=2 pLDDT=88.3 pTM=0.807 tol=1.05
+2024-09-26 08:02:19,544 alphafold2_ptm_model_5_seed_001 recycle=3 pLDDT=88.5 pTM=0.807 tol=0.174
+2024-09-26 08:02:19,544 alphafold2_ptm_model_5_seed_001 took 1.6s (3 recycles)
+2024-09-26 08:02:21,134 alphafold2_ptm_model_1_seed_002 recycle=0 pLDDT=48.1 pTM=0.407
+2024-09-26 08:02:21,536 alphafold2_ptm_model_1_seed_002 recycle=1 pLDDT=60.9 pTM=0.511 tol=3.93
+2024-09-26 08:02:21,941 alphafold2_ptm_model_1_seed_002 recycle=2 pLDDT=76.3 pTM=0.647 tol=4.19
+2024-09-26 08:02:22,346 alphafold2_ptm_model_1_seed_002 recycle=3 pLDDT=83.8 pTM=0.741 tol=0.851
+2024-09-26 08:02:22,346 alphafold2_ptm_model_1_seed_002 took 1.6s (3 recycles)
+2024-09-26 08:02:22,773 alphafold2_ptm_model_2_seed_002 recycle=0 pLDDT=72.6 pTM=0.595
+2024-09-26 08:02:23,181 alphafold2_ptm_model_2_seed_002 recycle=1 pLDDT=83.6 pTM=0.75 tol=2.95
+2024-09-26 08:02:23,587 alphafold2_ptm_model_2_seed_002 recycle=2 pLDDT=81.8 pTM=0.747 tol=1.24
+2024-09-26 08:02:23,995 alphafold2_ptm_model_2_seed_002 recycle=3 pLDDT=83.8 pTM=0.766 tol=3.17
+2024-09-26 08:02:23,995 alphafold2_ptm_model_2_seed_002 took 1.6s (3 recycles)
+2024-09-26 08:02:24,419 alphafold2_ptm_model_3_seed_002 recycle=0 pLDDT=66.8 pTM=0.496
+2024-09-26 08:02:24,827 alphafold2_ptm_model_3_seed_002 recycle=1 pLDDT=85.1 pTM=0.741 tol=1.63
+2024-09-26 08:02:25,238 alphafold2_ptm_model_3_seed_002 recycle=2 pLDDT=88.1 pTM=0.799 tol=0.677
+2024-09-26 08:02:25,652 alphafold2_ptm_model_3_seed_002 recycle=3 pLDDT=89.1 pTM=0.812 tol=0.641
+2024-09-26 08:02:25,652 alphafold2_ptm_model_3_seed_002 took 1.6s (3 recycles)
+2024-09-26 08:02:26,078 alphafold2_ptm_model_4_seed_002 recycle=0 pLDDT=82.7 pTM=0.703
+2024-09-26 08:02:26,486 alphafold2_ptm_model_4_seed_002 recycle=1 pLDDT=86.8 pTM=0.762 tol=0.546
+2024-09-26 08:02:26,896 alphafold2_ptm_model_4_seed_002 recycle=2 pLDDT=87.2 pTM=0.787 tol=0.324
+2024-09-26 08:02:27,307 alphafold2_ptm_model_4_seed_002 recycle=3 pLDDT=88.5 pTM=0.799 tol=0.184
+2024-09-26 08:02:27,308 alphafold2_ptm_model_4_seed_002 took 1.6s (3 recycles)
+2024-09-26 08:02:27,734 alphafold2_ptm_model_5_seed_002 recycle=0 pLDDT=81.9 pTM=0.716
+2024-09-26 08:02:28,146 alphafold2_ptm_model_5_seed_002 recycle=1 pLDDT=86.6 pTM=0.784 tol=0.668
+2024-09-26 08:02:28,556 alphafold2_ptm_model_5_seed_002 recycle=2 pLDDT=85 pTM=0.783 tol=0.613
+2024-09-26 08:02:28,970 alphafold2_ptm_model_5_seed_002 recycle=3 pLDDT=87.9 pTM=0.809 tol=0.705
+2024-09-26 08:02:28,970 alphafold2_ptm_model_5_seed_002 took 1.6s (3 recycles)
+2024-09-26 08:02:30,511 alphafold2_ptm_model_1_seed_003 recycle=0 pLDDT=72.1 pTM=0.594
+2024-09-26 08:02:30,917 alphafold2_ptm_model_1_seed_003 recycle=1 pLDDT=84.1 pTM=0.746 tol=1.11
+2024-09-26 08:02:31,324 alphafold2_ptm_model_1_seed_003 recycle=2 pLDDT=85.8 pTM=0.769 tol=0.698
+2024-09-26 08:02:31,729 alphafold2_ptm_model_1_seed_003 recycle=3 pLDDT=82.3 pTM=0.73 tol=0.827
+2024-09-26 08:02:31,730 alphafold2_ptm_model_1_seed_003 took 1.6s (3 recycles)
+2024-09-26 08:02:32,154 alphafold2_ptm_model_2_seed_003 recycle=0 pLDDT=69.8 pTM=0.605
+2024-09-26 08:02:32,563 alphafold2_ptm_model_2_seed_003 recycle=1 pLDDT=84.6 pTM=0.762 tol=1.04
+2024-09-26 08:02:32,971 alphafold2_ptm_model_2_seed_003 recycle=2 pLDDT=83.7 pTM=0.758 tol=0.84
+2024-09-26 08:02:33,376 alphafold2_ptm_model_2_seed_003 recycle=3 pLDDT=83.3 pTM=0.749 tol=0.665
+2024-09-26 08:02:33,377 alphafold2_ptm_model_2_seed_003 took 1.6s (3 recycles)
+2024-09-26 08:02:33,803 alphafold2_ptm_model_3_seed_003 recycle=0 pLDDT=82 pTM=0.686
+2024-09-26 08:02:34,213 alphafold2_ptm_model_3_seed_003 recycle=1 pLDDT=86.2 pTM=0.777 tol=0.707
+2024-09-26 08:02:34,622 alphafold2_ptm_model_3_seed_003 recycle=2 pLDDT=87.1 pTM=0.776 tol=0.629
+2024-09-26 08:02:35,031 alphafold2_ptm_model_3_seed_003 recycle=3 pLDDT=88.3 pTM=0.799 tol=0.734
+2024-09-26 08:02:35,032 alphafold2_ptm_model_3_seed_003 took 1.6s (3 recycles)
+2024-09-26 08:02:35,458 alphafold2_ptm_model_4_seed_003 recycle=0 pLDDT=81.1 pTM=0.696
+2024-09-26 08:02:35,868 alphafold2_ptm_model_4_seed_003 recycle=1 pLDDT=86.1 pTM=0.774 tol=0.798
+2024-09-26 08:02:36,277 alphafold2_ptm_model_4_seed_003 recycle=2 pLDDT=87.4 pTM=0.78 tol=0.586
+2024-09-26 08:02:36,688 alphafold2_ptm_model_4_seed_003 recycle=3 pLDDT=90.6 pTM=0.82 tol=0.671
+2024-09-26 08:02:36,689 alphafold2_ptm_model_4_seed_003 took 1.6s (3 recycles)
+2024-09-26 08:02:37,114 alphafold2_ptm_model_5_seed_003 recycle=0 pLDDT=78.4 pTM=0.661
+2024-09-26 08:02:37,525 alphafold2_ptm_model_5_seed_003 recycle=1 pLDDT=86.2 pTM=0.785 tol=0.992
+2024-09-26 08:02:37,939 alphafold2_ptm_model_5_seed_003 recycle=2 pLDDT=89 pTM=0.812 tol=0.671
+2024-09-26 08:02:38,349 alphafold2_ptm_model_5_seed_003 recycle=3 pLDDT=88.9 pTM=0.811 tol=0.501
+2024-09-26 08:02:38,350 alphafold2_ptm_model_5_seed_003 took 1.6s (3 recycles)
+2024-09-26 08:02:39,917 alphafold2_ptm_model_1_seed_004 recycle=0 pLDDT=34.9 pTM=0.216
+2024-09-26 08:02:40,320 alphafold2_ptm_model_1_seed_004 recycle=1 pLDDT=60.9 pTM=0.468 tol=10.2
+2024-09-26 08:02:40,722 alphafold2_ptm_model_1_seed_004 recycle=2 pLDDT=62.1 pTM=0.499 tol=1.48
+2024-09-26 08:02:41,125 alphafold2_ptm_model_1_seed_004 recycle=3 pLDDT=60 pTM=0.471 tol=0.734
+2024-09-26 08:02:41,125 alphafold2_ptm_model_1_seed_004 took 1.6s (3 recycles)
+2024-09-26 08:02:41,549 alphafold2_ptm_model_2_seed_004 recycle=0 pLDDT=66.8 pTM=0.575
+2024-09-26 08:02:41,954 alphafold2_ptm_model_2_seed_004 recycle=1 pLDDT=76 pTM=0.672 tol=1.54
+2024-09-26 08:02:42,361 alphafold2_ptm_model_2_seed_004 recycle=2 pLDDT=77.5 pTM=0.688 tol=0.981
+2024-09-26 08:02:42,766 alphafold2_ptm_model_2_seed_004 recycle=3 pLDDT=77.2 pTM=0.684 tol=0.496
+2024-09-26 08:02:42,766 alphafold2_ptm_model_2_seed_004 took 1.6s (3 recycles)
+2024-09-26 08:02:43,226 alphafold2_ptm_model_3_seed_004 recycle=0 pLDDT=70.6 pTM=0.57
+2024-09-26 08:02:43,631 alphafold2_ptm_model_3_seed_004 recycle=1 pLDDT=80.2 pTM=0.695 tol=0.934
+2024-09-26 08:02:44,040 alphafold2_ptm_model_3_seed_004 recycle=2 pLDDT=82.7 pTM=0.739 tol=1.37
+2024-09-26 08:02:44,450 alphafold2_ptm_model_3_seed_004 recycle=3 pLDDT=86.9 pTM=0.777 tol=0.566
+2024-09-26 08:02:44,450 alphafold2_ptm_model_3_seed_004 took 1.6s (3 recycles)
+2024-09-26 08:02:44,877 alphafold2_ptm_model_4_seed_004 recycle=0 pLDDT=78.3 pTM=0.662
+2024-09-26 08:02:45,285 alphafold2_ptm_model_4_seed_004 recycle=1 pLDDT=86.2 pTM=0.766 tol=0.925
+2024-09-26 08:02:45,693 alphafold2_ptm_model_4_seed_004 recycle=2 pLDDT=85.8 pTM=0.77 tol=0.542
+2024-09-26 08:02:46,102 alphafold2_ptm_model_4_seed_004 recycle=3 pLDDT=85.5 pTM=0.764 tol=0.344
+2024-09-26 08:02:46,102 alphafold2_ptm_model_4_seed_004 took 1.6s (3 recycles)
+2024-09-26 08:02:46,527 alphafold2_ptm_model_5_seed_004 recycle=0 pLDDT=69.2 pTM=0.579
+2024-09-26 08:02:46,935 alphafold2_ptm_model_5_seed_004 recycle=1 pLDDT=84.7 pTM=0.768 tol=1.64
+2024-09-26 08:02:47,348 alphafold2_ptm_model_5_seed_004 recycle=2 pLDDT=86.1 pTM=0.791 tol=0.363
+2024-09-26 08:02:47,761 alphafold2_ptm_model_5_seed_004 recycle=3 pLDDT=87.2 pTM=0.801 tol=0.298
+2024-09-26 08:02:47,761 alphafold2_ptm_model_5_seed_004 took 1.6s (3 recycles)
+2024-09-26 08:02:49,350 alphafold2_ptm_model_1_seed_005 recycle=0 pLDDT=78.5 pTM=0.664
+2024-09-26 08:02:49,756 alphafold2_ptm_model_1_seed_005 recycle=1 pLDDT=83.9 pTM=0.73 tol=0.985
+2024-09-26 08:02:50,161 alphafold2_ptm_model_1_seed_005 recycle=2 pLDDT=81.9 pTM=0.717 tol=0.329
+2024-09-26 08:02:50,568 alphafold2_ptm_model_1_seed_005 recycle=3 pLDDT=84.9 pTM=0.759 tol=0.489
+2024-09-26 08:02:50,568 alphafold2_ptm_model_1_seed_005 took 1.6s (3 recycles)
+2024-09-26 08:02:50,996 alphafold2_ptm_model_2_seed_005 recycle=0 pLDDT=78.2 pTM=0.665
+2024-09-26 08:02:51,403 alphafold2_ptm_model_2_seed_005 recycle=1 pLDDT=82.8 pTM=0.731 tol=2
+2024-09-26 08:02:51,809 alphafold2_ptm_model_2_seed_005 recycle=2 pLDDT=82.9 pTM=0.744 tol=0.562
+2024-09-26 08:02:52,218 alphafold2_ptm_model_2_seed_005 recycle=3 pLDDT=84.8 pTM=0.768 tol=0.498
+2024-09-26 08:02:52,218 alphafold2_ptm_model_2_seed_005 took 1.6s (3 recycles)
+2024-09-26 08:02:52,648 alphafold2_ptm_model_3_seed_005 recycle=0 pLDDT=83.2 pTM=0.687
+2024-09-26 08:02:53,057 alphafold2_ptm_model_3_seed_005 recycle=1 pLDDT=86.5 pTM=0.764 tol=0.478
+2024-09-26 08:02:53,465 alphafold2_ptm_model_3_seed_005 recycle=2 pLDDT=87.2 pTM=0.778 tol=0.454
+2024-09-26 08:02:53,873 alphafold2_ptm_model_3_seed_005 recycle=3 pLDDT=87.1 pTM=0.782 tol=0.347
+2024-09-26 08:02:53,874 alphafold2_ptm_model_3_seed_005 took 1.6s (3 recycles)
+2024-09-26 08:02:54,300 alphafold2_ptm_model_4_seed_005 recycle=0 pLDDT=82.2 pTM=0.696
+2024-09-26 08:02:54,709 alphafold2_ptm_model_4_seed_005 recycle=1 pLDDT=87.2 pTM=0.771 tol=0.79
+2024-09-26 08:02:55,117 alphafold2_ptm_model_4_seed_005 recycle=2 pLDDT=87.4 pTM=0.779 tol=0.79
+2024-09-26 08:02:55,528 alphafold2_ptm_model_4_seed_005 recycle=3 pLDDT=88.4 pTM=0.799 tol=0.25
+2024-09-26 08:02:55,528 alphafold2_ptm_model_4_seed_005 took 1.6s (3 recycles)
+2024-09-26 08:02:55,956 alphafold2_ptm_model_5_seed_005 recycle=0 pLDDT=84.1 pTM=0.744
+2024-09-26 08:02:56,368 alphafold2_ptm_model_5_seed_005 recycle=1 pLDDT=87 pTM=0.789 tol=0.724
+2024-09-26 08:02:56,779 alphafold2_ptm_model_5_seed_005 recycle=2 pLDDT=86.8 pTM=0.789 tol=0.406
+2024-09-26 08:02:57,190 alphafold2_ptm_model_5_seed_005 recycle=3 pLDDT=87.1 pTM=0.797 tol=0.433
+2024-09-26 08:02:57,190 alphafold2_ptm_model_5_seed_005 took 1.6s (3 recycles)
+2024-09-26 08:02:58,733 alphafold2_ptm_model_1_seed_006 recycle=0 pLDDT=76.2 pTM=0.636
+2024-09-26 08:02:59,140 alphafold2_ptm_model_1_seed_006 recycle=1 pLDDT=84.2 pTM=0.746 tol=0.863
+2024-09-26 08:02:59,548 alphafold2_ptm_model_1_seed_006 recycle=2 pLDDT=85.1 pTM=0.764 tol=0.638
+2024-09-26 08:02:59,955 alphafold2_ptm_model_1_seed_006 recycle=3 pLDDT=85.5 pTM=0.763 tol=1.81
+2024-09-26 08:02:59,955 alphafold2_ptm_model_1_seed_006 took 1.6s (3 recycles)
+2024-09-26 08:03:00,379 alphafold2_ptm_model_2_seed_006 recycle=0 pLDDT=58.8 pTM=0.52
+2024-09-26 08:03:00,788 alphafold2_ptm_model_2_seed_006 recycle=1 pLDDT=84.9 pTM=0.764 tol=2.35
+2024-09-26 08:03:01,198 alphafold2_ptm_model_2_seed_006 recycle=2 pLDDT=86.1 pTM=0.773 tol=0.563
+2024-09-26 08:03:01,607 alphafold2_ptm_model_2_seed_006 recycle=3 pLDDT=86.8 pTM=0.79 tol=1.04
+2024-09-26 08:03:01,607 alphafold2_ptm_model_2_seed_006 took 1.6s (3 recycles)
+2024-09-26 08:03:02,030 alphafold2_ptm_model_3_seed_006 recycle=0 pLDDT=56.3 pTM=0.451
+2024-09-26 08:03:02,437 alphafold2_ptm_model_3_seed_006 recycle=1 pLDDT=83.6 pTM=0.727 tol=5.05
+2024-09-26 08:03:02,848 alphafold2_ptm_model_3_seed_006 recycle=2 pLDDT=87.8 pTM=0.792 tol=0.553
+2024-09-26 08:03:03,257 alphafold2_ptm_model_3_seed_006 recycle=3 pLDDT=87.4 pTM=0.787 tol=0.468
+2024-09-26 08:03:03,258 alphafold2_ptm_model_3_seed_006 took 1.6s (3 recycles)
+2024-09-26 08:03:03,684 alphafold2_ptm_model_4_seed_006 recycle=0 pLDDT=80.7 pTM=0.691
+2024-09-26 08:03:04,096 alphafold2_ptm_model_4_seed_006 recycle=1 pLDDT=87.7 pTM=0.793 tol=0.808
+2024-09-26 08:03:04,506 alphafold2_ptm_model_4_seed_006 recycle=2 pLDDT=86.6 pTM=0.778 tol=0.684
+2024-09-26 08:03:04,917 alphafold2_ptm_model_4_seed_006 recycle=3 pLDDT=88.2 pTM=0.795 tol=0.804
+2024-09-26 08:03:04,918 alphafold2_ptm_model_4_seed_006 took 1.6s (3 recycles)
+2024-09-26 08:03:05,345 alphafold2_ptm_model_5_seed_006 recycle=0 pLDDT=82.9 pTM=0.705
+2024-09-26 08:03:05,758 alphafold2_ptm_model_5_seed_006 recycle=1 pLDDT=86.4 pTM=0.791 tol=2.9
+2024-09-26 08:03:06,172 alphafold2_ptm_model_5_seed_006 recycle=2 pLDDT=87.8 pTM=0.799 tol=2.26
+2024-09-26 08:03:06,586 alphafold2_ptm_model_5_seed_006 recycle=3 pLDDT=88.8 pTM=0.812 tol=0.65
+2024-09-26 08:03:06,586 alphafold2_ptm_model_5_seed_006 took 1.6s (3 recycles)
+2024-09-26 08:03:08,085 alphafold2_ptm_model_1_seed_007 recycle=0 pLDDT=62.9 pTM=0.538
+2024-09-26 08:03:08,492 alphafold2_ptm_model_1_seed_007 recycle=1 pLDDT=83.6 pTM=0.735 tol=2.85
+2024-09-26 08:03:08,898 alphafold2_ptm_model_1_seed_007 recycle=2 pLDDT=85 pTM=0.753 tol=0.554
+2024-09-26 08:03:09,306 alphafold2_ptm_model_1_seed_007 recycle=3 pLDDT=85.6 pTM=0.761 tol=0.3
+2024-09-26 08:03:09,306 alphafold2_ptm_model_1_seed_007 took 1.6s (3 recycles)
+2024-09-26 08:03:09,733 alphafold2_ptm_model_2_seed_007 recycle=0 pLDDT=69.6 pTM=0.578
+2024-09-26 08:03:10,139 alphafold2_ptm_model_2_seed_007 recycle=1 pLDDT=84.6 pTM=0.75 tol=3.07
+2024-09-26 08:03:10,546 alphafold2_ptm_model_2_seed_007 recycle=2 pLDDT=83.8 pTM=0.751 tol=0.611
+2024-09-26 08:03:10,955 alphafold2_ptm_model_2_seed_007 recycle=3 pLDDT=84.7 pTM=0.764 tol=0.785
+2024-09-26 08:03:10,955 alphafold2_ptm_model_2_seed_007 took 1.6s (3 recycles)
+2024-09-26 08:03:11,379 alphafold2_ptm_model_3_seed_007 recycle=0 pLDDT=42.4 pTM=0.303
+2024-09-26 08:03:11,785 alphafold2_ptm_model_3_seed_007 recycle=1 pLDDT=84 pTM=0.725 tol=4.66
+2024-09-26 08:03:12,195 alphafold2_ptm_model_3_seed_007 recycle=2 pLDDT=86.9 pTM=0.776 tol=1.08
+2024-09-26 08:03:12,607 alphafold2_ptm_model_3_seed_007 recycle=3 pLDDT=87 pTM=0.792 tol=0.391
+2024-09-26 08:03:12,607 alphafold2_ptm_model_3_seed_007 took 1.6s (3 recycles)
+2024-09-26 08:03:13,031 alphafold2_ptm_model_4_seed_007 recycle=0 pLDDT=65.4 pTM=0.538
+2024-09-26 08:03:13,438 alphafold2_ptm_model_4_seed_007 recycle=1 pLDDT=85.6 pTM=0.753 tol=3.49
+2024-09-26 08:03:13,847 alphafold2_ptm_model_4_seed_007 recycle=2 pLDDT=87.8 pTM=0.784 tol=0.469
+2024-09-26 08:03:14,257 alphafold2_ptm_model_4_seed_007 recycle=3 pLDDT=87.5 pTM=0.785 tol=0.649
+2024-09-26 08:03:14,258 alphafold2_ptm_model_4_seed_007 took 1.6s (3 recycles)
+2024-09-26 08:03:14,689 alphafold2_ptm_model_5_seed_007 recycle=0 pLDDT=83.8 pTM=0.732
+2024-09-26 08:03:15,100 alphafold2_ptm_model_5_seed_007 recycle=1 pLDDT=87.6 pTM=0.793 tol=0.943
+2024-09-26 08:03:15,511 alphafold2_ptm_model_5_seed_007 recycle=2 pLDDT=87.8 pTM=0.8 tol=0.272
+2024-09-26 08:03:15,924 alphafold2_ptm_model_5_seed_007 recycle=3 pLDDT=88.1 pTM=0.807 tol=0.235
+2024-09-26 08:03:15,924 alphafold2_ptm_model_5_seed_007 took 1.6s (3 recycles)
+2024-09-26 08:03:17,502 alphafold2_ptm_model_1_seed_008 recycle=0 pLDDT=78.2 pTM=0.658
+2024-09-26 08:03:17,905 alphafold2_ptm_model_1_seed_008 recycle=1 pLDDT=78.6 pTM=0.673 tol=0.662
+2024-09-26 08:03:18,308 alphafold2_ptm_model_1_seed_008 recycle=2 pLDDT=80.8 pTM=0.689 tol=0.413
+2024-09-26 08:03:18,712 alphafold2_ptm_model_1_seed_008 recycle=3 pLDDT=82.9 pTM=0.725 tol=0.322
+2024-09-26 08:03:18,712 alphafold2_ptm_model_1_seed_008 took 1.6s (3 recycles)
+2024-09-26 08:03:19,137 alphafold2_ptm_model_2_seed_008 recycle=0 pLDDT=77.8 pTM=0.658
+2024-09-26 08:03:19,541 alphafold2_ptm_model_2_seed_008 recycle=1 pLDDT=80.8 pTM=0.726 tol=0.891
+2024-09-26 08:03:19,946 alphafold2_ptm_model_2_seed_008 recycle=2 pLDDT=81.3 pTM=0.709 tol=0.59
+2024-09-26 08:03:20,350 alphafold2_ptm_model_2_seed_008 recycle=3 pLDDT=82.6 pTM=0.73 tol=0.289
+2024-09-26 08:03:20,351 alphafold2_ptm_model_2_seed_008 took 1.6s (3 recycles)
+2024-09-26 08:03:20,775 alphafold2_ptm_model_3_seed_008 recycle=0 pLDDT=79.4 pTM=0.633
+2024-09-26 08:03:21,183 alphafold2_ptm_model_3_seed_008 recycle=1 pLDDT=85.6 pTM=0.765 tol=0.674
+2024-09-26 08:03:21,588 alphafold2_ptm_model_3_seed_008 recycle=2 pLDDT=84.6 pTM=0.737 tol=0.339
+2024-09-26 08:03:21,994 alphafold2_ptm_model_3_seed_008 recycle=3 pLDDT=86.2 pTM=0.762 tol=0.251
+2024-09-26 08:03:21,995 alphafold2_ptm_model_3_seed_008 took 1.6s (3 recycles)
+2024-09-26 08:03:22,421 alphafold2_ptm_model_4_seed_008 recycle=0 pLDDT=83.3 pTM=0.695
+2024-09-26 08:03:22,828 alphafold2_ptm_model_4_seed_008 recycle=1 pLDDT=85.7 pTM=0.767 tol=0.839
+2024-09-26 08:03:23,238 alphafold2_ptm_model_4_seed_008 recycle=2 pLDDT=89.4 pTM=0.789 tol=0.652
+2024-09-26 08:03:23,649 alphafold2_ptm_model_4_seed_008 recycle=3 pLDDT=88.7 pTM=0.796 tol=0.462
+2024-09-26 08:03:23,650 alphafold2_ptm_model_4_seed_008 took 1.6s (3 recycles)
+2024-09-26 08:03:24,078 alphafold2_ptm_model_5_seed_008 recycle=0 pLDDT=80.8 pTM=0.676
+2024-09-26 08:03:24,486 alphafold2_ptm_model_5_seed_008 recycle=1 pLDDT=84.4 pTM=0.763 tol=0.673
+2024-09-26 08:03:24,892 alphafold2_ptm_model_5_seed_008 recycle=2 pLDDT=84.8 pTM=0.756 tol=0.507
+2024-09-26 08:03:25,304 alphafold2_ptm_model_5_seed_008 recycle=3 pLDDT=87.8 pTM=0.8 tol=0.247
+2024-09-26 08:03:25,304 alphafold2_ptm_model_5_seed_008 took 1.6s (3 recycles)
+2024-09-26 08:03:27,324 alphafold2_ptm_model_1_seed_009 recycle=0 pLDDT=60.6 pTM=0.521
+2024-09-26 08:03:27,729 alphafold2_ptm_model_1_seed_009 recycle=1 pLDDT=82.9 pTM=0.723 tol=2.8
+2024-09-26 08:03:28,136 alphafold2_ptm_model_1_seed_009 recycle=2 pLDDT=83.8 pTM=0.742 tol=0.501
+2024-09-26 08:03:28,543 alphafold2_ptm_model_1_seed_009 recycle=3 pLDDT=85.2 pTM=0.759 tol=0.868
+2024-09-26 08:03:28,543 alphafold2_ptm_model_1_seed_009 took 1.6s (3 recycles)
+2024-09-26 08:03:28,968 alphafold2_ptm_model_2_seed_009 recycle=0 pLDDT=73 pTM=0.607
+2024-09-26 08:03:29,374 alphafold2_ptm_model_2_seed_009 recycle=1 pLDDT=83.1 pTM=0.74 tol=0.926
+2024-09-26 08:03:29,781 alphafold2_ptm_model_2_seed_009 recycle=2 pLDDT=82.3 pTM=0.736 tol=0.79
+2024-09-26 08:03:30,188 alphafold2_ptm_model_2_seed_009 recycle=3 pLDDT=83.2 pTM=0.746 tol=0.6
+2024-09-26 08:03:30,188 alphafold2_ptm_model_2_seed_009 took 1.6s (3 recycles)
+2024-09-26 08:03:30,614 alphafold2_ptm_model_3_seed_009 recycle=0 pLDDT=75.1 pTM=0.621
+2024-09-26 08:03:31,021 alphafold2_ptm_model_3_seed_009 recycle=1 pLDDT=86.8 pTM=0.765 tol=1.75
+2024-09-26 08:03:31,429 alphafold2_ptm_model_3_seed_009 recycle=2 pLDDT=84.9 pTM=0.754 tol=0.47
+2024-09-26 08:03:31,839 alphafold2_ptm_model_3_seed_009 recycle=3 pLDDT=87.6 pTM=0.787 tol=0.412
+2024-09-26 08:03:31,839 alphafold2_ptm_model_3_seed_009 took 1.6s (3 recycles)
+2024-09-26 08:03:32,265 alphafold2_ptm_model_4_seed_009 recycle=0 pLDDT=80.8 pTM=0.687
+2024-09-26 08:03:32,675 alphafold2_ptm_model_4_seed_009 recycle=1 pLDDT=86.4 pTM=0.773 tol=1.12
+2024-09-26 08:03:33,082 alphafold2_ptm_model_4_seed_009 recycle=2 pLDDT=85.9 pTM=0.763 tol=0.481
+2024-09-26 08:03:33,493 alphafold2_ptm_model_4_seed_009 recycle=3 pLDDT=87.5 pTM=0.784 tol=0.285
+2024-09-26 08:03:33,493 alphafold2_ptm_model_4_seed_009 took 1.6s (3 recycles)
+2024-09-26 08:03:33,920 alphafold2_ptm_model_5_seed_009 recycle=0 pLDDT=80.8 pTM=0.702
+2024-09-26 08:03:34,330 alphafold2_ptm_model_5_seed_009 recycle=1 pLDDT=86.1 pTM=0.781 tol=1.3
+2024-09-26 08:03:34,739 alphafold2_ptm_model_5_seed_009 recycle=2 pLDDT=84.9 pTM=0.767 tol=0.374
+2024-09-26 08:03:35,151 alphafold2_ptm_model_5_seed_009 recycle=3 pLDDT=87.6 pTM=0.797 tol=0.338
+2024-09-26 08:03:35,152 alphafold2_ptm_model_5_seed_009 took 1.6s (3 recycles)
+2024-09-26 08:03:36,743 alphafold2_ptm_model_1_seed_010 recycle=0 pLDDT=61.9 pTM=0.499
+2024-09-26 08:03:37,148 alphafold2_ptm_model_1_seed_010 recycle=1 pLDDT=82.4 pTM=0.706 tol=1.77
+2024-09-26 08:03:37,555 alphafold2_ptm_model_1_seed_010 recycle=2 pLDDT=85.2 pTM=0.751 tol=0.383
+2024-09-26 08:03:37,961 alphafold2_ptm_model_1_seed_010 recycle=3 pLDDT=83.9 pTM=0.735 tol=0.583
+2024-09-26 08:03:37,961 alphafold2_ptm_model_1_seed_010 took 1.6s (3 recycles)
+2024-09-26 08:03:38,386 alphafold2_ptm_model_2_seed_010 recycle=0 pLDDT=69.9 pTM=0.589
+2024-09-26 08:03:38,793 alphafold2_ptm_model_2_seed_010 recycle=1 pLDDT=83.3 pTM=0.75 tol=0.937
+2024-09-26 08:03:39,200 alphafold2_ptm_model_2_seed_010 recycle=2 pLDDT=83.1 pTM=0.742 tol=0.729
+2024-09-26 08:03:39,608 alphafold2_ptm_model_2_seed_010 recycle=3 pLDDT=84.4 pTM=0.754 tol=0.69
+2024-09-26 08:03:39,608 alphafold2_ptm_model_2_seed_010 took 1.6s (3 recycles)
+2024-09-26 08:03:40,034 alphafold2_ptm_model_3_seed_010 recycle=0 pLDDT=75.1 pTM=0.602
+2024-09-26 08:03:40,444 alphafold2_ptm_model_3_seed_010 recycle=1 pLDDT=86 pTM=0.771 tol=0.627
+2024-09-26 08:03:40,854 alphafold2_ptm_model_3_seed_010 recycle=2 pLDDT=86.7 pTM=0.776 tol=0.383
+2024-09-26 08:03:41,266 alphafold2_ptm_model_3_seed_010 recycle=3 pLDDT=88 pTM=0.792 tol=0.251
+2024-09-26 08:03:41,266 alphafold2_ptm_model_3_seed_010 took 1.6s (3 recycles)
+2024-09-26 08:03:41,698 alphafold2_ptm_model_4_seed_010 recycle=0 pLDDT=67.4 pTM=0.571
+2024-09-26 08:03:42,109 alphafold2_ptm_model_4_seed_010 recycle=1 pLDDT=87.9 pTM=0.783 tol=0.859
+2024-09-26 08:03:42,519 alphafold2_ptm_model_4_seed_010 recycle=2 pLDDT=88.2 pTM=0.79 tol=0.33
+2024-09-26 08:03:42,928 alphafold2_ptm_model_4_seed_010 recycle=3 pLDDT=88.4 pTM=0.788 tol=0.187
+2024-09-26 08:03:42,929 alphafold2_ptm_model_4_seed_010 took 1.6s (3 recycles)
+2024-09-26 08:03:43,357 alphafold2_ptm_model_5_seed_010 recycle=0 pLDDT=79.1 pTM=0.662
+2024-09-26 08:03:43,766 alphafold2_ptm_model_5_seed_010 recycle=1 pLDDT=84.4 pTM=0.772 tol=0.889
+2024-09-26 08:03:44,179 alphafold2_ptm_model_5_seed_010 recycle=2 pLDDT=86.8 pTM=0.788 tol=0.588
+2024-09-26 08:03:44,594 alphafold2_ptm_model_5_seed_010 recycle=3 pLDDT=87.6 pTM=0.802 tol=0.408
+2024-09-26 08:03:44,595 alphafold2_ptm_model_5_seed_010 took 1.6s (3 recycles)
+2024-09-26 08:03:46,155 alphafold2_ptm_model_1_seed_011 recycle=0 pLDDT=79.2 pTM=0.655
+2024-09-26 08:03:46,560 alphafold2_ptm_model_1_seed_011 recycle=1 pLDDT=82.6 pTM=0.706 tol=0.947
+2024-09-26 08:03:46,966 alphafold2_ptm_model_1_seed_011 recycle=2 pLDDT=84.7 pTM=0.75 tol=0.508
+2024-09-26 08:03:47,371 alphafold2_ptm_model_1_seed_011 recycle=3 pLDDT=84.4 pTM=0.74 tol=0.269
+2024-09-26 08:03:47,372 alphafold2_ptm_model_1_seed_011 took 1.6s (3 recycles)
+2024-09-26 08:03:47,798 alphafold2_ptm_model_2_seed_011 recycle=0 pLDDT=75.9 pTM=0.626
+2024-09-26 08:03:48,206 alphafold2_ptm_model_2_seed_011 recycle=1 pLDDT=84.3 pTM=0.75 tol=1.6
+2024-09-26 08:03:48,614 alphafold2_ptm_model_2_seed_011 recycle=2 pLDDT=84.4 pTM=0.766 tol=0.427
+2024-09-26 08:03:49,021 alphafold2_ptm_model_2_seed_011 recycle=3 pLDDT=84.3 pTM=0.757 tol=0.636
+2024-09-26 08:03:49,021 alphafold2_ptm_model_2_seed_011 took 1.6s (3 recycles)
+2024-09-26 08:03:49,448 alphafold2_ptm_model_3_seed_011 recycle=0 pLDDT=73.4 pTM=0.601
+2024-09-26 08:03:49,856 alphafold2_ptm_model_3_seed_011 recycle=1 pLDDT=85.5 pTM=0.755 tol=2.07
+2024-09-26 08:03:50,265 alphafold2_ptm_model_3_seed_011 recycle=2 pLDDT=85.8 pTM=0.77 tol=0.445
+2024-09-26 08:03:50,675 alphafold2_ptm_model_3_seed_011 recycle=3 pLDDT=87.1 pTM=0.779 tol=0.456
+2024-09-26 08:03:50,675 alphafold2_ptm_model_3_seed_011 took 1.6s (3 recycles)
+2024-09-26 08:03:51,101 alphafold2_ptm_model_4_seed_011 recycle=0 pLDDT=80.8 pTM=0.686
+2024-09-26 08:03:51,508 alphafold2_ptm_model_4_seed_011 recycle=1 pLDDT=85.8 pTM=0.745 tol=1.46
+2024-09-26 08:03:51,916 alphafold2_ptm_model_4_seed_011 recycle=2 pLDDT=87.8 pTM=0.783 tol=0.345
+2024-09-26 08:03:52,327 alphafold2_ptm_model_4_seed_011 recycle=3 pLDDT=89.4 pTM=0.798 tol=0.296
+2024-09-26 08:03:52,327 alphafold2_ptm_model_4_seed_011 took 1.6s (3 recycles)
+2024-09-26 08:03:52,758 alphafold2_ptm_model_5_seed_011 recycle=0 pLDDT=82.9 pTM=0.741
+2024-09-26 08:03:53,170 alphafold2_ptm_model_5_seed_011 recycle=1 pLDDT=89.8 pTM=0.812 tol=1.05
+2024-09-26 08:03:53,582 alphafold2_ptm_model_5_seed_011 recycle=2 pLDDT=88.4 pTM=0.806 tol=0.264
+2024-09-26 08:03:53,996 alphafold2_ptm_model_5_seed_011 recycle=3 pLDDT=91.3 pTM=0.833 tol=0.152
+2024-09-26 08:03:53,997 alphafold2_ptm_model_5_seed_011 took 1.6s (3 recycles)
+2024-09-26 08:03:55,547 alphafold2_ptm_model_1_seed_012 recycle=0 pLDDT=47.2 pTM=0.357
+2024-09-26 08:03:55,952 alphafold2_ptm_model_1_seed_012 recycle=1 pLDDT=79.8 pTM=0.681 tol=3.53
+2024-09-26 08:03:56,358 alphafold2_ptm_model_1_seed_012 recycle=2 pLDDT=84 pTM=0.741 tol=0.709
+2024-09-26 08:03:56,764 alphafold2_ptm_model_1_seed_012 recycle=3 pLDDT=82.5 pTM=0.729 tol=1.31
+2024-09-26 08:03:56,765 alphafold2_ptm_model_1_seed_012 took 1.6s (3 recycles)
+2024-09-26 08:03:57,188 alphafold2_ptm_model_2_seed_012 recycle=0 pLDDT=56.2 pTM=0.456
+2024-09-26 08:03:57,593 alphafold2_ptm_model_2_seed_012 recycle=1 pLDDT=74.2 pTM=0.654 tol=2.6
+2024-09-26 08:03:57,999 alphafold2_ptm_model_2_seed_012 recycle=2 pLDDT=84 pTM=0.752 tol=2.77
+2024-09-26 08:03:58,408 alphafold2_ptm_model_2_seed_012 recycle=3 pLDDT=83.9 pTM=0.757 tol=0.509
+2024-09-26 08:03:58,409 alphafold2_ptm_model_2_seed_012 took 1.6s (3 recycles)
+2024-09-26 08:03:58,835 alphafold2_ptm_model_3_seed_012 recycle=0 pLDDT=59.9 pTM=0.48
+2024-09-26 08:03:59,241 alphafold2_ptm_model_3_seed_012 recycle=1 pLDDT=85.6 pTM=0.741 tol=2.79
+2024-09-26 08:03:59,650 alphafold2_ptm_model_3_seed_012 recycle=2 pLDDT=85.6 pTM=0.764 tol=0.514
+2024-09-26 08:04:00,060 alphafold2_ptm_model_3_seed_012 recycle=3 pLDDT=86.1 pTM=0.776 tol=0.558
+2024-09-26 08:04:00,061 alphafold2_ptm_model_3_seed_012 took 1.6s (3 recycles)
+2024-09-26 08:04:00,488 alphafold2_ptm_model_4_seed_012 recycle=0 pLDDT=61.3 pTM=0.494
+2024-09-26 08:04:00,895 alphafold2_ptm_model_4_seed_012 recycle=1 pLDDT=83.7 pTM=0.735 tol=1.8
+2024-09-26 08:04:01,303 alphafold2_ptm_model_4_seed_012 recycle=2 pLDDT=83.8 pTM=0.746 tol=1.11
+2024-09-26 08:04:01,712 alphafold2_ptm_model_4_seed_012 recycle=3 pLDDT=85.8 pTM=0.767 tol=1.14
+2024-09-26 08:04:01,712 alphafold2_ptm_model_4_seed_012 took 1.6s (3 recycles)
+2024-09-26 08:04:02,139 alphafold2_ptm_model_5_seed_012 recycle=0 pLDDT=61.7 pTM=0.546
+2024-09-26 08:04:02,547 alphafold2_ptm_model_5_seed_012 recycle=1 pLDDT=84.2 pTM=0.757 tol=2.53
+2024-09-26 08:04:02,958 alphafold2_ptm_model_5_seed_012 recycle=2 pLDDT=84.6 pTM=0.767 tol=0.451
+2024-09-26 08:04:03,371 alphafold2_ptm_model_5_seed_012 recycle=3 pLDDT=86.2 pTM=0.788 tol=0.347
+2024-09-26 08:04:03,371 alphafold2_ptm_model_5_seed_012 took 1.6s (3 recycles)
+2024-09-26 08:04:04,964 alphafold2_ptm_model_1_seed_013 recycle=0 pLDDT=53.1 pTM=0.41
+2024-09-26 08:04:05,367 alphafold2_ptm_model_1_seed_013 recycle=1 pLDDT=72.5 pTM=0.584 tol=2.97
+2024-09-26 08:04:05,773 alphafold2_ptm_model_1_seed_013 recycle=2 pLDDT=83 pTM=0.733 tol=0.884
+2024-09-26 08:04:06,180 alphafold2_ptm_model_1_seed_013 recycle=3 pLDDT=84.7 pTM=0.744 tol=0.394
+2024-09-26 08:04:06,180 alphafold2_ptm_model_1_seed_013 took 1.6s (3 recycles)
+2024-09-26 08:04:06,605 alphafold2_ptm_model_2_seed_013 recycle=0 pLDDT=63.3 pTM=0.53
+2024-09-26 08:04:07,011 alphafold2_ptm_model_2_seed_013 recycle=1 pLDDT=82.9 pTM=0.738 tol=1.77
+2024-09-26 08:04:07,417 alphafold2_ptm_model_2_seed_013 recycle=2 pLDDT=81.9 pTM=0.73 tol=0.441
+2024-09-26 08:04:07,824 alphafold2_ptm_model_2_seed_013 recycle=3 pLDDT=83.5 pTM=0.747 tol=0.3
+2024-09-26 08:04:07,824 alphafold2_ptm_model_2_seed_013 took 1.6s (3 recycles)
+2024-09-26 08:04:08,248 alphafold2_ptm_model_3_seed_013 recycle=0 pLDDT=71.2 pTM=0.557
+2024-09-26 08:04:08,657 alphafold2_ptm_model_3_seed_013 recycle=1 pLDDT=84.4 pTM=0.753 tol=1.03
+2024-09-26 08:04:09,064 alphafold2_ptm_model_3_seed_013 recycle=2 pLDDT=85.2 pTM=0.759 tol=1.23
+2024-09-26 08:04:09,471 alphafold2_ptm_model_3_seed_013 recycle=3 pLDDT=84.4 pTM=0.737 tol=0.396
+2024-09-26 08:04:09,471 alphafold2_ptm_model_3_seed_013 took 1.6s (3 recycles)
+2024-09-26 08:04:09,896 alphafold2_ptm_model_4_seed_013 recycle=0 pLDDT=72.6 pTM=0.542
+2024-09-26 08:04:10,303 alphafold2_ptm_model_4_seed_013 recycle=1 pLDDT=84.5 pTM=0.74 tol=0.873
+2024-09-26 08:04:10,711 alphafold2_ptm_model_4_seed_013 recycle=2 pLDDT=88.1 pTM=0.782 tol=0.602
+2024-09-26 08:04:11,122 alphafold2_ptm_model_4_seed_013 recycle=3 pLDDT=89 pTM=0.799 tol=0.147
+2024-09-26 08:04:11,122 alphafold2_ptm_model_4_seed_013 took 1.6s (3 recycles)
+2024-09-26 08:04:11,549 alphafold2_ptm_model_5_seed_013 recycle=0 pLDDT=80.9 pTM=0.675
+2024-09-26 08:04:11,959 alphafold2_ptm_model_5_seed_013 recycle=1 pLDDT=85.5 pTM=0.773 tol=0.984
+2024-09-26 08:04:12,368 alphafold2_ptm_model_5_seed_013 recycle=2 pLDDT=87.2 pTM=0.787 tol=0.617
+2024-09-26 08:04:12,779 alphafold2_ptm_model_5_seed_013 recycle=3 pLDDT=87.4 pTM=0.798 tol=0.238
+2024-09-26 08:04:12,779 alphafold2_ptm_model_5_seed_013 took 1.6s (3 recycles)
+2024-09-26 08:04:14,338 alphafold2_ptm_model_1_seed_014 recycle=0 pLDDT=53.1 pTM=0.433
+2024-09-26 08:04:14,741 alphafold2_ptm_model_1_seed_014 recycle=1 pLDDT=54 pTM=0.423 tol=2.32
+2024-09-26 08:04:15,148 alphafold2_ptm_model_1_seed_014 recycle=2 pLDDT=84.2 pTM=0.742 tol=3.17
+2024-09-26 08:04:15,555 alphafold2_ptm_model_1_seed_014 recycle=3 pLDDT=84.3 pTM=0.746 tol=0.83
+2024-09-26 08:04:15,556 alphafold2_ptm_model_1_seed_014 took 1.6s (3 recycles)
+2024-09-26 08:04:15,980 alphafold2_ptm_model_2_seed_014 recycle=0 pLDDT=54.7 pTM=0.468
+2024-09-26 08:04:16,385 alphafold2_ptm_model_2_seed_014 recycle=1 pLDDT=78.7 pTM=0.682 tol=7.41
+2024-09-26 08:04:16,794 alphafold2_ptm_model_2_seed_014 recycle=2 pLDDT=84.9 pTM=0.771 tol=0.939
+2024-09-26 08:04:17,203 alphafold2_ptm_model_2_seed_014 recycle=3 pLDDT=85.1 pTM=0.764 tol=0.683
+2024-09-26 08:04:17,203 alphafold2_ptm_model_2_seed_014 took 1.6s (3 recycles)
+2024-09-26 08:04:17,627 alphafold2_ptm_model_3_seed_014 recycle=0 pLDDT=69 pTM=0.556
+2024-09-26 08:04:18,036 alphafold2_ptm_model_3_seed_014 recycle=1 pLDDT=85.1 pTM=0.761 tol=1.78
+2024-09-26 08:04:18,448 alphafold2_ptm_model_3_seed_014 recycle=2 pLDDT=86.8 pTM=0.779 tol=0.834
+2024-09-26 08:04:18,858 alphafold2_ptm_model_3_seed_014 recycle=3 pLDDT=88.4 pTM=0.79 tol=0.75
+2024-09-26 08:04:18,858 alphafold2_ptm_model_3_seed_014 took 1.6s (3 recycles)
+2024-09-26 08:04:19,284 alphafold2_ptm_model_4_seed_014 recycle=0 pLDDT=83.5 pTM=0.686
+2024-09-26 08:04:19,693 alphafold2_ptm_model_4_seed_014 recycle=1 pLDDT=85.9 pTM=0.771 tol=0.945
+2024-09-26 08:04:20,103 alphafold2_ptm_model_4_seed_014 recycle=2 pLDDT=87 pTM=0.776 tol=0.705
+2024-09-26 08:04:20,513 alphafold2_ptm_model_4_seed_014 recycle=3 pLDDT=87.1 pTM=0.773 tol=0.188
+2024-09-26 08:04:20,513 alphafold2_ptm_model_4_seed_014 took 1.6s (3 recycles)
+2024-09-26 08:04:20,944 alphafold2_ptm_model_5_seed_014 recycle=0 pLDDT=84.7 pTM=0.752
+2024-09-26 08:04:21,357 alphafold2_ptm_model_5_seed_014 recycle=1 pLDDT=86.6 pTM=0.792 tol=0.561
+2024-09-26 08:04:21,771 alphafold2_ptm_model_5_seed_014 recycle=2 pLDDT=87.4 pTM=0.801 tol=0.684
+2024-09-26 08:04:22,183 alphafold2_ptm_model_5_seed_014 recycle=3 pLDDT=88.2 pTM=0.795 tol=0.273
+2024-09-26 08:04:22,183 alphafold2_ptm_model_5_seed_014 took 1.7s (3 recycles)
+2024-09-26 08:04:23,724 alphafold2_ptm_model_1_seed_015 recycle=0 pLDDT=57.4 pTM=0.454
+2024-09-26 08:04:24,130 alphafold2_ptm_model_1_seed_015 recycle=1 pLDDT=78.8 pTM=0.664 tol=1.36
+2024-09-26 08:04:24,536 alphafold2_ptm_model_1_seed_015 recycle=2 pLDDT=83.3 pTM=0.73 tol=0.693
+2024-09-26 08:04:24,941 alphafold2_ptm_model_1_seed_015 recycle=3 pLDDT=84.1 pTM=0.74 tol=0.373
+2024-09-26 08:04:24,941 alphafold2_ptm_model_1_seed_015 took 1.6s (3 recycles)
+2024-09-26 08:04:25,370 alphafold2_ptm_model_2_seed_015 recycle=0 pLDDT=79.7 pTM=0.682
+2024-09-26 08:04:25,775 alphafold2_ptm_model_2_seed_015 recycle=1 pLDDT=82.9 pTM=0.734 tol=0.623
+2024-09-26 08:04:26,182 alphafold2_ptm_model_2_seed_015 recycle=2 pLDDT=82.4 pTM=0.738 tol=0.342
+2024-09-26 08:04:26,589 alphafold2_ptm_model_2_seed_015 recycle=3 pLDDT=83.6 pTM=0.75 tol=0.312
+2024-09-26 08:04:26,590 alphafold2_ptm_model_2_seed_015 took 1.6s (3 recycles)
+2024-09-26 08:04:27,016 alphafold2_ptm_model_3_seed_015 recycle=0 pLDDT=81.3 pTM=0.685
+2024-09-26 08:04:27,426 alphafold2_ptm_model_3_seed_015 recycle=1 pLDDT=86.6 pTM=0.77 tol=0.708
+2024-09-26 08:04:27,834 alphafold2_ptm_model_3_seed_015 recycle=2 pLDDT=86.2 pTM=0.765 tol=0.278
+2024-09-26 08:04:28,243 alphafold2_ptm_model_3_seed_015 recycle=3 pLDDT=86.7 pTM=0.774 tol=0.293
+2024-09-26 08:04:28,243 alphafold2_ptm_model_3_seed_015 took 1.6s (3 recycles)
+2024-09-26 08:04:28,670 alphafold2_ptm_model_4_seed_015 recycle=0 pLDDT=84.2 pTM=0.723
+2024-09-26 08:04:29,079 alphafold2_ptm_model_4_seed_015 recycle=1 pLDDT=87.8 pTM=0.781 tol=0.617
+2024-09-26 08:04:29,488 alphafold2_ptm_model_4_seed_015 recycle=2 pLDDT=87.2 pTM=0.775 tol=0.297
+2024-09-26 08:04:29,896 alphafold2_ptm_model_4_seed_015 recycle=3 pLDDT=86.8 pTM=0.773 tol=0.266
+2024-09-26 08:04:29,897 alphafold2_ptm_model_4_seed_015 took 1.6s (3 recycles)
+2024-09-26 08:04:30,324 alphafold2_ptm_model_5_seed_015 recycle=0 pLDDT=83.4 pTM=0.729
+2024-09-26 08:04:30,735 alphafold2_ptm_model_5_seed_015 recycle=1 pLDDT=85.9 pTM=0.775 tol=0.654
+2024-09-26 08:04:31,144 alphafold2_ptm_model_5_seed_015 recycle=2 pLDDT=85.2 pTM=0.776 tol=0.639
+2024-09-26 08:04:31,557 alphafold2_ptm_model_5_seed_015 recycle=3 pLDDT=87.4 pTM=0.801 tol=0.329
+2024-09-26 08:04:31,558 alphafold2_ptm_model_5_seed_015 took 1.6s (3 recycles)
+2024-09-26 08:04:33,088 alphafold2_ptm_model_1_seed_016 recycle=0 pLDDT=77.9 pTM=0.655
+2024-09-26 08:04:33,496 alphafold2_ptm_model_1_seed_016 recycle=1 pLDDT=86.9 pTM=0.758 tol=2.55
+2024-09-26 08:04:33,903 alphafold2_ptm_model_1_seed_016 recycle=2 pLDDT=84.1 pTM=0.752 tol=3.11
+2024-09-26 08:04:34,310 alphafold2_ptm_model_1_seed_016 recycle=3 pLDDT=84.2 pTM=0.751 tol=0.687
+2024-09-26 08:04:34,310 alphafold2_ptm_model_1_seed_016 took 1.6s (3 recycles)
+2024-09-26 08:04:34,737 alphafold2_ptm_model_2_seed_016 recycle=0 pLDDT=70.6 pTM=0.591
+2024-09-26 08:04:35,145 alphafold2_ptm_model_2_seed_016 recycle=1 pLDDT=83.5 pTM=0.755 tol=1.32
+2024-09-26 08:04:35,552 alphafold2_ptm_model_2_seed_016 recycle=2 pLDDT=82.6 pTM=0.752 tol=0.666
+2024-09-26 08:04:35,959 alphafold2_ptm_model_2_seed_016 recycle=3 pLDDT=82.8 pTM=0.747 tol=1.47
+2024-09-26 08:04:35,959 alphafold2_ptm_model_2_seed_016 took 1.6s (3 recycles)
+2024-09-26 08:04:36,386 alphafold2_ptm_model_3_seed_016 recycle=0 pLDDT=81.8 pTM=0.687
+2024-09-26 08:04:36,797 alphafold2_ptm_model_3_seed_016 recycle=1 pLDDT=86.9 pTM=0.769 tol=0.786
+2024-09-26 08:04:37,204 alphafold2_ptm_model_3_seed_016 recycle=2 pLDDT=86.1 pTM=0.767 tol=0.417
+2024-09-26 08:04:37,615 alphafold2_ptm_model_3_seed_016 recycle=3 pLDDT=87.5 pTM=0.784 tol=0.72
+2024-09-26 08:04:37,615 alphafold2_ptm_model_3_seed_016 took 1.6s (3 recycles)
+2024-09-26 08:04:38,042 alphafold2_ptm_model_4_seed_016 recycle=0 pLDDT=79.5 pTM=0.676
+2024-09-26 08:04:38,451 alphafold2_ptm_model_4_seed_016 recycle=1 pLDDT=86.2 pTM=0.77 tol=0.746
+2024-09-26 08:04:38,861 alphafold2_ptm_model_4_seed_016 recycle=2 pLDDT=86.8 pTM=0.78 tol=0.471
+2024-09-26 08:04:39,273 alphafold2_ptm_model_4_seed_016 recycle=3 pLDDT=87.2 pTM=0.783 tol=0.387
+2024-09-26 08:04:39,274 alphafold2_ptm_model_4_seed_016 took 1.6s (3 recycles)
+2024-09-26 08:04:39,701 alphafold2_ptm_model_5_seed_016 recycle=0 pLDDT=80.7 pTM=0.695
+2024-09-26 08:04:40,111 alphafold2_ptm_model_5_seed_016 recycle=1 pLDDT=86 pTM=0.781 tol=0.941
+2024-09-26 08:04:40,524 alphafold2_ptm_model_5_seed_016 recycle=2 pLDDT=87.3 pTM=0.801 tol=0.646
+2024-09-26 08:04:40,938 alphafold2_ptm_model_5_seed_016 recycle=3 pLDDT=87.9 pTM=0.8 tol=0.474
+2024-09-26 08:04:40,939 alphafold2_ptm_model_5_seed_016 took 1.6s (3 recycles)
+2024-09-26 08:04:42,521 alphafold2_ptm_model_1_seed_017 recycle=0 pLDDT=59 pTM=0.473
+2024-09-26 08:04:42,927 alphafold2_ptm_model_1_seed_017 recycle=1 pLDDT=80.2 pTM=0.684 tol=3.36
+2024-09-26 08:04:43,334 alphafold2_ptm_model_1_seed_017 recycle=2 pLDDT=84.8 pTM=0.754 tol=2.14
+2024-09-26 08:04:43,742 alphafold2_ptm_model_1_seed_017 recycle=3 pLDDT=85.4 pTM=0.769 tol=1.17
+2024-09-26 08:04:43,742 alphafold2_ptm_model_1_seed_017 took 1.6s (3 recycles)
+2024-09-26 08:04:44,168 alphafold2_ptm_model_2_seed_017 recycle=0 pLDDT=59 pTM=0.498
+2024-09-26 08:04:44,575 alphafold2_ptm_model_2_seed_017 recycle=1 pLDDT=82.8 pTM=0.736 tol=4.62
+2024-09-26 08:04:44,984 alphafold2_ptm_model_2_seed_017 recycle=2 pLDDT=86 pTM=0.779 tol=2.21
+2024-09-26 08:04:45,393 alphafold2_ptm_model_2_seed_017 recycle=3 pLDDT=84.9 pTM=0.768 tol=0.639
+2024-09-26 08:04:45,393 alphafold2_ptm_model_2_seed_017 took 1.6s (3 recycles)
+2024-09-26 08:04:45,817 alphafold2_ptm_model_3_seed_017 recycle=0 pLDDT=63.4 pTM=0.524
+2024-09-26 08:04:46,225 alphafold2_ptm_model_3_seed_017 recycle=1 pLDDT=84.1 pTM=0.741 tol=2.52
+2024-09-26 08:04:46,635 alphafold2_ptm_model_3_seed_017 recycle=2 pLDDT=86.8 pTM=0.784 tol=0.72
+2024-09-26 08:04:47,045 alphafold2_ptm_model_3_seed_017 recycle=3 pLDDT=87.3 pTM=0.792 tol=0.25
+2024-09-26 08:04:47,046 alphafold2_ptm_model_3_seed_017 took 1.6s (3 recycles)
+2024-09-26 08:04:47,470 alphafold2_ptm_model_4_seed_017 recycle=0 pLDDT=69.1 pTM=0.575
+2024-09-26 08:04:47,878 alphafold2_ptm_model_4_seed_017 recycle=1 pLDDT=85.4 pTM=0.764 tol=3.03
+2024-09-26 08:04:48,288 alphafold2_ptm_model_4_seed_017 recycle=2 pLDDT=87.1 pTM=0.78 tol=0.568
+2024-09-26 08:04:48,699 alphafold2_ptm_model_4_seed_017 recycle=3 pLDDT=86.8 pTM=0.787 tol=0.534
+2024-09-26 08:04:48,700 alphafold2_ptm_model_4_seed_017 took 1.6s (3 recycles)
+2024-09-26 08:04:49,125 alphafold2_ptm_model_5_seed_017 recycle=0 pLDDT=73.3 pTM=0.628
+2024-09-26 08:04:49,537 alphafold2_ptm_model_5_seed_017 recycle=1 pLDDT=87.2 pTM=0.794 tol=1.01
+2024-09-26 08:04:49,948 alphafold2_ptm_model_5_seed_017 recycle=2 pLDDT=86.4 pTM=0.785 tol=0.408
+2024-09-26 08:04:50,363 alphafold2_ptm_model_5_seed_017 recycle=3 pLDDT=87.2 pTM=0.803 tol=0.593
+2024-09-26 08:04:50,363 alphafold2_ptm_model_5_seed_017 took 1.6s (3 recycles)
+2024-09-26 08:04:51,867 alphafold2_ptm_model_1_seed_018 recycle=0 pLDDT=68.5 pTM=0.529
+2024-09-26 08:04:52,274 alphafold2_ptm_model_1_seed_018 recycle=1 pLDDT=85.8 pTM=0.758 tol=0.927
+2024-09-26 08:04:52,682 alphafold2_ptm_model_1_seed_018 recycle=2 pLDDT=85.7 pTM=0.765 tol=0.442
+2024-09-26 08:04:53,091 alphafold2_ptm_model_1_seed_018 recycle=3 pLDDT=86.7 pTM=0.777 tol=0.499
+2024-09-26 08:04:53,091 alphafold2_ptm_model_1_seed_018 took 1.6s (3 recycles)
+2024-09-26 08:04:53,517 alphafold2_ptm_model_2_seed_018 recycle=0 pLDDT=65.9 pTM=0.581
+2024-09-26 08:04:53,924 alphafold2_ptm_model_2_seed_018 recycle=1 pLDDT=82.2 pTM=0.74 tol=3.24
+2024-09-26 08:04:54,332 alphafold2_ptm_model_2_seed_018 recycle=2 pLDDT=84 pTM=0.764 tol=0.432
+2024-09-26 08:04:54,741 alphafold2_ptm_model_2_seed_018 recycle=3 pLDDT=84.5 pTM=0.762 tol=2.45
+2024-09-26 08:04:54,741 alphafold2_ptm_model_2_seed_018 took 1.6s (3 recycles)
+2024-09-26 08:04:55,166 alphafold2_ptm_model_3_seed_018 recycle=0 pLDDT=77.8 pTM=0.641
+2024-09-26 08:04:55,574 alphafold2_ptm_model_3_seed_018 recycle=1 pLDDT=85.1 pTM=0.764 tol=0.567
+2024-09-26 08:04:55,983 alphafold2_ptm_model_3_seed_018 recycle=2 pLDDT=85.5 pTM=0.766 tol=0.528
+2024-09-26 08:04:56,395 alphafold2_ptm_model_3_seed_018 recycle=3 pLDDT=88 pTM=0.796 tol=0.355
+2024-09-26 08:04:56,395 alphafold2_ptm_model_3_seed_018 took 1.6s (3 recycles)
+2024-09-26 08:04:56,819 alphafold2_ptm_model_4_seed_018 recycle=0 pLDDT=69.1 pTM=0.575
+2024-09-26 08:04:57,227 alphafold2_ptm_model_4_seed_018 recycle=1 pLDDT=85.1 pTM=0.76 tol=2.15
+2024-09-26 08:04:57,638 alphafold2_ptm_model_4_seed_018 recycle=2 pLDDT=87.2 pTM=0.782 tol=0.469
+2024-09-26 08:04:58,049 alphafold2_ptm_model_4_seed_018 recycle=3 pLDDT=87.5 pTM=0.786 tol=0.201
+2024-09-26 08:04:58,050 alphafold2_ptm_model_4_seed_018 took 1.6s (3 recycles)
+2024-09-26 08:04:58,476 alphafold2_ptm_model_5_seed_018 recycle=0 pLDDT=80.6 pTM=0.698
+2024-09-26 08:04:58,885 alphafold2_ptm_model_5_seed_018 recycle=1 pLDDT=84.8 pTM=0.772 tol=1.24
+2024-09-26 08:04:59,298 alphafold2_ptm_model_5_seed_018 recycle=2 pLDDT=86.9 pTM=0.797 tol=0.515
+2024-09-26 08:04:59,711 alphafold2_ptm_model_5_seed_018 recycle=3 pLDDT=87.7 pTM=0.803 tol=0.163
+2024-09-26 08:04:59,712 alphafold2_ptm_model_5_seed_018 took 1.6s (3 recycles)
+2024-09-26 08:05:01,704 alphafold2_ptm_model_1_seed_019 recycle=0 pLDDT=48.2 pTM=0.374
+2024-09-26 08:05:02,108 alphafold2_ptm_model_1_seed_019 recycle=1 pLDDT=74.5 pTM=0.622 tol=5.71
+2024-09-26 08:05:02,514 alphafold2_ptm_model_1_seed_019 recycle=2 pLDDT=84.2 pTM=0.753 tol=0.687
+2024-09-26 08:05:02,922 alphafold2_ptm_model_1_seed_019 recycle=3 pLDDT=84.8 pTM=0.754 tol=0.392
+2024-09-26 08:05:02,923 alphafold2_ptm_model_1_seed_019 took 1.6s (3 recycles)
+2024-09-26 08:05:03,349 alphafold2_ptm_model_2_seed_019 recycle=0 pLDDT=62.1 pTM=0.541
+2024-09-26 08:05:03,757 alphafold2_ptm_model_2_seed_019 recycle=1 pLDDT=82.8 pTM=0.763 tol=2.59
+2024-09-26 08:05:04,166 alphafold2_ptm_model_2_seed_019 recycle=2 pLDDT=83.9 pTM=0.763 tol=0.793
+2024-09-26 08:05:04,574 alphafold2_ptm_model_2_seed_019 recycle=3 pLDDT=84.9 pTM=0.765 tol=1
+2024-09-26 08:05:04,575 alphafold2_ptm_model_2_seed_019 took 1.6s (3 recycles)
+2024-09-26 08:05:05,004 alphafold2_ptm_model_3_seed_019 recycle=0 pLDDT=80.2 pTM=0.67
+2024-09-26 08:05:05,412 alphafold2_ptm_model_3_seed_019 recycle=1 pLDDT=84.7 pTM=0.756 tol=0.733
+2024-09-26 08:05:05,821 alphafold2_ptm_model_3_seed_019 recycle=2 pLDDT=87 pTM=0.779 tol=0.441
+2024-09-26 08:05:06,232 alphafold2_ptm_model_3_seed_019 recycle=3 pLDDT=87.4 pTM=0.786 tol=0.482
+2024-09-26 08:05:06,232 alphafold2_ptm_model_3_seed_019 took 1.6s (3 recycles)
+2024-09-26 08:05:06,661 alphafold2_ptm_model_4_seed_019 recycle=0 pLDDT=84.9 pTM=0.717
+2024-09-26 08:05:07,070 alphafold2_ptm_model_4_seed_019 recycle=1 pLDDT=87.1 pTM=0.78 tol=0.792
+2024-09-26 08:05:07,480 alphafold2_ptm_model_4_seed_019 recycle=2 pLDDT=87 pTM=0.778 tol=0.42
+2024-09-26 08:05:07,889 alphafold2_ptm_model_4_seed_019 recycle=3 pLDDT=87.1 pTM=0.775 tol=0.269
+2024-09-26 08:05:07,890 alphafold2_ptm_model_4_seed_019 took 1.6s (3 recycles)
+2024-09-26 08:05:08,318 alphafold2_ptm_model_5_seed_019 recycle=0 pLDDT=82.6 pTM=0.724
+2024-09-26 08:05:08,729 alphafold2_ptm_model_5_seed_019 recycle=1 pLDDT=86.1 pTM=0.785 tol=0.719
+2024-09-26 08:05:09,142 alphafold2_ptm_model_5_seed_019 recycle=2 pLDDT=87.6 pTM=0.798 tol=0.646
+2024-09-26 08:05:09,555 alphafold2_ptm_model_5_seed_019 recycle=3 pLDDT=88.6 pTM=0.803 tol=0.281
+2024-09-26 08:05:09,555 alphafold2_ptm_model_5_seed_019 took 1.6s (3 recycles)
+2024-09-26 08:05:11,105 alphafold2_ptm_model_1_seed_020 recycle=0 pLDDT=54.3 pTM=0.459
+2024-09-26 08:05:11,509 alphafold2_ptm_model_1_seed_020 recycle=1 pLDDT=60.4 pTM=0.462 tol=3.68
+2024-09-26 08:05:11,912 alphafold2_ptm_model_1_seed_020 recycle=2 pLDDT=81.6 pTM=0.69 tol=1.35
+2024-09-26 08:05:12,318 alphafold2_ptm_model_1_seed_020 recycle=3 pLDDT=84.3 pTM=0.743 tol=0.332
+2024-09-26 08:05:12,319 alphafold2_ptm_model_1_seed_020 took 1.6s (3 recycles)
+2024-09-26 08:05:12,743 alphafold2_ptm_model_2_seed_020 recycle=0 pLDDT=69.1 pTM=0.58
+2024-09-26 08:05:13,148 alphafold2_ptm_model_2_seed_020 recycle=1 pLDDT=80.3 pTM=0.715 tol=1.51
+2024-09-26 08:05:13,554 alphafold2_ptm_model_2_seed_020 recycle=2 pLDDT=78.4 pTM=0.703 tol=1.63
+2024-09-26 08:05:13,959 alphafold2_ptm_model_2_seed_020 recycle=3 pLDDT=79.5 pTM=0.705 tol=0.79
+2024-09-26 08:05:13,959 alphafold2_ptm_model_2_seed_020 took 1.6s (3 recycles)
+2024-09-26 08:05:14,385 alphafold2_ptm_model_3_seed_020 recycle=0 pLDDT=78.8 pTM=0.65
+2024-09-26 08:05:14,794 alphafold2_ptm_model_3_seed_020 recycle=1 pLDDT=86.4 pTM=0.769 tol=1.25
+2024-09-26 08:05:15,204 alphafold2_ptm_model_3_seed_020 recycle=2 pLDDT=86.4 pTM=0.772 tol=0.319
+2024-09-26 08:05:15,616 alphafold2_ptm_model_3_seed_020 recycle=3 pLDDT=86.9 pTM=0.779 tol=0.327
+2024-09-26 08:05:15,616 alphafold2_ptm_model_3_seed_020 took 1.6s (3 recycles)
+2024-09-26 08:05:16,043 alphafold2_ptm_model_4_seed_020 recycle=0 pLDDT=79 pTM=0.666
+2024-09-26 08:05:16,451 alphafold2_ptm_model_4_seed_020 recycle=1 pLDDT=84.9 pTM=0.752 tol=0.781
+2024-09-26 08:05:16,860 alphafold2_ptm_model_4_seed_020 recycle=2 pLDDT=87.1 pTM=0.774 tol=0.566
+2024-09-26 08:05:17,269 alphafold2_ptm_model_4_seed_020 recycle=3 pLDDT=87.7 pTM=0.788 tol=0.286
+2024-09-26 08:05:17,269 alphafold2_ptm_model_4_seed_020 took 1.6s (3 recycles)
+2024-09-26 08:05:17,695 alphafold2_ptm_model_5_seed_020 recycle=0 pLDDT=81.6 pTM=0.704
+2024-09-26 08:05:18,106 alphafold2_ptm_model_5_seed_020 recycle=1 pLDDT=87.7 pTM=0.797 tol=0.773
+2024-09-26 08:05:18,520 alphafold2_ptm_model_5_seed_020 recycle=2 pLDDT=87.4 pTM=0.804 tol=0.81
+2024-09-26 08:05:18,934 alphafold2_ptm_model_5_seed_020 recycle=3 pLDDT=87.5 pTM=0.798 tol=0.447
+2024-09-26 08:05:18,934 alphafold2_ptm_model_5_seed_020 took 1.6s (3 recycles)
+2024-09-26 08:05:20,468 alphafold2_ptm_model_1_seed_021 recycle=0 pLDDT=56.4 pTM=0.497
+2024-09-26 08:05:20,872 alphafold2_ptm_model_1_seed_021 recycle=1 pLDDT=79.6 pTM=0.654 tol=3.21
+2024-09-26 08:05:21,277 alphafold2_ptm_model_1_seed_021 recycle=2 pLDDT=83.4 pTM=0.737 tol=0.648
+2024-09-26 08:05:21,682 alphafold2_ptm_model_1_seed_021 recycle=3 pLDDT=83 pTM=0.742 tol=0.277
+2024-09-26 08:05:21,683 alphafold2_ptm_model_1_seed_021 took 1.6s (3 recycles)
+2024-09-26 08:05:22,109 alphafold2_ptm_model_2_seed_021 recycle=0 pLDDT=58.1 pTM=0.519
+2024-09-26 08:05:22,516 alphafold2_ptm_model_2_seed_021 recycle=1 pLDDT=80.6 pTM=0.72 tol=3.71
+2024-09-26 08:05:22,923 alphafold2_ptm_model_2_seed_021 recycle=2 pLDDT=83.1 pTM=0.75 tol=2.08
+2024-09-26 08:05:23,330 alphafold2_ptm_model_2_seed_021 recycle=3 pLDDT=83.8 pTM=0.756 tol=0.665
+2024-09-26 08:05:23,331 alphafold2_ptm_model_2_seed_021 took 1.6s (3 recycles)
+2024-09-26 08:05:23,759 alphafold2_ptm_model_3_seed_021 recycle=0 pLDDT=82.9 pTM=0.692
+2024-09-26 08:05:24,168 alphafold2_ptm_model_3_seed_021 recycle=1 pLDDT=85.8 pTM=0.771 tol=0.887
+2024-09-26 08:05:24,576 alphafold2_ptm_model_3_seed_021 recycle=2 pLDDT=85.9 pTM=0.772 tol=0.471
+2024-09-26 08:05:24,986 alphafold2_ptm_model_3_seed_021 recycle=3 pLDDT=86.2 pTM=0.776 tol=0.344
+2024-09-26 08:05:24,986 alphafold2_ptm_model_3_seed_021 took 1.6s (3 recycles)
+2024-09-26 08:05:25,414 alphafold2_ptm_model_4_seed_021 recycle=0 pLDDT=60.6 pTM=0.511
+2024-09-26 08:05:25,822 alphafold2_ptm_model_4_seed_021 recycle=1 pLDDT=85.4 pTM=0.752 tol=2.67
+2024-09-26 08:05:26,231 alphafold2_ptm_model_4_seed_021 recycle=2 pLDDT=86.9 pTM=0.779 tol=0.388
+2024-09-26 08:05:26,639 alphafold2_ptm_model_4_seed_021 recycle=3 pLDDT=86.7 pTM=0.773 tol=0.301
+2024-09-26 08:05:26,639 alphafold2_ptm_model_4_seed_021 took 1.6s (3 recycles)
+2024-09-26 08:05:27,070 alphafold2_ptm_model_5_seed_021 recycle=0 pLDDT=81.7 pTM=0.705
+2024-09-26 08:05:27,480 alphafold2_ptm_model_5_seed_021 recycle=1 pLDDT=85.6 pTM=0.774 tol=0.614
+2024-09-26 08:05:27,891 alphafold2_ptm_model_5_seed_021 recycle=2 pLDDT=87.2 pTM=0.796 tol=0.622
+2024-09-26 08:05:28,302 alphafold2_ptm_model_5_seed_021 recycle=3 pLDDT=86.2 pTM=0.787 tol=0.493
+2024-09-26 08:05:28,302 alphafold2_ptm_model_5_seed_021 took 1.6s (3 recycles)
+2024-09-26 08:05:29,900 alphafold2_ptm_model_1_seed_022 recycle=0 pLDDT=65.3 pTM=0.517
+2024-09-26 08:05:30,305 alphafold2_ptm_model_1_seed_022 recycle=1 pLDDT=82.1 pTM=0.703 tol=4.16
+2024-09-26 08:05:30,712 alphafold2_ptm_model_1_seed_022 recycle=2 pLDDT=86.4 pTM=0.76 tol=0.512
+2024-09-26 08:05:31,120 alphafold2_ptm_model_1_seed_022 recycle=3 pLDDT=86.3 pTM=0.763 tol=0.362
+2024-09-26 08:05:31,121 alphafold2_ptm_model_1_seed_022 took 1.6s (3 recycles)
+2024-09-26 08:05:31,549 alphafold2_ptm_model_2_seed_022 recycle=0 pLDDT=78.6 pTM=0.663
+2024-09-26 08:05:31,958 alphafold2_ptm_model_2_seed_022 recycle=1 pLDDT=86.6 pTM=0.777 tol=1.17
+2024-09-26 08:05:32,367 alphafold2_ptm_model_2_seed_022 recycle=2 pLDDT=86.1 pTM=0.772 tol=0.565
+2024-09-26 08:05:32,776 alphafold2_ptm_model_2_seed_022 recycle=3 pLDDT=85.8 pTM=0.769 tol=0.651
+2024-09-26 08:05:32,776 alphafold2_ptm_model_2_seed_022 took 1.6s (3 recycles)
+2024-09-26 08:05:33,204 alphafold2_ptm_model_3_seed_022 recycle=0 pLDDT=78.9 pTM=0.641
+2024-09-26 08:05:33,613 alphafold2_ptm_model_3_seed_022 recycle=1 pLDDT=86.6 pTM=0.773 tol=0.641
+2024-09-26 08:05:34,026 alphafold2_ptm_model_3_seed_022 recycle=2 pLDDT=88.1 pTM=0.794 tol=0.357
+2024-09-26 08:05:34,438 alphafold2_ptm_model_3_seed_022 recycle=3 pLDDT=88.9 pTM=0.798 tol=0.583
+2024-09-26 08:05:34,439 alphafold2_ptm_model_3_seed_022 took 1.6s (3 recycles)
+2024-09-26 08:05:34,864 alphafold2_ptm_model_4_seed_022 recycle=0 pLDDT=78.7 pTM=0.646
+2024-09-26 08:05:35,273 alphafold2_ptm_model_4_seed_022 recycle=1 pLDDT=87.9 pTM=0.791 tol=0.964
+2024-09-26 08:05:35,684 alphafold2_ptm_model_4_seed_022 recycle=2 pLDDT=87.8 pTM=0.788 tol=0.588
+2024-09-26 08:05:36,095 alphafold2_ptm_model_4_seed_022 recycle=3 pLDDT=89 pTM=0.802 tol=0.506
+2024-09-26 08:05:36,095 alphafold2_ptm_model_4_seed_022 took 1.6s (3 recycles)
+2024-09-26 08:05:36,522 alphafold2_ptm_model_5_seed_022 recycle=0 pLDDT=81.4 pTM=0.703
+2024-09-26 08:05:36,932 alphafold2_ptm_model_5_seed_022 recycle=1 pLDDT=86.7 pTM=0.782 tol=1.01
+2024-09-26 08:05:37,345 alphafold2_ptm_model_5_seed_022 recycle=2 pLDDT=88.1 pTM=0.797 tol=0.454
+2024-09-26 08:05:37,761 alphafold2_ptm_model_5_seed_022 recycle=3 pLDDT=88.9 pTM=0.806 tol=0.252
+2024-09-26 08:05:37,762 alphafold2_ptm_model_5_seed_022 took 1.6s (3 recycles)
+2024-09-26 08:05:39,360 alphafold2_ptm_model_1_seed_023 recycle=0 pLDDT=69.3 pTM=0.534
+2024-09-26 08:05:39,766 alphafold2_ptm_model_1_seed_023 recycle=1 pLDDT=84.1 pTM=0.734 tol=2.92
+2024-09-26 08:05:40,173 alphafold2_ptm_model_1_seed_023 recycle=2 pLDDT=83.1 pTM=0.735 tol=0.534
+2024-09-26 08:05:40,581 alphafold2_ptm_model_1_seed_023 recycle=3 pLDDT=83.8 pTM=0.75 tol=0.81
+2024-09-26 08:05:40,581 alphafold2_ptm_model_1_seed_023 took 1.6s (3 recycles)
+2024-09-26 08:05:41,005 alphafold2_ptm_model_2_seed_023 recycle=0 pLDDT=57.9 pTM=0.49
+2024-09-26 08:05:41,413 alphafold2_ptm_model_2_seed_023 recycle=1 pLDDT=83.2 pTM=0.743 tol=1.57
+2024-09-26 08:05:41,821 alphafold2_ptm_model_2_seed_023 recycle=2 pLDDT=84.2 pTM=0.763 tol=0.64
+2024-09-26 08:05:42,231 alphafold2_ptm_model_2_seed_023 recycle=3 pLDDT=85.4 pTM=0.777 tol=0.904
+2024-09-26 08:05:42,231 alphafold2_ptm_model_2_seed_023 took 1.6s (3 recycles)
+2024-09-26 08:05:42,657 alphafold2_ptm_model_3_seed_023 recycle=0 pLDDT=78.9 pTM=0.646
+2024-09-26 08:05:43,066 alphafold2_ptm_model_3_seed_023 recycle=1 pLDDT=85.9 pTM=0.762 tol=0.617
+2024-09-26 08:05:43,475 alphafold2_ptm_model_3_seed_023 recycle=2 pLDDT=85.9 pTM=0.769 tol=0.664
+2024-09-26 08:05:43,886 alphafold2_ptm_model_3_seed_023 recycle=3 pLDDT=87.8 pTM=0.793 tol=0.373
+2024-09-26 08:05:43,886 alphafold2_ptm_model_3_seed_023 took 1.6s (3 recycles)
+2024-09-26 08:05:44,313 alphafold2_ptm_model_4_seed_023 recycle=0 pLDDT=78.2 pTM=0.651
+2024-09-26 08:05:44,721 alphafold2_ptm_model_4_seed_023 recycle=1 pLDDT=86.6 pTM=0.764 tol=2.12
+2024-09-26 08:05:45,130 alphafold2_ptm_model_4_seed_023 recycle=2 pLDDT=87.9 pTM=0.779 tol=0.287
+2024-09-26 08:05:45,540 alphafold2_ptm_model_4_seed_023 recycle=3 pLDDT=87.2 pTM=0.788 tol=0.339
+2024-09-26 08:05:45,541 alphafold2_ptm_model_4_seed_023 took 1.6s (3 recycles)
+2024-09-26 08:05:45,968 alphafold2_ptm_model_5_seed_023 recycle=0 pLDDT=83.4 pTM=0.717
+2024-09-26 08:05:46,379 alphafold2_ptm_model_5_seed_023 recycle=1 pLDDT=86.4 pTM=0.784 tol=1.12
+2024-09-26 08:05:46,792 alphafold2_ptm_model_5_seed_023 recycle=2 pLDDT=87.9 pTM=0.799 tol=0.406
+2024-09-26 08:05:47,205 alphafold2_ptm_model_5_seed_023 recycle=3 pLDDT=87.1 pTM=0.799 tol=0.478
+2024-09-26 08:05:47,206 alphafold2_ptm_model_5_seed_023 took 1.6s (3 recycles)
+2024-09-26 08:05:48,766 alphafold2_ptm_model_1_seed_024 recycle=0 pLDDT=61.1 pTM=0.513
+2024-09-26 08:05:49,172 alphafold2_ptm_model_1_seed_024 recycle=1 pLDDT=82.9 pTM=0.723 tol=1.45
+2024-09-26 08:05:49,577 alphafold2_ptm_model_1_seed_024 recycle=2 pLDDT=84.2 pTM=0.738 tol=2.88
+2024-09-26 08:05:49,981 alphafold2_ptm_model_1_seed_024 recycle=3 pLDDT=82.9 pTM=0.723 tol=0.446
+2024-09-26 08:05:49,981 alphafold2_ptm_model_1_seed_024 took 1.6s (3 recycles)
+2024-09-26 08:05:50,405 alphafold2_ptm_model_2_seed_024 recycle=0 pLDDT=67 pTM=0.586
+2024-09-26 08:05:50,813 alphafold2_ptm_model_2_seed_024 recycle=1 pLDDT=83.4 pTM=0.746 tol=1.6
+2024-09-26 08:05:51,222 alphafold2_ptm_model_2_seed_024 recycle=2 pLDDT=86.1 pTM=0.787 tol=2.6
+2024-09-26 08:05:51,629 alphafold2_ptm_model_2_seed_024 recycle=3 pLDDT=84.8 pTM=0.771 tol=1.36
+2024-09-26 08:05:51,630 alphafold2_ptm_model_2_seed_024 took 1.6s (3 recycles)
+2024-09-26 08:05:52,054 alphafold2_ptm_model_3_seed_024 recycle=0 pLDDT=67 pTM=0.565
+2024-09-26 08:05:52,462 alphafold2_ptm_model_3_seed_024 recycle=1 pLDDT=84.6 pTM=0.75 tol=3.18
+2024-09-26 08:05:52,871 alphafold2_ptm_model_3_seed_024 recycle=2 pLDDT=85.7 pTM=0.772 tol=0.344
+2024-09-26 08:05:53,279 alphafold2_ptm_model_3_seed_024 recycle=3 pLDDT=86.5 pTM=0.772 tol=0.578
+2024-09-26 08:05:53,280 alphafold2_ptm_model_3_seed_024 took 1.6s (3 recycles)
+2024-09-26 08:05:53,705 alphafold2_ptm_model_4_seed_024 recycle=0 pLDDT=79.5 pTM=0.68
+2024-09-26 08:05:54,115 alphafold2_ptm_model_4_seed_024 recycle=1 pLDDT=86.3 pTM=0.773 tol=0.74
+2024-09-26 08:05:54,524 alphafold2_ptm_model_4_seed_024 recycle=2 pLDDT=86.4 pTM=0.783 tol=0.933
+2024-09-26 08:05:54,931 alphafold2_ptm_model_4_seed_024 recycle=3 pLDDT=86.7 pTM=0.772 tol=0.462
+2024-09-26 08:05:54,932 alphafold2_ptm_model_4_seed_024 took 1.6s (3 recycles)
+2024-09-26 08:05:55,358 alphafold2_ptm_model_5_seed_024 recycle=0 pLDDT=80.2 pTM=0.699
+2024-09-26 08:05:55,771 alphafold2_ptm_model_5_seed_024 recycle=1 pLDDT=86.6 pTM=0.792 tol=0.765
+2024-09-26 08:05:56,183 alphafold2_ptm_model_5_seed_024 recycle=2 pLDDT=86.9 pTM=0.798 tol=0.665
+2024-09-26 08:05:56,593 alphafold2_ptm_model_5_seed_024 recycle=3 pLDDT=86.9 pTM=0.792 tol=0.481
+2024-09-26 08:05:56,593 alphafold2_ptm_model_5_seed_024 took 1.6s (3 recycles)
+2024-09-26 08:05:58,091 alphafold2_ptm_model_1_seed_025 recycle=0 pLDDT=66.9 pTM=0.567
+2024-09-26 08:05:58,498 alphafold2_ptm_model_1_seed_025 recycle=1 pLDDT=83.1 pTM=0.734 tol=3.76
+2024-09-26 08:05:58,908 alphafold2_ptm_model_1_seed_025 recycle=2 pLDDT=85.6 pTM=0.761 tol=0.759
+2024-09-26 08:05:59,315 alphafold2_ptm_model_1_seed_025 recycle=3 pLDDT=85.4 pTM=0.764 tol=0.373
+2024-09-26 08:05:59,316 alphafold2_ptm_model_1_seed_025 took 1.6s (3 recycles)
+2024-09-26 08:05:59,741 alphafold2_ptm_model_2_seed_025 recycle=0 pLDDT=78.4 pTM=0.676
+2024-09-26 08:06:00,147 alphafold2_ptm_model_2_seed_025 recycle=1 pLDDT=81.7 pTM=0.732 tol=0.748
+2024-09-26 08:06:00,554 alphafold2_ptm_model_2_seed_025 recycle=2 pLDDT=82.9 pTM=0.75 tol=2.27
+2024-09-26 08:06:00,962 alphafold2_ptm_model_2_seed_025 recycle=3 pLDDT=84.7 pTM=0.764 tol=0.479
+2024-09-26 08:06:00,962 alphafold2_ptm_model_2_seed_025 took 1.6s (3 recycles)
+2024-09-26 08:06:01,388 alphafold2_ptm_model_3_seed_025 recycle=0 pLDDT=80.6 pTM=0.69
+2024-09-26 08:06:01,797 alphafold2_ptm_model_3_seed_025 recycle=1 pLDDT=86.8 pTM=0.769 tol=0.773
+2024-09-26 08:06:02,209 alphafold2_ptm_model_3_seed_025 recycle=2 pLDDT=90.1 pTM=0.811 tol=0.312
+2024-09-26 08:06:02,619 alphafold2_ptm_model_3_seed_025 recycle=3 pLDDT=88.9 pTM=0.8 tol=0.198
+2024-09-26 08:06:02,620 alphafold2_ptm_model_3_seed_025 took 1.6s (3 recycles)
+2024-09-26 08:06:03,044 alphafold2_ptm_model_4_seed_025 recycle=0 pLDDT=71.2 pTM=0.604
+2024-09-26 08:06:03,454 alphafold2_ptm_model_4_seed_025 recycle=1 pLDDT=86.6 pTM=0.777 tol=1.55
+2024-09-26 08:06:03,864 alphafold2_ptm_model_4_seed_025 recycle=2 pLDDT=86.8 pTM=0.778 tol=1.53
+2024-09-26 08:06:04,274 alphafold2_ptm_model_4_seed_025 recycle=3 pLDDT=87.8 pTM=0.79 tol=1.2
+2024-09-26 08:06:04,275 alphafold2_ptm_model_4_seed_025 took 1.6s (3 recycles)
+2024-09-26 08:06:04,703 alphafold2_ptm_model_5_seed_025 recycle=0 pLDDT=83.1 pTM=0.722
+2024-09-26 08:06:05,111 alphafold2_ptm_model_5_seed_025 recycle=1 pLDDT=86.2 pTM=0.783 tol=0.933
+2024-09-26 08:06:05,525 alphafold2_ptm_model_5_seed_025 recycle=2 pLDDT=88.2 pTM=0.807 tol=0.316
+2024-09-26 08:06:05,937 alphafold2_ptm_model_5_seed_025 recycle=3 pLDDT=88.1 pTM=0.81 tol=0.201
+2024-09-26 08:06:05,938 alphafold2_ptm_model_5_seed_025 took 1.6s (3 recycles)
+2024-09-26 08:06:07,453 alphafold2_ptm_model_1_seed_026 recycle=0 pLDDT=71.1 pTM=0.583
+2024-09-26 08:06:07,860 alphafold2_ptm_model_1_seed_026 recycle=1 pLDDT=85.2 pTM=0.757 tol=1.4
+2024-09-26 08:06:08,268 alphafold2_ptm_model_1_seed_026 recycle=2 pLDDT=86.6 pTM=0.773 tol=0.278
+2024-09-26 08:06:08,675 alphafold2_ptm_model_1_seed_026 recycle=3 pLDDT=86.1 pTM=0.77 tol=0.238
+2024-09-26 08:06:08,676 alphafold2_ptm_model_1_seed_026 took 1.6s (3 recycles)
+2024-09-26 08:06:09,100 alphafold2_ptm_model_2_seed_026 recycle=0 pLDDT=75.3 pTM=0.622
+2024-09-26 08:06:09,507 alphafold2_ptm_model_2_seed_026 recycle=1 pLDDT=84.4 pTM=0.76 tol=0.909
+2024-09-26 08:06:09,917 alphafold2_ptm_model_2_seed_026 recycle=2 pLDDT=87 pTM=0.783 tol=0.62
+2024-09-26 08:06:10,326 alphafold2_ptm_model_2_seed_026 recycle=3 pLDDT=86.6 pTM=0.782 tol=0.288
+2024-09-26 08:06:10,326 alphafold2_ptm_model_2_seed_026 took 1.6s (3 recycles)
+2024-09-26 08:06:10,750 alphafold2_ptm_model_3_seed_026 recycle=0 pLDDT=74.9 pTM=0.618
+2024-09-26 08:06:11,161 alphafold2_ptm_model_3_seed_026 recycle=1 pLDDT=88 pTM=0.787 tol=1.08
+2024-09-26 08:06:11,573 alphafold2_ptm_model_3_seed_026 recycle=2 pLDDT=88.5 pTM=0.802 tol=0.731
+2024-09-26 08:06:11,984 alphafold2_ptm_model_3_seed_026 recycle=3 pLDDT=88.6 pTM=0.803 tol=0.454
+2024-09-26 08:06:11,985 alphafold2_ptm_model_3_seed_026 took 1.6s (3 recycles)
+2024-09-26 08:06:12,411 alphafold2_ptm_model_4_seed_026 recycle=0 pLDDT=80.1 pTM=0.668
+2024-09-26 08:06:12,820 alphafold2_ptm_model_4_seed_026 recycle=1 pLDDT=86.8 pTM=0.774 tol=1.03
+2024-09-26 08:06:13,232 alphafold2_ptm_model_4_seed_026 recycle=2 pLDDT=88.2 pTM=0.792 tol=0.432
+2024-09-26 08:06:13,642 alphafold2_ptm_model_4_seed_026 recycle=3 pLDDT=87.8 pTM=0.79 tol=0.403
+2024-09-26 08:06:13,643 alphafold2_ptm_model_4_seed_026 took 1.6s (3 recycles)
+2024-09-26 08:06:14,073 alphafold2_ptm_model_5_seed_026 recycle=0 pLDDT=77.2 pTM=0.656
+2024-09-26 08:06:14,483 alphafold2_ptm_model_5_seed_026 recycle=1 pLDDT=86 pTM=0.779 tol=1.19
+2024-09-26 08:06:14,896 alphafold2_ptm_model_5_seed_026 recycle=2 pLDDT=88.2 pTM=0.808 tol=0.512
+2024-09-26 08:06:15,309 alphafold2_ptm_model_5_seed_026 recycle=3 pLDDT=88.2 pTM=0.807 tol=0.259
+2024-09-26 08:06:15,310 alphafold2_ptm_model_5_seed_026 took 1.6s (3 recycles)
+2024-09-26 08:06:16,886 alphafold2_ptm_model_1_seed_027 recycle=0 pLDDT=75.5 pTM=0.618
+2024-09-26 08:06:17,291 alphafold2_ptm_model_1_seed_027 recycle=1 pLDDT=83.2 pTM=0.724 tol=1.31
+2024-09-26 08:06:17,696 alphafold2_ptm_model_1_seed_027 recycle=2 pLDDT=84.1 pTM=0.744 tol=0.328
+2024-09-26 08:06:18,099 alphafold2_ptm_model_1_seed_027 recycle=3 pLDDT=78.9 pTM=0.665 tol=0.364
+2024-09-26 08:06:18,099 alphafold2_ptm_model_1_seed_027 took 1.6s (3 recycles)
+2024-09-26 08:06:18,525 alphafold2_ptm_model_2_seed_027 recycle=0 pLDDT=78.9 pTM=0.681
+2024-09-26 08:06:18,930 alphafold2_ptm_model_2_seed_027 recycle=1 pLDDT=79.4 pTM=0.716 tol=0.714
+2024-09-26 08:06:19,338 alphafold2_ptm_model_2_seed_027 recycle=2 pLDDT=84.3 pTM=0.759 tol=0.502
+2024-09-26 08:06:19,741 alphafold2_ptm_model_2_seed_027 recycle=3 pLDDT=79 pTM=0.689 tol=0.42
+2024-09-26 08:06:19,742 alphafold2_ptm_model_2_seed_027 took 1.6s (3 recycles)
+2024-09-26 08:06:20,168 alphafold2_ptm_model_3_seed_027 recycle=0 pLDDT=81.6 pTM=0.694
+2024-09-26 08:06:20,576 alphafold2_ptm_model_3_seed_027 recycle=1 pLDDT=84.4 pTM=0.76 tol=1.7
+2024-09-26 08:06:20,984 alphafold2_ptm_model_3_seed_027 recycle=2 pLDDT=85.6 pTM=0.767 tol=1.56
+2024-09-26 08:06:21,392 alphafold2_ptm_model_3_seed_027 recycle=3 pLDDT=85.1 pTM=0.762 tol=0.301
+2024-09-26 08:06:21,393 alphafold2_ptm_model_3_seed_027 took 1.6s (3 recycles)
+2024-09-26 08:06:21,819 alphafold2_ptm_model_4_seed_027 recycle=0 pLDDT=82.6 pTM=0.715
+2024-09-26 08:06:22,227 alphafold2_ptm_model_4_seed_027 recycle=1 pLDDT=85.4 pTM=0.766 tol=1.05
+2024-09-26 08:06:22,638 alphafold2_ptm_model_4_seed_027 recycle=2 pLDDT=88.8 pTM=0.797 tol=0.793
+2024-09-26 08:06:23,048 alphafold2_ptm_model_4_seed_027 recycle=3 pLDDT=87.1 pTM=0.781 tol=0.572
+2024-09-26 08:06:23,048 alphafold2_ptm_model_4_seed_027 took 1.6s (3 recycles)
+2024-09-26 08:06:23,477 alphafold2_ptm_model_5_seed_027 recycle=0 pLDDT=83.2 pTM=0.744
+2024-09-26 08:06:23,886 alphafold2_ptm_model_5_seed_027 recycle=1 pLDDT=87 pTM=0.786 tol=0.919
+2024-09-26 08:06:24,299 alphafold2_ptm_model_5_seed_027 recycle=2 pLDDT=88.1 pTM=0.812 tol=0.204
+2024-09-26 08:06:24,712 alphafold2_ptm_model_5_seed_027 recycle=3 pLDDT=87.6 pTM=0.801 tol=0.18
+2024-09-26 08:06:24,712 alphafold2_ptm_model_5_seed_027 took 1.6s (3 recycles)
+2024-09-26 08:06:26,782 alphafold2_ptm_model_1_seed_028 recycle=0 pLDDT=33.2 pTM=0.23
+2024-09-26 08:06:27,186 alphafold2_ptm_model_1_seed_028 recycle=1 pLDDT=70.6 pTM=0.542 tol=6.13
+2024-09-26 08:06:27,590 alphafold2_ptm_model_1_seed_028 recycle=2 pLDDT=82.4 pTM=0.717 tol=0.766
+2024-09-26 08:06:27,996 alphafold2_ptm_model_1_seed_028 recycle=3 pLDDT=84.1 pTM=0.745 tol=0.74
+2024-09-26 08:06:27,997 alphafold2_ptm_model_1_seed_028 took 1.6s (3 recycles)
+2024-09-26 08:06:28,421 alphafold2_ptm_model_2_seed_028 recycle=0 pLDDT=36 pTM=0.273
+2024-09-26 08:06:28,825 alphafold2_ptm_model_2_seed_028 recycle=1 pLDDT=74.9 pTM=0.631 tol=4.71
+2024-09-26 08:06:29,230 alphafold2_ptm_model_2_seed_028 recycle=2 pLDDT=80.1 pTM=0.721 tol=2.02
+2024-09-26 08:06:29,637 alphafold2_ptm_model_2_seed_028 recycle=3 pLDDT=83.2 pTM=0.751 tol=1.2
+2024-09-26 08:06:29,637 alphafold2_ptm_model_2_seed_028 took 1.6s (3 recycles)
+2024-09-26 08:06:30,064 alphafold2_ptm_model_3_seed_028 recycle=0 pLDDT=68.6 pTM=0.52
+2024-09-26 08:06:30,471 alphafold2_ptm_model_3_seed_028 recycle=1 pLDDT=84.1 pTM=0.749 tol=1.9
+2024-09-26 08:06:30,880 alphafold2_ptm_model_3_seed_028 recycle=2 pLDDT=86.7 pTM=0.772 tol=1.12
+2024-09-26 08:06:31,290 alphafold2_ptm_model_3_seed_028 recycle=3 pLDDT=87.6 pTM=0.781 tol=0.217
+2024-09-26 08:06:31,290 alphafold2_ptm_model_3_seed_028 took 1.6s (3 recycles)
+2024-09-26 08:06:31,715 alphafold2_ptm_model_4_seed_028 recycle=0 pLDDT=75.3 pTM=0.623
+2024-09-26 08:06:32,124 alphafold2_ptm_model_4_seed_028 recycle=1 pLDDT=86 pTM=0.774 tol=1.08
+2024-09-26 08:06:32,532 alphafold2_ptm_model_4_seed_028 recycle=2 pLDDT=85.4 pTM=0.76 tol=0.533
+2024-09-26 08:06:32,941 alphafold2_ptm_model_4_seed_028 recycle=3 pLDDT=85.9 pTM=0.771 tol=0.464
+2024-09-26 08:06:32,942 alphafold2_ptm_model_4_seed_028 took 1.6s (3 recycles)
+2024-09-26 08:06:33,368 alphafold2_ptm_model_5_seed_028 recycle=0 pLDDT=72.3 pTM=0.593
+2024-09-26 08:06:33,778 alphafold2_ptm_model_5_seed_028 recycle=1 pLDDT=84.8 pTM=0.771 tol=0.865
+2024-09-26 08:06:34,187 alphafold2_ptm_model_5_seed_028 recycle=2 pLDDT=84.6 pTM=0.765 tol=0.64
+2024-09-26 08:06:34,599 alphafold2_ptm_model_5_seed_028 recycle=3 pLDDT=86.7 pTM=0.791 tol=0.319
+2024-09-26 08:06:34,599 alphafold2_ptm_model_5_seed_028 took 1.6s (3 recycles)
+2024-09-26 08:06:36,210 alphafold2_ptm_model_1_seed_029 recycle=0 pLDDT=55.2 pTM=0.411
+2024-09-26 08:06:36,614 alphafold2_ptm_model_1_seed_029 recycle=1 pLDDT=80.4 pTM=0.703 tol=2.39
+2024-09-26 08:06:37,019 alphafold2_ptm_model_1_seed_029 recycle=2 pLDDT=84.3 pTM=0.735 tol=0.876
+2024-09-26 08:06:37,425 alphafold2_ptm_model_1_seed_029 recycle=3 pLDDT=83.9 pTM=0.736 tol=0.731
+2024-09-26 08:06:37,425 alphafold2_ptm_model_1_seed_029 took 1.6s (3 recycles)
+2024-09-26 08:06:37,853 alphafold2_ptm_model_2_seed_029 recycle=0 pLDDT=73.2 pTM=0.614
+2024-09-26 08:06:38,262 alphafold2_ptm_model_2_seed_029 recycle=1 pLDDT=84.7 pTM=0.761 tol=1.09
+2024-09-26 08:06:38,669 alphafold2_ptm_model_2_seed_029 recycle=2 pLDDT=83.2 pTM=0.753 tol=0.643
+2024-09-26 08:06:39,077 alphafold2_ptm_model_2_seed_029 recycle=3 pLDDT=84.2 pTM=0.762 tol=0.485
+2024-09-26 08:06:39,078 alphafold2_ptm_model_2_seed_029 took 1.6s (3 recycles)
+2024-09-26 08:06:39,503 alphafold2_ptm_model_3_seed_029 recycle=0 pLDDT=78.1 pTM=0.645
+2024-09-26 08:06:39,913 alphafold2_ptm_model_3_seed_029 recycle=1 pLDDT=87.6 pTM=0.789 tol=1.19
+2024-09-26 08:06:40,323 alphafold2_ptm_model_3_seed_029 recycle=2 pLDDT=87.9 pTM=0.782 tol=0.425
+2024-09-26 08:06:40,734 alphafold2_ptm_model_3_seed_029 recycle=3 pLDDT=87.8 pTM=0.785 tol=0.698
+2024-09-26 08:06:40,734 alphafold2_ptm_model_3_seed_029 took 1.6s (3 recycles)
+2024-09-26 08:06:41,159 alphafold2_ptm_model_4_seed_029 recycle=0 pLDDT=76.6 pTM=0.621
+2024-09-26 08:06:41,568 alphafold2_ptm_model_4_seed_029 recycle=1 pLDDT=85.6 pTM=0.762 tol=0.535
+2024-09-26 08:06:41,976 alphafold2_ptm_model_4_seed_029 recycle=2 pLDDT=86.1 pTM=0.765 tol=0.288
+2024-09-26 08:06:42,385 alphafold2_ptm_model_4_seed_029 recycle=3 pLDDT=88.9 pTM=0.795 tol=0.614
+2024-09-26 08:06:42,386 alphafold2_ptm_model_4_seed_029 took 1.6s (3 recycles)
+2024-09-26 08:06:42,812 alphafold2_ptm_model_5_seed_029 recycle=0 pLDDT=78.4 pTM=0.67
+2024-09-26 08:06:43,224 alphafold2_ptm_model_5_seed_029 recycle=1 pLDDT=85.7 pTM=0.778 tol=1
+2024-09-26 08:06:43,637 alphafold2_ptm_model_5_seed_029 recycle=2 pLDDT=87.1 pTM=0.789 tol=0.644
+2024-09-26 08:06:44,049 alphafold2_ptm_model_5_seed_029 recycle=3 pLDDT=86.7 pTM=0.782 tol=0.663
+2024-09-26 08:06:44,049 alphafold2_ptm_model_5_seed_029 took 1.6s (3 recycles)
+2024-09-26 08:06:45,639 alphafold2_ptm_model_1_seed_030 recycle=0 pLDDT=61.2 pTM=0.469
+2024-09-26 08:06:46,043 alphafold2_ptm_model_1_seed_030 recycle=1 pLDDT=62.6 pTM=0.487 tol=2.26
+2024-09-26 08:06:46,446 alphafold2_ptm_model_1_seed_030 recycle=2 pLDDT=61.8 pTM=0.495 tol=0.864
+2024-09-26 08:06:46,850 alphafold2_ptm_model_1_seed_030 recycle=3 pLDDT=81.6 pTM=0.698 tol=3.46
+2024-09-26 08:06:46,850 alphafold2_ptm_model_1_seed_030 took 1.6s (3 recycles)
+2024-09-26 08:06:47,274 alphafold2_ptm_model_2_seed_030 recycle=0 pLDDT=57.3 pTM=0.477
+2024-09-26 08:06:47,680 alphafold2_ptm_model_2_seed_030 recycle=1 pLDDT=78.1 pTM=0.682 tol=3.63
+2024-09-26 08:06:48,088 alphafold2_ptm_model_2_seed_030 recycle=2 pLDDT=84.4 pTM=0.752 tol=1.3
+2024-09-26 08:06:48,496 alphafold2_ptm_model_2_seed_030 recycle=3 pLDDT=85.4 pTM=0.764 tol=0.375
+2024-09-26 08:06:48,496 alphafold2_ptm_model_2_seed_030 took 1.6s (3 recycles)
+2024-09-26 08:06:48,919 alphafold2_ptm_model_3_seed_030 recycle=0 pLDDT=68.3 pTM=0.551
+2024-09-26 08:06:49,326 alphafold2_ptm_model_3_seed_030 recycle=1 pLDDT=84.6 pTM=0.745 tol=1.45
+2024-09-26 08:06:49,737 alphafold2_ptm_model_3_seed_030 recycle=2 pLDDT=86.2 pTM=0.775 tol=0.546
+2024-09-26 08:06:50,146 alphafold2_ptm_model_3_seed_030 recycle=3 pLDDT=87.2 pTM=0.777 tol=0.467
+2024-09-26 08:06:50,147 alphafold2_ptm_model_3_seed_030 took 1.6s (3 recycles)
+2024-09-26 08:06:50,572 alphafold2_ptm_model_4_seed_030 recycle=0 pLDDT=73.3 pTM=0.583
+2024-09-26 08:06:50,981 alphafold2_ptm_model_4_seed_030 recycle=1 pLDDT=87.9 pTM=0.778 tol=1.19
+2024-09-26 08:06:51,392 alphafold2_ptm_model_4_seed_030 recycle=2 pLDDT=87 pTM=0.781 tol=0.607
+2024-09-26 08:06:51,801 alphafold2_ptm_model_4_seed_030 recycle=3 pLDDT=86.6 pTM=0.767 tol=0.569
+2024-09-26 08:06:51,801 alphafold2_ptm_model_4_seed_030 took 1.6s (3 recycles)
+2024-09-26 08:06:52,227 alphafold2_ptm_model_5_seed_030 recycle=0 pLDDT=76.7 pTM=0.648
+2024-09-26 08:06:52,635 alphafold2_ptm_model_5_seed_030 recycle=1 pLDDT=86.6 pTM=0.771 tol=1.5
+2024-09-26 08:06:53,046 alphafold2_ptm_model_5_seed_030 recycle=2 pLDDT=86.3 pTM=0.779 tol=0.833
+2024-09-26 08:06:53,456 alphafold2_ptm_model_5_seed_030 recycle=3 pLDDT=87.3 pTM=0.787 tol=0.753
+2024-09-26 08:06:53,456 alphafold2_ptm_model_5_seed_030 took 1.6s (3 recycles)
+2024-09-26 08:06:55,024 alphafold2_ptm_model_1_seed_031 recycle=0 pLDDT=55.9 pTM=0.424
+2024-09-26 08:06:55,429 alphafold2_ptm_model_1_seed_031 recycle=1 pLDDT=81.9 pTM=0.709 tol=1.48
+2024-09-26 08:06:55,835 alphafold2_ptm_model_1_seed_031 recycle=2 pLDDT=83.4 pTM=0.731 tol=0.304
+2024-09-26 08:06:56,242 alphafold2_ptm_model_1_seed_031 recycle=3 pLDDT=83.4 pTM=0.748 tol=1.27
+2024-09-26 08:06:56,242 alphafold2_ptm_model_1_seed_031 took 1.6s (3 recycles)
+2024-09-26 08:06:56,669 alphafold2_ptm_model_2_seed_031 recycle=0 pLDDT=40.1 pTM=0.328
+2024-09-26 08:06:57,075 alphafold2_ptm_model_2_seed_031 recycle=1 pLDDT=73 pTM=0.646 tol=6.01
+2024-09-26 08:06:57,481 alphafold2_ptm_model_2_seed_031 recycle=2 pLDDT=82.6 pTM=0.737 tol=2.36
+2024-09-26 08:06:57,890 alphafold2_ptm_model_2_seed_031 recycle=3 pLDDT=82.9 pTM=0.751 tol=0.616
+2024-09-26 08:06:57,890 alphafold2_ptm_model_2_seed_031 took 1.6s (3 recycles)
+2024-09-26 08:06:58,316 alphafold2_ptm_model_3_seed_031 recycle=0 pLDDT=74.3 pTM=0.586
+2024-09-26 08:06:58,723 alphafold2_ptm_model_3_seed_031 recycle=1 pLDDT=85.2 pTM=0.765 tol=1.59
+2024-09-26 08:06:59,134 alphafold2_ptm_model_3_seed_031 recycle=2 pLDDT=86.8 pTM=0.774 tol=0.514
+2024-09-26 08:06:59,543 alphafold2_ptm_model_3_seed_031 recycle=3 pLDDT=86.8 pTM=0.782 tol=0.374
+2024-09-26 08:06:59,543 alphafold2_ptm_model_3_seed_031 took 1.6s (3 recycles)
+2024-09-26 08:06:59,967 alphafold2_ptm_model_4_seed_031 recycle=0 pLDDT=49.5 pTM=0.384
+2024-09-26 08:07:00,374 alphafold2_ptm_model_4_seed_031 recycle=1 pLDDT=83.7 pTM=0.72 tol=6.86
+2024-09-26 08:07:00,783 alphafold2_ptm_model_4_seed_031 recycle=2 pLDDT=86.2 pTM=0.767 tol=0.689
+2024-09-26 08:07:01,192 alphafold2_ptm_model_4_seed_031 recycle=3 pLDDT=86.6 pTM=0.779 tol=0.443
+2024-09-26 08:07:01,193 alphafold2_ptm_model_4_seed_031 took 1.6s (3 recycles)
+2024-09-26 08:07:01,618 alphafold2_ptm_model_5_seed_031 recycle=0 pLDDT=73.5 pTM=0.601
+2024-09-26 08:07:02,027 alphafold2_ptm_model_5_seed_031 recycle=1 pLDDT=85.1 pTM=0.773 tol=1.05
+2024-09-26 08:07:02,437 alphafold2_ptm_model_5_seed_031 recycle=2 pLDDT=86.1 pTM=0.786 tol=0.49
+2024-09-26 08:07:02,848 alphafold2_ptm_model_5_seed_031 recycle=3 pLDDT=85.2 pTM=0.777 tol=0.357
+2024-09-26 08:07:02,849 alphafold2_ptm_model_5_seed_031 took 1.6s (3 recycles)
+2024-09-26 08:07:04,406 alphafold2_ptm_model_1_seed_032 recycle=0 pLDDT=76.7 pTM=0.63
+2024-09-26 08:07:04,812 alphafold2_ptm_model_1_seed_032 recycle=1 pLDDT=84.5 pTM=0.747 tol=1.11
+2024-09-26 08:07:05,220 alphafold2_ptm_model_1_seed_032 recycle=2 pLDDT=85.8 pTM=0.759 tol=0.404
+2024-09-26 08:07:05,627 alphafold2_ptm_model_1_seed_032 recycle=3 pLDDT=84.5 pTM=0.752 tol=0.326
+2024-09-26 08:07:05,627 alphafold2_ptm_model_1_seed_032 took 1.6s (3 recycles)
+2024-09-26 08:07:06,057 alphafold2_ptm_model_2_seed_032 recycle=0 pLDDT=80.6 pTM=0.663
+2024-09-26 08:07:06,464 alphafold2_ptm_model_2_seed_032 recycle=1 pLDDT=83.6 pTM=0.751 tol=1.47
+2024-09-26 08:07:06,873 alphafold2_ptm_model_2_seed_032 recycle=2 pLDDT=85.2 pTM=0.765 tol=1.59
+2024-09-26 08:07:07,282 alphafold2_ptm_model_2_seed_032 recycle=3 pLDDT=84.9 pTM=0.77 tol=1.6
+2024-09-26 08:07:07,283 alphafold2_ptm_model_2_seed_032 took 1.6s (3 recycles)
+2024-09-26 08:07:07,709 alphafold2_ptm_model_3_seed_032 recycle=0 pLDDT=76.5 pTM=0.636
+2024-09-26 08:07:08,117 alphafold2_ptm_model_3_seed_032 recycle=1 pLDDT=85.3 pTM=0.761 tol=0.8
+2024-09-26 08:07:08,527 alphafold2_ptm_model_3_seed_032 recycle=2 pLDDT=86.4 pTM=0.775 tol=0.602
+2024-09-26 08:07:08,939 alphafold2_ptm_model_3_seed_032 recycle=3 pLDDT=87.4 pTM=0.786 tol=0.364
+2024-09-26 08:07:08,940 alphafold2_ptm_model_3_seed_032 took 1.6s (3 recycles)
+2024-09-26 08:07:09,368 alphafold2_ptm_model_4_seed_032 recycle=0 pLDDT=78.8 pTM=0.656
+2024-09-26 08:07:09,778 alphafold2_ptm_model_4_seed_032 recycle=1 pLDDT=86.4 pTM=0.777 tol=1.3
+2024-09-26 08:07:10,188 alphafold2_ptm_model_4_seed_032 recycle=2 pLDDT=88.4 pTM=0.788 tol=0.576
+2024-09-26 08:07:10,600 alphafold2_ptm_model_4_seed_032 recycle=3 pLDDT=88.2 pTM=0.795 tol=0.208
+2024-09-26 08:07:10,600 alphafold2_ptm_model_4_seed_032 took 1.6s (3 recycles)
+2024-09-26 08:07:11,028 alphafold2_ptm_model_5_seed_032 recycle=0 pLDDT=81.2 pTM=0.71
+2024-09-26 08:07:11,439 alphafold2_ptm_model_5_seed_032 recycle=1 pLDDT=84.6 pTM=0.771 tol=0.716
+2024-09-26 08:07:11,852 alphafold2_ptm_model_5_seed_032 recycle=2 pLDDT=87.4 pTM=0.792 tol=0.397
+2024-09-26 08:07:12,266 alphafold2_ptm_model_5_seed_032 recycle=3 pLDDT=88 pTM=0.805 tol=0.388
+2024-09-26 08:07:12,267 alphafold2_ptm_model_5_seed_032 took 1.6s (3 recycles)
+2024-09-26 08:07:13,843 alphafold2_ptm_model_1_seed_033 recycle=0 pLDDT=77.4 pTM=0.657
+2024-09-26 08:07:14,248 alphafold2_ptm_model_1_seed_033 recycle=1 pLDDT=83.1 pTM=0.718 tol=0.924
+2024-09-26 08:07:14,655 alphafold2_ptm_model_1_seed_033 recycle=2 pLDDT=84.4 pTM=0.747 tol=0.289
+2024-09-26 08:07:15,063 alphafold2_ptm_model_1_seed_033 recycle=3 pLDDT=86.1 pTM=0.763 tol=0.188
+2024-09-26 08:07:15,063 alphafold2_ptm_model_1_seed_033 took 1.6s (3 recycles)
+2024-09-26 08:07:15,489 alphafold2_ptm_model_2_seed_033 recycle=0 pLDDT=78.1 pTM=0.676
+2024-09-26 08:07:15,895 alphafold2_ptm_model_2_seed_033 recycle=1 pLDDT=82.4 pTM=0.734 tol=0.871
+2024-09-26 08:07:16,302 alphafold2_ptm_model_2_seed_033 recycle=2 pLDDT=84.1 pTM=0.76 tol=0.592
+2024-09-26 08:07:16,711 alphafold2_ptm_model_2_seed_033 recycle=3 pLDDT=86.3 pTM=0.778 tol=0.448
+2024-09-26 08:07:16,711 alphafold2_ptm_model_2_seed_033 took 1.6s (3 recycles)
+2024-09-26 08:07:17,138 alphafold2_ptm_model_3_seed_033 recycle=0 pLDDT=82.1 pTM=0.686
+2024-09-26 08:07:17,545 alphafold2_ptm_model_3_seed_033 recycle=1 pLDDT=84.2 pTM=0.742 tol=0.604
+2024-09-26 08:07:17,955 alphafold2_ptm_model_3_seed_033 recycle=2 pLDDT=87.6 pTM=0.787 tol=0.471
+2024-09-26 08:07:18,364 alphafold2_ptm_model_3_seed_033 recycle=3 pLDDT=87.8 pTM=0.785 tol=0.345
+2024-09-26 08:07:18,365 alphafold2_ptm_model_3_seed_033 took 1.6s (3 recycles)
+2024-09-26 08:07:18,793 alphafold2_ptm_model_4_seed_033 recycle=0 pLDDT=82.1 pTM=0.7
+2024-09-26 08:07:19,200 alphafold2_ptm_model_4_seed_033 recycle=1 pLDDT=84.9 pTM=0.743 tol=2.19
+2024-09-26 08:07:19,609 alphafold2_ptm_model_4_seed_033 recycle=2 pLDDT=85.4 pTM=0.767 tol=0.337
+2024-09-26 08:07:20,019 alphafold2_ptm_model_4_seed_033 recycle=3 pLDDT=86.6 pTM=0.777 tol=2.1
+2024-09-26 08:07:20,020 alphafold2_ptm_model_4_seed_033 took 1.6s (3 recycles)
+2024-09-26 08:07:20,446 alphafold2_ptm_model_5_seed_033 recycle=0 pLDDT=80.4 pTM=0.681
+2024-09-26 08:07:20,854 alphafold2_ptm_model_5_seed_033 recycle=1 pLDDT=83.4 pTM=0.756 tol=0.758
+2024-09-26 08:07:21,266 alphafold2_ptm_model_5_seed_033 recycle=2 pLDDT=88.1 pTM=0.807 tol=0.482
+2024-09-26 08:07:21,677 alphafold2_ptm_model_5_seed_033 recycle=3 pLDDT=86.9 pTM=0.788 tol=0.388
+2024-09-26 08:07:21,677 alphafold2_ptm_model_5_seed_033 took 1.6s (3 recycles)
+2024-09-26 08:07:23,236 alphafold2_ptm_model_1_seed_034 recycle=0 pLDDT=36.6 pTM=0.255
+2024-09-26 08:07:23,641 alphafold2_ptm_model_1_seed_034 recycle=1 pLDDT=75.4 pTM=0.638 tol=4.94
+2024-09-26 08:07:24,047 alphafold2_ptm_model_1_seed_034 recycle=2 pLDDT=84.9 pTM=0.746 tol=0.966
+2024-09-26 08:07:24,454 alphafold2_ptm_model_1_seed_034 recycle=3 pLDDT=86 pTM=0.762 tol=0.7
+2024-09-26 08:07:24,455 alphafold2_ptm_model_1_seed_034 took 1.6s (3 recycles)
+2024-09-26 08:07:24,879 alphafold2_ptm_model_2_seed_034 recycle=0 pLDDT=59.3 pTM=0.479
+2024-09-26 08:07:25,284 alphafold2_ptm_model_2_seed_034 recycle=1 pLDDT=78.5 pTM=0.685 tol=4.07
+2024-09-26 08:07:25,691 alphafold2_ptm_model_2_seed_034 recycle=2 pLDDT=85.6 pTM=0.756 tol=1.12
+2024-09-26 08:07:26,101 alphafold2_ptm_model_2_seed_034 recycle=3 pLDDT=85.7 pTM=0.765 tol=0.372
+2024-09-26 08:07:26,101 alphafold2_ptm_model_2_seed_034 took 1.6s (3 recycles)
+2024-09-26 08:07:26,524 alphafold2_ptm_model_3_seed_034 recycle=0 pLDDT=55.6 pTM=0.446
+2024-09-26 08:07:26,929 alphafold2_ptm_model_3_seed_034 recycle=1 pLDDT=65.6 pTM=0.562 tol=1.69
+2024-09-26 08:07:27,334 alphafold2_ptm_model_3_seed_034 recycle=2 pLDDT=84.9 pTM=0.718 tol=2.05
+2024-09-26 08:07:27,743 alphafold2_ptm_model_3_seed_034 recycle=3 pLDDT=86.4 pTM=0.779 tol=0.624
+2024-09-26 08:07:27,744 alphafold2_ptm_model_3_seed_034 took 1.6s (3 recycles)
+2024-09-26 08:07:28,169 alphafold2_ptm_model_4_seed_034 recycle=0 pLDDT=74.6 pTM=0.605
+2024-09-26 08:07:28,578 alphafold2_ptm_model_4_seed_034 recycle=1 pLDDT=86.3 pTM=0.771 tol=0.996
+2024-09-26 08:07:28,988 alphafold2_ptm_model_4_seed_034 recycle=2 pLDDT=88.2 pTM=0.789 tol=0.434
+2024-09-26 08:07:29,397 alphafold2_ptm_model_4_seed_034 recycle=3 pLDDT=88.2 pTM=0.794 tol=0.17
+2024-09-26 08:07:29,397 alphafold2_ptm_model_4_seed_034 took 1.6s (3 recycles)
+2024-09-26 08:07:29,824 alphafold2_ptm_model_5_seed_034 recycle=0 pLDDT=66.2 pTM=0.564
+2024-09-26 08:07:30,234 alphafold2_ptm_model_5_seed_034 recycle=1 pLDDT=84.6 pTM=0.767 tol=1.69
+2024-09-26 08:07:30,647 alphafold2_ptm_model_5_seed_034 recycle=2 pLDDT=87.4 pTM=0.796 tol=0.66
+2024-09-26 08:07:31,062 alphafold2_ptm_model_5_seed_034 recycle=3 pLDDT=88.6 pTM=0.817 tol=0.657
+2024-09-26 08:07:31,062 alphafold2_ptm_model_5_seed_034 took 1.6s (3 recycles)
+2024-09-26 08:07:32,645 alphafold2_ptm_model_1_seed_035 recycle=0 pLDDT=33 pTM=0.202
+2024-09-26 08:07:33,048 alphafold2_ptm_model_1_seed_035 recycle=1 pLDDT=39.6 pTM=0.275 tol=8.75
+2024-09-26 08:07:33,451 alphafold2_ptm_model_1_seed_035 recycle=2 pLDDT=75.5 pTM=0.643 tol=3.76
+2024-09-26 08:07:33,856 alphafold2_ptm_model_1_seed_035 recycle=3 pLDDT=83.2 pTM=0.723 tol=1.02
+2024-09-26 08:07:33,857 alphafold2_ptm_model_1_seed_035 took 1.6s (3 recycles)
+2024-09-26 08:07:34,283 alphafold2_ptm_model_2_seed_035 recycle=0 pLDDT=48.4 pTM=0.394
+2024-09-26 08:07:34,686 alphafold2_ptm_model_2_seed_035 recycle=1 pLDDT=54.9 pTM=0.44 tol=3.79
+2024-09-26 08:07:35,088 alphafold2_ptm_model_2_seed_035 recycle=2 pLDDT=52.9 pTM=0.444 tol=5.29
+2024-09-26 08:07:35,494 alphafold2_ptm_model_2_seed_035 recycle=3 pLDDT=79.1 pTM=0.701 tol=2.83
+2024-09-26 08:07:35,494 alphafold2_ptm_model_2_seed_035 took 1.6s (3 recycles)
+2024-09-26 08:07:35,922 alphafold2_ptm_model_3_seed_035 recycle=0 pLDDT=77.3 pTM=0.629
+2024-09-26 08:07:36,329 alphafold2_ptm_model_3_seed_035 recycle=1 pLDDT=81.4 pTM=0.71 tol=0.609
+2024-09-26 08:07:36,735 alphafold2_ptm_model_3_seed_035 recycle=2 pLDDT=80.7 pTM=0.714 tol=0.776
+2024-09-26 08:07:37,143 alphafold2_ptm_model_3_seed_035 recycle=3 pLDDT=85.3 pTM=0.754 tol=1.2
+2024-09-26 08:07:37,143 alphafold2_ptm_model_3_seed_035 took 1.6s (3 recycles)
+2024-09-26 08:07:37,568 alphafold2_ptm_model_4_seed_035 recycle=0 pLDDT=72.5 pTM=0.596
+2024-09-26 08:07:37,978 alphafold2_ptm_model_4_seed_035 recycle=1 pLDDT=86.6 pTM=0.779 tol=0.998
+2024-09-26 08:07:38,389 alphafold2_ptm_model_4_seed_035 recycle=2 pLDDT=88.5 pTM=0.795 tol=0.636
+2024-09-26 08:07:38,802 alphafold2_ptm_model_4_seed_035 recycle=3 pLDDT=88.7 pTM=0.8 tol=0.317
+2024-09-26 08:07:38,802 alphafold2_ptm_model_4_seed_035 took 1.6s (3 recycles)
+2024-09-26 08:07:39,229 alphafold2_ptm_model_5_seed_035 recycle=0 pLDDT=82.9 pTM=0.723
+2024-09-26 08:07:39,641 alphafold2_ptm_model_5_seed_035 recycle=1 pLDDT=86.4 pTM=0.783 tol=1.32
+2024-09-26 08:07:40,054 alphafold2_ptm_model_5_seed_035 recycle=2 pLDDT=87.7 pTM=0.799 tol=0.552
+2024-09-26 08:07:40,468 alphafold2_ptm_model_5_seed_035 recycle=3 pLDDT=89.2 pTM=0.814 tol=0.405
+2024-09-26 08:07:40,468 alphafold2_ptm_model_5_seed_035 took 1.6s (3 recycles)
+2024-09-26 08:07:42,005 alphafold2_ptm_model_1_seed_036 recycle=0 pLDDT=77.3 pTM=0.632
+2024-09-26 08:07:42,411 alphafold2_ptm_model_1_seed_036 recycle=1 pLDDT=84.7 pTM=0.749 tol=1.09
+2024-09-26 08:07:42,818 alphafold2_ptm_model_1_seed_036 recycle=2 pLDDT=84.8 pTM=0.756 tol=0.565
+2024-09-26 08:07:43,224 alphafold2_ptm_model_1_seed_036 recycle=3 pLDDT=84.6 pTM=0.753 tol=2.05
+2024-09-26 08:07:43,224 alphafold2_ptm_model_1_seed_036 took 1.6s (3 recycles)
+2024-09-26 08:07:43,648 alphafold2_ptm_model_2_seed_036 recycle=0 pLDDT=67.4 pTM=0.572
+2024-09-26 08:07:44,055 alphafold2_ptm_model_2_seed_036 recycle=1 pLDDT=83.8 pTM=0.751 tol=0.81
+2024-09-26 08:07:44,464 alphafold2_ptm_model_2_seed_036 recycle=2 pLDDT=85.4 pTM=0.771 tol=0.424
+2024-09-26 08:07:44,873 alphafold2_ptm_model_2_seed_036 recycle=3 pLDDT=85.8 pTM=0.776 tol=0.533
+2024-09-26 08:07:44,873 alphafold2_ptm_model_2_seed_036 took 1.6s (3 recycles)
+2024-09-26 08:07:45,299 alphafold2_ptm_model_3_seed_036 recycle=0 pLDDT=77.3 pTM=0.646
+2024-09-26 08:07:45,708 alphafold2_ptm_model_3_seed_036 recycle=1 pLDDT=85.7 pTM=0.768 tol=2.2
+2024-09-26 08:07:46,117 alphafold2_ptm_model_3_seed_036 recycle=2 pLDDT=85.6 pTM=0.767 tol=0.522
+2024-09-26 08:07:46,525 alphafold2_ptm_model_3_seed_036 recycle=3 pLDDT=85.6 pTM=0.765 tol=0.447
+2024-09-26 08:07:46,525 alphafold2_ptm_model_3_seed_036 took 1.6s (3 recycles)
+2024-09-26 08:07:46,953 alphafold2_ptm_model_4_seed_036 recycle=0 pLDDT=82.1 pTM=0.703
+2024-09-26 08:07:47,362 alphafold2_ptm_model_4_seed_036 recycle=1 pLDDT=85.9 pTM=0.763 tol=0.798
+2024-09-26 08:07:47,772 alphafold2_ptm_model_4_seed_036 recycle=2 pLDDT=87.2 pTM=0.783 tol=0.497
+2024-09-26 08:07:48,183 alphafold2_ptm_model_4_seed_036 recycle=3 pLDDT=85.9 pTM=0.771 tol=0.561
+2024-09-26 08:07:48,183 alphafold2_ptm_model_4_seed_036 took 1.6s (3 recycles)
+2024-09-26 08:07:48,613 alphafold2_ptm_model_5_seed_036 recycle=0 pLDDT=81.8 pTM=0.71
+2024-09-26 08:07:49,024 alphafold2_ptm_model_5_seed_036 recycle=1 pLDDT=86.6 pTM=0.786 tol=0.857
+2024-09-26 08:07:49,438 alphafold2_ptm_model_5_seed_036 recycle=2 pLDDT=88 pTM=0.808 tol=0.493
+2024-09-26 08:07:49,849 alphafold2_ptm_model_5_seed_036 recycle=3 pLDDT=86.8 pTM=0.788 tol=0.197
+2024-09-26 08:07:49,849 alphafold2_ptm_model_5_seed_036 took 1.6s (3 recycles)
+2024-09-26 08:07:51,372 alphafold2_ptm_model_1_seed_037 recycle=0 pLDDT=80.3 pTM=0.671
+2024-09-26 08:07:51,776 alphafold2_ptm_model_1_seed_037 recycle=1 pLDDT=81.2 pTM=0.704 tol=2.27
+2024-09-26 08:07:52,181 alphafold2_ptm_model_1_seed_037 recycle=2 pLDDT=82.6 pTM=0.725 tol=0.427
+2024-09-26 08:07:52,587 alphafold2_ptm_model_1_seed_037 recycle=3 pLDDT=84.6 pTM=0.755 tol=0.543
+2024-09-26 08:07:52,588 alphafold2_ptm_model_1_seed_037 took 1.6s (3 recycles)
+2024-09-26 08:07:53,014 alphafold2_ptm_model_2_seed_037 recycle=0 pLDDT=68 pTM=0.597
+2024-09-26 08:07:53,420 alphafold2_ptm_model_2_seed_037 recycle=1 pLDDT=81.8 pTM=0.726 tol=2.16
+2024-09-26 08:07:53,827 alphafold2_ptm_model_2_seed_037 recycle=2 pLDDT=83.1 pTM=0.745 tol=0.738
+2024-09-26 08:07:54,235 alphafold2_ptm_model_2_seed_037 recycle=3 pLDDT=85.5 pTM=0.775 tol=0.541
+2024-09-26 08:07:54,236 alphafold2_ptm_model_2_seed_037 took 1.6s (3 recycles)
+2024-09-26 08:07:54,663 alphafold2_ptm_model_3_seed_037 recycle=0 pLDDT=79.4 pTM=0.673
+2024-09-26 08:07:55,072 alphafold2_ptm_model_3_seed_037 recycle=1 pLDDT=86 pTM=0.765 tol=0.959
+2024-09-26 08:07:55,481 alphafold2_ptm_model_3_seed_037 recycle=2 pLDDT=86.6 pTM=0.774 tol=0.471
+2024-09-26 08:07:55,891 alphafold2_ptm_model_3_seed_037 recycle=3 pLDDT=87.1 pTM=0.782 tol=0.412
+2024-09-26 08:07:55,891 alphafold2_ptm_model_3_seed_037 took 1.6s (3 recycles)
+2024-09-26 08:07:56,319 alphafold2_ptm_model_4_seed_037 recycle=0 pLDDT=80.1 pTM=0.697
+2024-09-26 08:07:56,726 alphafold2_ptm_model_4_seed_037 recycle=1 pLDDT=84.3 pTM=0.748 tol=1.22
+2024-09-26 08:07:57,135 alphafold2_ptm_model_4_seed_037 recycle=2 pLDDT=85.9 pTM=0.767 tol=1.17
+2024-09-26 08:07:57,545 alphafold2_ptm_model_4_seed_037 recycle=3 pLDDT=87.7 pTM=0.79 tol=2.42
+2024-09-26 08:07:57,545 alphafold2_ptm_model_4_seed_037 took 1.6s (3 recycles)
+2024-09-26 08:07:57,972 alphafold2_ptm_model_5_seed_037 recycle=0 pLDDT=79.9 pTM=0.694
+2024-09-26 08:07:58,380 alphafold2_ptm_model_5_seed_037 recycle=1 pLDDT=84.1 pTM=0.769 tol=1.1
+2024-09-26 08:07:58,789 alphafold2_ptm_model_5_seed_037 recycle=2 pLDDT=85.2 pTM=0.774 tol=0.596
+2024-09-26 08:07:59,202 alphafold2_ptm_model_5_seed_037 recycle=3 pLDDT=87.4 pTM=0.804 tol=0.415
+2024-09-26 08:07:59,203 alphafold2_ptm_model_5_seed_037 took 1.6s (3 recycles)
+2024-09-26 08:08:01,198 alphafold2_ptm_model_1_seed_038 recycle=0 pLDDT=58.3 pTM=0.456
+2024-09-26 08:08:01,601 alphafold2_ptm_model_1_seed_038 recycle=1 pLDDT=59.2 pTM=0.502 tol=1.75
+2024-09-26 08:08:02,004 alphafold2_ptm_model_1_seed_038 recycle=2 pLDDT=78.1 pTM=0.646 tol=2.92
+2024-09-26 08:08:02,409 alphafold2_ptm_model_1_seed_038 recycle=3 pLDDT=82.8 pTM=0.721 tol=0.597
+2024-09-26 08:08:02,409 alphafold2_ptm_model_1_seed_038 took 1.6s (3 recycles)
+2024-09-26 08:08:02,836 alphafold2_ptm_model_2_seed_038 recycle=0 pLDDT=62.4 pTM=0.535
+2024-09-26 08:08:03,243 alphafold2_ptm_model_2_seed_038 recycle=1 pLDDT=84.6 pTM=0.754 tol=2.12
+2024-09-26 08:08:03,650 alphafold2_ptm_model_2_seed_038 recycle=2 pLDDT=84.9 pTM=0.754 tol=0.488
+2024-09-26 08:08:04,057 alphafold2_ptm_model_2_seed_038 recycle=3 pLDDT=84.1 pTM=0.75 tol=0.444
+2024-09-26 08:08:04,057 alphafold2_ptm_model_2_seed_038 took 1.6s (3 recycles)
+2024-09-26 08:08:04,480 alphafold2_ptm_model_3_seed_038 recycle=0 pLDDT=63.9 pTM=0.517
+2024-09-26 08:08:04,886 alphafold2_ptm_model_3_seed_038 recycle=1 pLDDT=82.6 pTM=0.713 tol=1.81
+2024-09-26 08:08:05,293 alphafold2_ptm_model_3_seed_038 recycle=2 pLDDT=84.4 pTM=0.746 tol=0.55
+2024-09-26 08:08:05,702 alphafold2_ptm_model_3_seed_038 recycle=3 pLDDT=86.9 pTM=0.778 tol=0.485
+2024-09-26 08:08:05,703 alphafold2_ptm_model_3_seed_038 took 1.6s (3 recycles)
+2024-09-26 08:08:06,129 alphafold2_ptm_model_4_seed_038 recycle=0 pLDDT=75.4 pTM=0.625
+2024-09-26 08:08:06,539 alphafold2_ptm_model_4_seed_038 recycle=1 pLDDT=86.8 pTM=0.773 tol=1.12
+2024-09-26 08:08:06,947 alphafold2_ptm_model_4_seed_038 recycle=2 pLDDT=87.3 pTM=0.775 tol=0.693
+2024-09-26 08:08:07,357 alphafold2_ptm_model_4_seed_038 recycle=3 pLDDT=88.4 pTM=0.792 tol=0.319
+2024-09-26 08:08:07,357 alphafold2_ptm_model_4_seed_038 took 1.6s (3 recycles)
+2024-09-26 08:08:07,785 alphafold2_ptm_model_5_seed_038 recycle=0 pLDDT=79.7 pTM=0.678
+2024-09-26 08:08:08,194 alphafold2_ptm_model_5_seed_038 recycle=1 pLDDT=85 pTM=0.767 tol=1.05
+2024-09-26 08:08:08,606 alphafold2_ptm_model_5_seed_038 recycle=2 pLDDT=86.5 pTM=0.781 tol=0.631
+2024-09-26 08:08:09,020 alphafold2_ptm_model_5_seed_038 recycle=3 pLDDT=88.1 pTM=0.805 tol=0.371
+2024-09-26 08:08:09,021 alphafold2_ptm_model_5_seed_038 took 1.6s (3 recycles)
+2024-09-26 08:08:10,624 alphafold2_ptm_model_1_seed_039 recycle=0 pLDDT=77.2 pTM=0.629
+2024-09-26 08:08:11,030 alphafold2_ptm_model_1_seed_039 recycle=1 pLDDT=84.3 pTM=0.744 tol=0.807
+2024-09-26 08:08:11,439 alphafold2_ptm_model_1_seed_039 recycle=2 pLDDT=84.9 pTM=0.753 tol=2.34
+2024-09-26 08:08:11,848 alphafold2_ptm_model_1_seed_039 recycle=3 pLDDT=85.8 pTM=0.765 tol=0.339
+2024-09-26 08:08:11,848 alphafold2_ptm_model_1_seed_039 took 1.6s (3 recycles)
+2024-09-26 08:08:12,274 alphafold2_ptm_model_2_seed_039 recycle=0 pLDDT=71.4 pTM=0.597
+2024-09-26 08:08:12,682 alphafold2_ptm_model_2_seed_039 recycle=1 pLDDT=85.4 pTM=0.773 tol=1.37
+2024-09-26 08:08:13,088 alphafold2_ptm_model_2_seed_039 recycle=2 pLDDT=82.2 pTM=0.738 tol=0.418
+2024-09-26 08:08:13,497 alphafold2_ptm_model_2_seed_039 recycle=3 pLDDT=84 pTM=0.757 tol=0.457
+2024-09-26 08:08:13,497 alphafold2_ptm_model_2_seed_039 took 1.6s (3 recycles)
+2024-09-26 08:08:13,923 alphafold2_ptm_model_3_seed_039 recycle=0 pLDDT=76.6 pTM=0.639
+2024-09-26 08:08:14,333 alphafold2_ptm_model_3_seed_039 recycle=1 pLDDT=87.2 pTM=0.784 tol=1.04
+2024-09-26 08:08:14,744 alphafold2_ptm_model_3_seed_039 recycle=2 pLDDT=87.2 pTM=0.785 tol=0.423
+2024-09-26 08:08:15,156 alphafold2_ptm_model_3_seed_039 recycle=3 pLDDT=88.1 pTM=0.795 tol=0.772
+2024-09-26 08:08:15,156 alphafold2_ptm_model_3_seed_039 took 1.6s (3 recycles)
+2024-09-26 08:08:15,581 alphafold2_ptm_model_4_seed_039 recycle=0 pLDDT=65.4 pTM=0.571
+2024-09-26 08:08:15,989 alphafold2_ptm_model_4_seed_039 recycle=1 pLDDT=85.6 pTM=0.763 tol=2.64
+2024-09-26 08:08:16,398 alphafold2_ptm_model_4_seed_039 recycle=2 pLDDT=85.9 pTM=0.77 tol=0.352
+2024-09-26 08:08:16,806 alphafold2_ptm_model_4_seed_039 recycle=3 pLDDT=84.9 pTM=0.76 tol=0.486
+2024-09-26 08:08:16,806 alphafold2_ptm_model_4_seed_039 took 1.6s (3 recycles)
+2024-09-26 08:08:17,235 alphafold2_ptm_model_5_seed_039 recycle=0 pLDDT=81 pTM=0.712
+2024-09-26 08:08:17,644 alphafold2_ptm_model_5_seed_039 recycle=1 pLDDT=85.6 pTM=0.779 tol=0.693
+2024-09-26 08:08:18,057 alphafold2_ptm_model_5_seed_039 recycle=2 pLDDT=87.9 pTM=0.806 tol=0.626
+2024-09-26 08:08:18,470 alphafold2_ptm_model_5_seed_039 recycle=3 pLDDT=88.2 pTM=0.805 tol=0.572
+2024-09-26 08:08:18,470 alphafold2_ptm_model_5_seed_039 took 1.6s (3 recycles)
+2024-09-26 08:08:20,018 alphafold2_ptm_model_1_seed_040 recycle=0 pLDDT=59.9 pTM=0.49
+2024-09-26 08:08:20,424 alphafold2_ptm_model_1_seed_040 recycle=1 pLDDT=81.5 pTM=0.708 tol=1.87
+2024-09-26 08:08:20,830 alphafold2_ptm_model_1_seed_040 recycle=2 pLDDT=85.1 pTM=0.751 tol=0.519
+2024-09-26 08:08:21,238 alphafold2_ptm_model_1_seed_040 recycle=3 pLDDT=85.3 pTM=0.76 tol=0.773
+2024-09-26 08:08:21,239 alphafold2_ptm_model_1_seed_040 took 1.6s (3 recycles)
+2024-09-26 08:08:21,664 alphafold2_ptm_model_2_seed_040 recycle=0 pLDDT=75.8 pTM=0.648
+2024-09-26 08:08:22,069 alphafold2_ptm_model_2_seed_040 recycle=1 pLDDT=81.3 pTM=0.726 tol=1.3
+2024-09-26 08:08:22,476 alphafold2_ptm_model_2_seed_040 recycle=2 pLDDT=82.1 pTM=0.736 tol=0.507
+2024-09-26 08:08:22,884 alphafold2_ptm_model_2_seed_040 recycle=3 pLDDT=83.8 pTM=0.761 tol=1.05
+2024-09-26 08:08:22,884 alphafold2_ptm_model_2_seed_040 took 1.6s (3 recycles)
+2024-09-26 08:08:23,310 alphafold2_ptm_model_3_seed_040 recycle=0 pLDDT=79.8 pTM=0.67
+2024-09-26 08:08:23,718 alphafold2_ptm_model_3_seed_040 recycle=1 pLDDT=85.5 pTM=0.771 tol=0.977
+2024-09-26 08:08:24,129 alphafold2_ptm_model_3_seed_040 recycle=2 pLDDT=86.7 pTM=0.779 tol=0.536
+2024-09-26 08:08:24,541 alphafold2_ptm_model_3_seed_040 recycle=3 pLDDT=87.7 pTM=0.791 tol=0.802
+2024-09-26 08:08:24,542 alphafold2_ptm_model_3_seed_040 took 1.6s (3 recycles)
+2024-09-26 08:08:24,969 alphafold2_ptm_model_4_seed_040 recycle=0 pLDDT=81.3 pTM=0.695
+2024-09-26 08:08:25,377 alphafold2_ptm_model_4_seed_040 recycle=1 pLDDT=84.2 pTM=0.747 tol=1.05
+2024-09-26 08:08:25,786 alphafold2_ptm_model_4_seed_040 recycle=2 pLDDT=86.6 pTM=0.773 tol=0.433
+2024-09-26 08:08:26,198 alphafold2_ptm_model_4_seed_040 recycle=3 pLDDT=88.3 pTM=0.799 tol=0.398
+2024-09-26 08:08:26,198 alphafold2_ptm_model_4_seed_040 took 1.6s (3 recycles)
+2024-09-26 08:08:26,624 alphafold2_ptm_model_5_seed_040 recycle=0 pLDDT=83.2 pTM=0.713
+2024-09-26 08:08:27,037 alphafold2_ptm_model_5_seed_040 recycle=1 pLDDT=85.4 pTM=0.78 tol=0.767
+2024-09-26 08:08:27,448 alphafold2_ptm_model_5_seed_040 recycle=2 pLDDT=86.1 pTM=0.783 tol=0.557
+2024-09-26 08:08:27,862 alphafold2_ptm_model_5_seed_040 recycle=3 pLDDT=87.9 pTM=0.806 tol=0.445
+2024-09-26 08:08:27,863 alphafold2_ptm_model_5_seed_040 took 1.6s (3 recycles)
+2024-09-26 08:08:29,429 alphafold2_ptm_model_1_seed_041 recycle=0 pLDDT=63.7 pTM=0.48
+2024-09-26 08:08:29,834 alphafold2_ptm_model_1_seed_041 recycle=1 pLDDT=59.9 pTM=0.491 tol=1.22
+2024-09-26 08:08:30,240 alphafold2_ptm_model_1_seed_041 recycle=2 pLDDT=83.9 pTM=0.737 tol=3.74
+2024-09-26 08:08:30,646 alphafold2_ptm_model_1_seed_041 recycle=3 pLDDT=84.4 pTM=0.75 tol=2.82
+2024-09-26 08:08:30,647 alphafold2_ptm_model_1_seed_041 took 1.6s (3 recycles)
+2024-09-26 08:08:31,071 alphafold2_ptm_model_2_seed_041 recycle=0 pLDDT=69.2 pTM=0.561
+2024-09-26 08:08:31,474 alphafold2_ptm_model_2_seed_041 recycle=1 pLDDT=64.4 pTM=0.53 tol=1.37
+2024-09-26 08:08:31,881 alphafold2_ptm_model_2_seed_041 recycle=2 pLDDT=82.4 pTM=0.723 tol=3.9
+2024-09-26 08:08:32,290 alphafold2_ptm_model_2_seed_041 recycle=3 pLDDT=85.8 pTM=0.771 tol=3.28
+2024-09-26 08:08:32,290 alphafold2_ptm_model_2_seed_041 took 1.6s (3 recycles)
+2024-09-26 08:08:32,715 alphafold2_ptm_model_3_seed_041 recycle=0 pLDDT=78 pTM=0.621
+2024-09-26 08:08:33,124 alphafold2_ptm_model_3_seed_041 recycle=1 pLDDT=85.6 pTM=0.759 tol=1.12
+2024-09-26 08:08:33,533 alphafold2_ptm_model_3_seed_041 recycle=2 pLDDT=86.2 pTM=0.775 tol=0.716
+2024-09-26 08:08:33,944 alphafold2_ptm_model_3_seed_041 recycle=3 pLDDT=87.3 pTM=0.788 tol=0.718
+2024-09-26 08:08:33,945 alphafold2_ptm_model_3_seed_041 took 1.6s (3 recycles)
+2024-09-26 08:08:34,372 alphafold2_ptm_model_4_seed_041 recycle=0 pLDDT=81.9 pTM=0.684
+2024-09-26 08:08:34,780 alphafold2_ptm_model_4_seed_041 recycle=1 pLDDT=86.1 pTM=0.755 tol=0.5
+2024-09-26 08:08:35,190 alphafold2_ptm_model_4_seed_041 recycle=2 pLDDT=86.8 pTM=0.777 tol=0.386
+2024-09-26 08:08:35,600 alphafold2_ptm_model_4_seed_041 recycle=3 pLDDT=88.6 pTM=0.791 tol=0.688
+2024-09-26 08:08:35,601 alphafold2_ptm_model_4_seed_041 took 1.6s (3 recycles)
+2024-09-26 08:08:36,049 alphafold2_ptm_model_5_seed_041 recycle=0 pLDDT=80.1 pTM=0.675
+2024-09-26 08:08:36,460 alphafold2_ptm_model_5_seed_041 recycle=1 pLDDT=87.2 pTM=0.784 tol=0.892
+2024-09-26 08:08:36,872 alphafold2_ptm_model_5_seed_041 recycle=2 pLDDT=86.6 pTM=0.788 tol=0.833
+2024-09-26 08:08:37,284 alphafold2_ptm_model_5_seed_041 recycle=3 pLDDT=86.9 pTM=0.792 tol=0.603
+2024-09-26 08:08:37,284 alphafold2_ptm_model_5_seed_041 took 1.6s (3 recycles)
+2024-09-26 08:08:38,815 alphafold2_ptm_model_1_seed_042 recycle=0 pLDDT=41.6 pTM=0.339
+2024-09-26 08:08:39,218 alphafold2_ptm_model_1_seed_042 recycle=1 pLDDT=56.4 pTM=0.477 tol=4.62
+2024-09-26 08:08:39,623 alphafold2_ptm_model_1_seed_042 recycle=2 pLDDT=84 pTM=0.75 tol=2.17
+2024-09-26 08:08:40,029 alphafold2_ptm_model_1_seed_042 recycle=3 pLDDT=84.8 pTM=0.757 tol=0.444
+2024-09-26 08:08:40,030 alphafold2_ptm_model_1_seed_042 took 1.6s (3 recycles)
+2024-09-26 08:08:40,453 alphafold2_ptm_model_2_seed_042 recycle=0 pLDDT=46.9 pTM=0.398
+2024-09-26 08:08:40,856 alphafold2_ptm_model_2_seed_042 recycle=1 pLDDT=54.8 pTM=0.463 tol=3.21
+2024-09-26 08:08:41,261 alphafold2_ptm_model_2_seed_042 recycle=2 pLDDT=76 pTM=0.661 tol=5.04
+2024-09-26 08:08:41,667 alphafold2_ptm_model_2_seed_042 recycle=3 pLDDT=82 pTM=0.734 tol=1.08
+2024-09-26 08:08:41,667 alphafold2_ptm_model_2_seed_042 took 1.6s (3 recycles)
+2024-09-26 08:08:42,090 alphafold2_ptm_model_3_seed_042 recycle=0 pLDDT=59.1 pTM=0.468
+2024-09-26 08:08:42,495 alphafold2_ptm_model_3_seed_042 recycle=1 pLDDT=71.1 pTM=0.546 tol=2.22
+2024-09-26 08:08:42,902 alphafold2_ptm_model_3_seed_042 recycle=2 pLDDT=84.4 pTM=0.755 tol=0.782
+2024-09-26 08:08:43,313 alphafold2_ptm_model_3_seed_042 recycle=3 pLDDT=87.4 pTM=0.793 tol=0.689
+2024-09-26 08:08:43,313 alphafold2_ptm_model_3_seed_042 took 1.6s (3 recycles)
+2024-09-26 08:08:43,738 alphafold2_ptm_model_4_seed_042 recycle=0 pLDDT=58.1 pTM=0.49
+2024-09-26 08:08:44,140 alphafold2_ptm_model_4_seed_042 recycle=1 pLDDT=57.1 pTM=0.487 tol=4.58
+2024-09-26 08:08:44,546 alphafold2_ptm_model_4_seed_042 recycle=2 pLDDT=83.7 pTM=0.738 tol=4.71
+2024-09-26 08:08:44,955 alphafold2_ptm_model_4_seed_042 recycle=3 pLDDT=86.2 pTM=0.77 tol=0.688
+2024-09-26 08:08:44,955 alphafold2_ptm_model_4_seed_042 took 1.6s (3 recycles)
+2024-09-26 08:08:45,381 alphafold2_ptm_model_5_seed_042 recycle=0 pLDDT=67.9 pTM=0.548
+2024-09-26 08:08:45,784 alphafold2_ptm_model_5_seed_042 recycle=1 pLDDT=68 pTM=0.584 tol=0.875
+2024-09-26 08:08:46,188 alphafold2_ptm_model_5_seed_042 recycle=2 pLDDT=71.9 pTM=0.62 tol=1.57
+2024-09-26 08:08:46,598 alphafold2_ptm_model_5_seed_042 recycle=3 pLDDT=86.1 pTM=0.784 tol=0.967
+2024-09-26 08:08:46,598 alphafold2_ptm_model_5_seed_042 took 1.6s (3 recycles)
+2024-09-26 08:08:48,124 alphafold2_ptm_model_1_seed_043 recycle=0 pLDDT=66.4 pTM=0.558
+2024-09-26 08:08:48,529 alphafold2_ptm_model_1_seed_043 recycle=1 pLDDT=78.8 pTM=0.683 tol=4.16
+2024-09-26 08:08:48,934 alphafold2_ptm_model_1_seed_043 recycle=2 pLDDT=83 pTM=0.724 tol=1.96
+2024-09-26 08:08:49,338 alphafold2_ptm_model_1_seed_043 recycle=3 pLDDT=81.7 pTM=0.707 tol=0.372
+2024-09-26 08:08:49,338 alphafold2_ptm_model_1_seed_043 took 1.6s (3 recycles)
+2024-09-26 08:08:49,763 alphafold2_ptm_model_2_seed_043 recycle=0 pLDDT=63.3 pTM=0.569
+2024-09-26 08:08:50,171 alphafold2_ptm_model_2_seed_043 recycle=1 pLDDT=85.6 pTM=0.769 tol=1.41
+2024-09-26 08:08:50,580 alphafold2_ptm_model_2_seed_043 recycle=2 pLDDT=84.6 pTM=0.77 tol=0.893
+2024-09-26 08:08:50,989 alphafold2_ptm_model_2_seed_043 recycle=3 pLDDT=85.9 pTM=0.777 tol=0.474
+2024-09-26 08:08:50,990 alphafold2_ptm_model_2_seed_043 took 1.6s (3 recycles)
+2024-09-26 08:08:51,415 alphafold2_ptm_model_3_seed_043 recycle=0 pLDDT=71.8 pTM=0.584
+2024-09-26 08:08:51,825 alphafold2_ptm_model_3_seed_043 recycle=1 pLDDT=87.7 pTM=0.781 tol=1.12
+2024-09-26 08:08:52,234 alphafold2_ptm_model_3_seed_043 recycle=2 pLDDT=86.8 pTM=0.774 tol=0.475
+2024-09-26 08:08:52,643 alphafold2_ptm_model_3_seed_043 recycle=3 pLDDT=86.6 pTM=0.775 tol=0.368
+2024-09-26 08:08:52,643 alphafold2_ptm_model_3_seed_043 took 1.6s (3 recycles)
+2024-09-26 08:08:53,069 alphafold2_ptm_model_4_seed_043 recycle=0 pLDDT=81.6 pTM=0.701
+2024-09-26 08:08:53,478 alphafold2_ptm_model_4_seed_043 recycle=1 pLDDT=86.9 pTM=0.786 tol=0.761
+2024-09-26 08:08:53,889 alphafold2_ptm_model_4_seed_043 recycle=2 pLDDT=88.9 pTM=0.795 tol=0.532
+2024-09-26 08:08:54,299 alphafold2_ptm_model_4_seed_043 recycle=3 pLDDT=87.6 pTM=0.784 tol=0.49
+2024-09-26 08:08:54,299 alphafold2_ptm_model_4_seed_043 took 1.6s (3 recycles)
+2024-09-26 08:08:54,727 alphafold2_ptm_model_5_seed_043 recycle=0 pLDDT=83 pTM=0.732
+2024-09-26 08:08:55,139 alphafold2_ptm_model_5_seed_043 recycle=1 pLDDT=87.8 pTM=0.798 tol=0.738
+2024-09-26 08:08:55,550 alphafold2_ptm_model_5_seed_043 recycle=2 pLDDT=87.2 pTM=0.789 tol=0.868
+2024-09-26 08:08:55,963 alphafold2_ptm_model_5_seed_043 recycle=3 pLDDT=88.6 pTM=0.806 tol=0.222
+2024-09-26 08:08:55,963 alphafold2_ptm_model_5_seed_043 took 1.6s (3 recycles)
+2024-09-26 08:08:57,484 alphafold2_ptm_model_1_seed_044 recycle=0 pLDDT=56.6 pTM=0.459
+2024-09-26 08:08:57,888 alphafold2_ptm_model_1_seed_044 recycle=1 pLDDT=80.8 pTM=0.698 tol=1.58
+2024-09-26 08:08:58,295 alphafold2_ptm_model_1_seed_044 recycle=2 pLDDT=84.1 pTM=0.754 tol=0.644
+2024-09-26 08:08:58,702 alphafold2_ptm_model_1_seed_044 recycle=3 pLDDT=85.5 pTM=0.768 tol=1.84
+2024-09-26 08:08:58,703 alphafold2_ptm_model_1_seed_044 took 1.6s (3 recycles)
+2024-09-26 08:08:59,127 alphafold2_ptm_model_2_seed_044 recycle=0 pLDDT=69.7 pTM=0.621
+2024-09-26 08:08:59,531 alphafold2_ptm_model_2_seed_044 recycle=1 pLDDT=76 pTM=0.625 tol=2.65
+2024-09-26 08:08:59,937 alphafold2_ptm_model_2_seed_044 recycle=2 pLDDT=84.2 pTM=0.745 tol=1.02
+2024-09-26 08:09:00,346 alphafold2_ptm_model_2_seed_044 recycle=3 pLDDT=85.4 pTM=0.771 tol=0.704
+2024-09-26 08:09:00,347 alphafold2_ptm_model_2_seed_044 took 1.6s (3 recycles)
+2024-09-26 08:09:00,772 alphafold2_ptm_model_3_seed_044 recycle=0 pLDDT=69.9 pTM=0.586
+2024-09-26 08:09:01,179 alphafold2_ptm_model_3_seed_044 recycle=1 pLDDT=85.4 pTM=0.762 tol=1.51
+2024-09-26 08:09:01,589 alphafold2_ptm_model_3_seed_044 recycle=2 pLDDT=87.9 pTM=0.789 tol=0.629
+2024-09-26 08:09:02,000 alphafold2_ptm_model_3_seed_044 recycle=3 pLDDT=89.1 pTM=0.807 tol=0.357
+2024-09-26 08:09:02,001 alphafold2_ptm_model_3_seed_044 took 1.6s (3 recycles)
+2024-09-26 08:09:02,424 alphafold2_ptm_model_4_seed_044 recycle=0 pLDDT=66.5 pTM=0.563
+2024-09-26 08:09:02,832 alphafold2_ptm_model_4_seed_044 recycle=1 pLDDT=85.3 pTM=0.759 tol=2.33
+2024-09-26 08:09:03,241 alphafold2_ptm_model_4_seed_044 recycle=2 pLDDT=86.5 pTM=0.771 tol=0.619
+2024-09-26 08:09:03,653 alphafold2_ptm_model_4_seed_044 recycle=3 pLDDT=88 pTM=0.795 tol=0.428
+2024-09-26 08:09:03,654 alphafold2_ptm_model_4_seed_044 took 1.6s (3 recycles)
+2024-09-26 08:09:04,079 alphafold2_ptm_model_5_seed_044 recycle=0 pLDDT=75.2 pTM=0.622
+2024-09-26 08:09:04,484 alphafold2_ptm_model_5_seed_044 recycle=1 pLDDT=83.6 pTM=0.733 tol=1.07
+2024-09-26 08:09:04,896 alphafold2_ptm_model_5_seed_044 recycle=2 pLDDT=87.7 pTM=0.799 tol=0.583
+2024-09-26 08:09:05,312 alphafold2_ptm_model_5_seed_044 recycle=3 pLDDT=88.6 pTM=0.814 tol=0.707
+2024-09-26 08:09:05,312 alphafold2_ptm_model_5_seed_044 took 1.6s (3 recycles)
+2024-09-26 08:09:06,847 alphafold2_ptm_model_1_seed_045 recycle=0 pLDDT=78.7 pTM=0.65
+2024-09-26 08:09:07,252 alphafold2_ptm_model_1_seed_045 recycle=1 pLDDT=84.1 pTM=0.742 tol=1.14
+2024-09-26 08:09:07,659 alphafold2_ptm_model_1_seed_045 recycle=2 pLDDT=84.8 pTM=0.76 tol=0.626
+2024-09-26 08:09:08,066 alphafold2_ptm_model_1_seed_045 recycle=3 pLDDT=84.3 pTM=0.757 tol=2.86
+2024-09-26 08:09:08,066 alphafold2_ptm_model_1_seed_045 took 1.6s (3 recycles)
+2024-09-26 08:09:08,490 alphafold2_ptm_model_2_seed_045 recycle=0 pLDDT=72.9 pTM=0.617
+2024-09-26 08:09:08,896 alphafold2_ptm_model_2_seed_045 recycle=1 pLDDT=81.4 pTM=0.732 tol=0.78
+2024-09-26 08:09:09,301 alphafold2_ptm_model_2_seed_045 recycle=2 pLDDT=81.8 pTM=0.736 tol=0.412
+2024-09-26 08:09:09,710 alphafold2_ptm_model_2_seed_045 recycle=3 pLDDT=84.8 pTM=0.768 tol=0.816
+2024-09-26 08:09:09,710 alphafold2_ptm_model_2_seed_045 took 1.6s (3 recycles)
+2024-09-26 08:09:10,140 alphafold2_ptm_model_3_seed_045 recycle=0 pLDDT=80.4 pTM=0.669
+2024-09-26 08:09:10,548 alphafold2_ptm_model_3_seed_045 recycle=1 pLDDT=85 pTM=0.769 tol=0.791
+2024-09-26 08:09:10,957 alphafold2_ptm_model_3_seed_045 recycle=2 pLDDT=86.1 pTM=0.77 tol=0.691
+2024-09-26 08:09:11,368 alphafold2_ptm_model_3_seed_045 recycle=3 pLDDT=88.3 pTM=0.796 tol=0.268
+2024-09-26 08:09:11,368 alphafold2_ptm_model_3_seed_045 took 1.6s (3 recycles)
+2024-09-26 08:09:11,795 alphafold2_ptm_model_4_seed_045 recycle=0 pLDDT=81.6 pTM=0.691
+2024-09-26 08:09:12,203 alphafold2_ptm_model_4_seed_045 recycle=1 pLDDT=84.1 pTM=0.746 tol=0.608
+2024-09-26 08:09:12,609 alphafold2_ptm_model_4_seed_045 recycle=2 pLDDT=85.5 pTM=0.757 tol=0.435
+2024-09-26 08:09:13,019 alphafold2_ptm_model_4_seed_045 recycle=3 pLDDT=86.8 pTM=0.771 tol=0.295
+2024-09-26 08:09:13,019 alphafold2_ptm_model_4_seed_045 took 1.6s (3 recycles)
+2024-09-26 08:09:13,446 alphafold2_ptm_model_5_seed_045 recycle=0 pLDDT=79.6 pTM=0.691
+2024-09-26 08:09:13,855 alphafold2_ptm_model_5_seed_045 recycle=1 pLDDT=84.1 pTM=0.764 tol=0.595
+2024-09-26 08:09:14,264 alphafold2_ptm_model_5_seed_045 recycle=2 pLDDT=86.2 pTM=0.779 tol=0.654
+2024-09-26 08:09:14,678 alphafold2_ptm_model_5_seed_045 recycle=3 pLDDT=89.2 pTM=0.814 tol=0.371
+2024-09-26 08:09:14,679 alphafold2_ptm_model_5_seed_045 took 1.6s (3 recycles)
+2024-09-26 08:09:16,221 alphafold2_ptm_model_1_seed_046 recycle=0 pLDDT=57.1 pTM=0.455
+2024-09-26 08:09:16,627 alphafold2_ptm_model_1_seed_046 recycle=1 pLDDT=82.6 pTM=0.715 tol=2.22
+2024-09-26 08:09:17,034 alphafold2_ptm_model_1_seed_046 recycle=2 pLDDT=85.1 pTM=0.747 tol=2.21
+2024-09-26 08:09:17,441 alphafold2_ptm_model_1_seed_046 recycle=3 pLDDT=85.1 pTM=0.751 tol=0.428
+2024-09-26 08:09:17,441 alphafold2_ptm_model_1_seed_046 took 1.6s (3 recycles)
+2024-09-26 08:09:17,865 alphafold2_ptm_model_2_seed_046 recycle=0 pLDDT=56.9 pTM=0.502
+2024-09-26 08:09:18,272 alphafold2_ptm_model_2_seed_046 recycle=1 pLDDT=81.9 pTM=0.73 tol=2.75
+2024-09-26 08:09:18,679 alphafold2_ptm_model_2_seed_046 recycle=2 pLDDT=83.3 pTM=0.75 tol=2.01
+2024-09-26 08:09:19,086 alphafold2_ptm_model_2_seed_046 recycle=3 pLDDT=83.1 pTM=0.745 tol=0.69
+2024-09-26 08:09:19,086 alphafold2_ptm_model_2_seed_046 took 1.6s (3 recycles)
+2024-09-26 08:09:19,511 alphafold2_ptm_model_3_seed_046 recycle=0 pLDDT=72.1 pTM=0.593
+2024-09-26 08:09:19,920 alphafold2_ptm_model_3_seed_046 recycle=1 pLDDT=86 pTM=0.768 tol=2.21
+2024-09-26 08:09:20,330 alphafold2_ptm_model_3_seed_046 recycle=2 pLDDT=86.4 pTM=0.769 tol=0.567
+2024-09-26 08:09:20,739 alphafold2_ptm_model_3_seed_046 recycle=3 pLDDT=86.1 pTM=0.768 tol=0.294
+2024-09-26 08:09:20,739 alphafold2_ptm_model_3_seed_046 took 1.6s (3 recycles)
+2024-09-26 08:09:21,163 alphafold2_ptm_model_4_seed_046 recycle=0 pLDDT=66.3 pTM=0.565
+2024-09-26 08:09:21,573 alphafold2_ptm_model_4_seed_046 recycle=1 pLDDT=85.6 pTM=0.765 tol=2.85
+2024-09-26 08:09:21,983 alphafold2_ptm_model_4_seed_046 recycle=2 pLDDT=88.6 pTM=0.783 tol=0.473
+2024-09-26 08:09:22,393 alphafold2_ptm_model_4_seed_046 recycle=3 pLDDT=88.9 pTM=0.799 tol=0.208
+2024-09-26 08:09:22,394 alphafold2_ptm_model_4_seed_046 took 1.6s (3 recycles)
+2024-09-26 08:09:22,817 alphafold2_ptm_model_5_seed_046 recycle=0 pLDDT=49.5 pTM=0.375
+2024-09-26 08:09:23,228 alphafold2_ptm_model_5_seed_046 recycle=1 pLDDT=85.4 pTM=0.778 tol=5
+2024-09-26 08:09:23,638 alphafold2_ptm_model_5_seed_046 recycle=2 pLDDT=85.6 pTM=0.774 tol=0.592
+2024-09-26 08:09:24,049 alphafold2_ptm_model_5_seed_046 recycle=3 pLDDT=86.2 pTM=0.779 tol=0.365
+2024-09-26 08:09:24,049 alphafold2_ptm_model_5_seed_046 took 1.6s (3 recycles)
+2024-09-26 08:09:26,064 alphafold2_ptm_model_1_seed_047 recycle=0 pLDDT=81.3 pTM=0.687
+2024-09-26 08:09:26,471 alphafold2_ptm_model_1_seed_047 recycle=1 pLDDT=84.8 pTM=0.747 tol=0.63
+2024-09-26 08:09:26,878 alphafold2_ptm_model_1_seed_047 recycle=2 pLDDT=84.2 pTM=0.749 tol=0.47
+2024-09-26 08:09:27,283 alphafold2_ptm_model_1_seed_047 recycle=3 pLDDT=82.9 pTM=0.734 tol=0.35
+2024-09-26 08:09:27,284 alphafold2_ptm_model_1_seed_047 took 1.6s (3 recycles)
+2024-09-26 08:09:27,708 alphafold2_ptm_model_2_seed_047 recycle=0 pLDDT=65.5 pTM=0.575
+2024-09-26 08:09:28,115 alphafold2_ptm_model_2_seed_047 recycle=1 pLDDT=83.8 pTM=0.75 tol=1.46
+2024-09-26 08:09:28,524 alphafold2_ptm_model_2_seed_047 recycle=2 pLDDT=83.2 pTM=0.751 tol=0.631
+2024-09-26 08:09:28,931 alphafold2_ptm_model_2_seed_047 recycle=3 pLDDT=83.4 pTM=0.755 tol=0.746
+2024-09-26 08:09:28,931 alphafold2_ptm_model_2_seed_047 took 1.6s (3 recycles)
+2024-09-26 08:09:29,360 alphafold2_ptm_model_3_seed_047 recycle=0 pLDDT=82.5 pTM=0.714
+2024-09-26 08:09:29,766 alphafold2_ptm_model_3_seed_047 recycle=1 pLDDT=81.9 pTM=0.715 tol=0.923
+2024-09-26 08:09:30,173 alphafold2_ptm_model_3_seed_047 recycle=2 pLDDT=82.9 pTM=0.732 tol=1.2
+2024-09-26 08:09:30,582 alphafold2_ptm_model_3_seed_047 recycle=3 pLDDT=85.8 pTM=0.768 tol=0.518
+2024-09-26 08:09:30,582 alphafold2_ptm_model_3_seed_047 took 1.6s (3 recycles)
+2024-09-26 08:09:31,011 alphafold2_ptm_model_4_seed_047 recycle=0 pLDDT=84.4 pTM=0.729
+2024-09-26 08:09:31,422 alphafold2_ptm_model_4_seed_047 recycle=1 pLDDT=86.8 pTM=0.782 tol=0.746
+2024-09-26 08:09:31,832 alphafold2_ptm_model_4_seed_047 recycle=2 pLDDT=86.9 pTM=0.775 tol=0.556
+2024-09-26 08:09:32,241 alphafold2_ptm_model_4_seed_047 recycle=3 pLDDT=86.9 pTM=0.777 tol=0.351
+2024-09-26 08:09:32,241 alphafold2_ptm_model_4_seed_047 took 1.6s (3 recycles)
+2024-09-26 08:09:32,673 alphafold2_ptm_model_5_seed_047 recycle=0 pLDDT=84.2 pTM=0.748
+2024-09-26 08:09:33,084 alphafold2_ptm_model_5_seed_047 recycle=1 pLDDT=85.8 pTM=0.778 tol=0.864
+2024-09-26 08:09:33,498 alphafold2_ptm_model_5_seed_047 recycle=2 pLDDT=88.1 pTM=0.808 tol=0.544
+2024-09-26 08:09:33,911 alphafold2_ptm_model_5_seed_047 recycle=3 pLDDT=87.7 pTM=0.807 tol=0.293
+2024-09-26 08:09:33,912 alphafold2_ptm_model_5_seed_047 took 1.6s (3 recycles)
+2024-09-26 08:09:35,516 alphafold2_ptm_model_1_seed_048 recycle=0 pLDDT=35.4 pTM=0.245
+2024-09-26 08:09:35,920 alphafold2_ptm_model_1_seed_048 recycle=1 pLDDT=36.6 pTM=0.21 tol=2.93
+2024-09-26 08:09:36,323 alphafold2_ptm_model_1_seed_048 recycle=2 pLDDT=36.7 pTM=0.254 tol=1.84
+2024-09-26 08:09:36,726 alphafold2_ptm_model_1_seed_048 recycle=3 pLDDT=57.4 pTM=0.496 tol=6.08
+2024-09-26 08:09:36,727 alphafold2_ptm_model_1_seed_048 took 1.6s (3 recycles)
+2024-09-26 08:09:37,152 alphafold2_ptm_model_2_seed_048 recycle=0 pLDDT=47.3 pTM=0.335
+2024-09-26 08:09:37,558 alphafold2_ptm_model_2_seed_048 recycle=1 pLDDT=80.3 pTM=0.706 tol=3.24
+2024-09-26 08:09:37,964 alphafold2_ptm_model_2_seed_048 recycle=2 pLDDT=78.4 pTM=0.681 tol=0.925
+2024-09-26 08:09:38,370 alphafold2_ptm_model_2_seed_048 recycle=3 pLDDT=81.4 pTM=0.732 tol=2.77
+2024-09-26 08:09:38,370 alphafold2_ptm_model_2_seed_048 took 1.6s (3 recycles)
+2024-09-26 08:09:38,799 alphafold2_ptm_model_3_seed_048 recycle=0 pLDDT=77.1 pTM=0.657
+2024-09-26 08:09:39,209 alphafold2_ptm_model_3_seed_048 recycle=1 pLDDT=86.8 pTM=0.778 tol=1.23
+2024-09-26 08:09:39,619 alphafold2_ptm_model_3_seed_048 recycle=2 pLDDT=86.7 pTM=0.778 tol=0.489
+2024-09-26 08:09:40,031 alphafold2_ptm_model_3_seed_048 recycle=3 pLDDT=88.6 pTM=0.803 tol=0.696
+2024-09-26 08:09:40,032 alphafold2_ptm_model_3_seed_048 took 1.6s (3 recycles)
+2024-09-26 08:09:40,456 alphafold2_ptm_model_4_seed_048 recycle=0 pLDDT=66.6 pTM=0.553
+2024-09-26 08:09:40,863 alphafold2_ptm_model_4_seed_048 recycle=1 pLDDT=83.9 pTM=0.748 tol=1.69
+2024-09-26 08:09:41,274 alphafold2_ptm_model_4_seed_048 recycle=2 pLDDT=87 pTM=0.785 tol=0.521
+2024-09-26 08:09:41,686 alphafold2_ptm_model_4_seed_048 recycle=3 pLDDT=87.6 pTM=0.796 tol=0.868
+2024-09-26 08:09:41,686 alphafold2_ptm_model_4_seed_048 took 1.6s (3 recycles)
+2024-09-26 08:09:42,112 alphafold2_ptm_model_5_seed_048 recycle=0 pLDDT=74.4 pTM=0.617
+2024-09-26 08:09:42,526 alphafold2_ptm_model_5_seed_048 recycle=1 pLDDT=86.4 pTM=0.782 tol=0.674
+2024-09-26 08:09:42,937 alphafold2_ptm_model_5_seed_048 recycle=2 pLDDT=86.7 pTM=0.788 tol=0.494
+2024-09-26 08:09:43,352 alphafold2_ptm_model_5_seed_048 recycle=3 pLDDT=87.8 pTM=0.809 tol=0.845
+2024-09-26 08:09:43,352 alphafold2_ptm_model_5_seed_048 took 1.6s (3 recycles)
+2024-09-26 08:09:44,959 alphafold2_ptm_model_1_seed_049 recycle=0 pLDDT=79.4 pTM=0.647
+2024-09-26 08:09:45,365 alphafold2_ptm_model_1_seed_049 recycle=1 pLDDT=83.6 pTM=0.723 tol=1.59
+2024-09-26 08:09:45,772 alphafold2_ptm_model_1_seed_049 recycle=2 pLDDT=83.6 pTM=0.735 tol=0.807
+2024-09-26 08:09:46,182 alphafold2_ptm_model_1_seed_049 recycle=3 pLDDT=85.4 pTM=0.765 tol=0.278
+2024-09-26 08:09:46,182 alphafold2_ptm_model_1_seed_049 took 1.6s (3 recycles)
+2024-09-26 08:09:46,608 alphafold2_ptm_model_2_seed_049 recycle=0 pLDDT=76.6 pTM=0.661
+2024-09-26 08:09:47,015 alphafold2_ptm_model_2_seed_049 recycle=1 pLDDT=84.1 pTM=0.756 tol=1.22
+2024-09-26 08:09:47,424 alphafold2_ptm_model_2_seed_049 recycle=2 pLDDT=84.2 pTM=0.759 tol=1.99
+2024-09-26 08:09:47,835 alphafold2_ptm_model_2_seed_049 recycle=3 pLDDT=87.9 pTM=0.798 tol=2.04
+2024-09-26 08:09:47,836 alphafold2_ptm_model_2_seed_049 took 1.6s (3 recycles)
+2024-09-26 08:09:48,265 alphafold2_ptm_model_3_seed_049 recycle=0 pLDDT=82.1 pTM=0.698
+2024-09-26 08:09:48,677 alphafold2_ptm_model_3_seed_049 recycle=1 pLDDT=85.4 pTM=0.761 tol=0.945
+2024-09-26 08:09:49,090 alphafold2_ptm_model_3_seed_049 recycle=2 pLDDT=87.9 pTM=0.792 tol=0.952
+2024-09-26 08:09:49,502 alphafold2_ptm_model_3_seed_049 recycle=3 pLDDT=88.7 pTM=0.802 tol=0.188
+2024-09-26 08:09:49,502 alphafold2_ptm_model_3_seed_049 took 1.6s (3 recycles)
+2024-09-26 08:09:49,931 alphafold2_ptm_model_4_seed_049 recycle=0 pLDDT=85.2 pTM=0.735
+2024-09-26 08:09:50,341 alphafold2_ptm_model_4_seed_049 recycle=1 pLDDT=86.6 pTM=0.774 tol=1.05
+2024-09-26 08:09:50,751 alphafold2_ptm_model_4_seed_049 recycle=2 pLDDT=87.4 pTM=0.786 tol=0.811
+2024-09-26 08:09:51,165 alphafold2_ptm_model_4_seed_049 recycle=3 pLDDT=88.8 pTM=0.805 tol=0.472
+2024-09-26 08:09:51,165 alphafold2_ptm_model_4_seed_049 took 1.6s (3 recycles)
+2024-09-26 08:09:51,594 alphafold2_ptm_model_5_seed_049 recycle=0 pLDDT=82.5 pTM=0.731
+2024-09-26 08:09:52,002 alphafold2_ptm_model_5_seed_049 recycle=1 pLDDT=84.6 pTM=0.762 tol=0.938
+2024-09-26 08:09:52,413 alphafold2_ptm_model_5_seed_049 recycle=2 pLDDT=86.3 pTM=0.781 tol=0.769
+2024-09-26 08:09:52,826 alphafold2_ptm_model_5_seed_049 recycle=3 pLDDT=87.6 pTM=0.807 tol=0.36
+2024-09-26 08:09:52,826 alphafold2_ptm_model_5_seed_049 took 1.6s (3 recycles)
+2024-09-26 08:09:54,379 alphafold2_ptm_model_1_seed_050 recycle=0 pLDDT=58.4 pTM=0.471
+2024-09-26 08:09:54,784 alphafold2_ptm_model_1_seed_050 recycle=1 pLDDT=84.6 pTM=0.726 tol=2.32
+2024-09-26 08:09:55,192 alphafold2_ptm_model_1_seed_050 recycle=2 pLDDT=84.9 pTM=0.752 tol=3.11
+2024-09-26 08:09:55,599 alphafold2_ptm_model_1_seed_050 recycle=3 pLDDT=85.5 pTM=0.761 tol=0.917
+2024-09-26 08:09:55,600 alphafold2_ptm_model_1_seed_050 took 1.6s (3 recycles)
+2024-09-26 08:09:56,027 alphafold2_ptm_model_2_seed_050 recycle=0 pLDDT=76.4 pTM=0.644
+2024-09-26 08:09:56,436 alphafold2_ptm_model_2_seed_050 recycle=1 pLDDT=84 pTM=0.751 tol=0.848
+2024-09-26 08:09:56,845 alphafold2_ptm_model_2_seed_050 recycle=2 pLDDT=84.8 pTM=0.766 tol=2.32
+2024-09-26 08:09:57,254 alphafold2_ptm_model_2_seed_050 recycle=3 pLDDT=85.9 pTM=0.777 tol=1.6
+2024-09-26 08:09:57,255 alphafold2_ptm_model_2_seed_050 took 1.6s (3 recycles)
+2024-09-26 08:09:57,682 alphafold2_ptm_model_3_seed_050 recycle=0 pLDDT=79.1 pTM=0.642
+2024-09-26 08:09:58,091 alphafold2_ptm_model_3_seed_050 recycle=1 pLDDT=87.8 pTM=0.775 tol=0.927
+2024-09-26 08:09:58,500 alphafold2_ptm_model_3_seed_050 recycle=2 pLDDT=86.9 pTM=0.769 tol=0.562
+2024-09-26 08:09:58,909 alphafold2_ptm_model_3_seed_050 recycle=3 pLDDT=86.8 pTM=0.773 tol=0.496
+2024-09-26 08:09:58,909 alphafold2_ptm_model_3_seed_050 took 1.6s (3 recycles)
+2024-09-26 08:09:59,335 alphafold2_ptm_model_4_seed_050 recycle=0 pLDDT=73.2 pTM=0.604
+2024-09-26 08:09:59,744 alphafold2_ptm_model_4_seed_050 recycle=1 pLDDT=86.8 pTM=0.772 tol=0.693
+2024-09-26 08:10:00,154 alphafold2_ptm_model_4_seed_050 recycle=2 pLDDT=86.9 pTM=0.771 tol=0.581
+2024-09-26 08:10:00,562 alphafold2_ptm_model_4_seed_050 recycle=3 pLDDT=87.1 pTM=0.779 tol=0.385
+2024-09-26 08:10:00,563 alphafold2_ptm_model_4_seed_050 took 1.6s (3 recycles)
+2024-09-26 08:10:00,988 alphafold2_ptm_model_5_seed_050 recycle=0 pLDDT=71 pTM=0.595
+2024-09-26 08:10:01,399 alphafold2_ptm_model_5_seed_050 recycle=1 pLDDT=86.6 pTM=0.785 tol=1.16
+2024-09-26 08:10:01,811 alphafold2_ptm_model_5_seed_050 recycle=2 pLDDT=86.8 pTM=0.785 tol=0.786
+2024-09-26 08:10:02,224 alphafold2_ptm_model_5_seed_050 recycle=3 pLDDT=87.9 pTM=0.803 tol=0.48
+2024-09-26 08:10:02,224 alphafold2_ptm_model_5_seed_050 took 1.6s (3 recycles)
+2024-09-26 08:10:03,783 alphafold2_ptm_model_1_seed_051 recycle=0 pLDDT=45.2 pTM=0.395
+2024-09-26 08:10:04,187 alphafold2_ptm_model_1_seed_051 recycle=1 pLDDT=36.7 pTM=0.286 tol=1.81
+2024-09-26 08:10:04,591 alphafold2_ptm_model_1_seed_051 recycle=2 pLDDT=55.2 pTM=0.45 tol=5.31
+2024-09-26 08:10:04,995 alphafold2_ptm_model_1_seed_051 recycle=3 pLDDT=82.5 pTM=0.709 tol=3.71
+2024-09-26 08:10:04,995 alphafold2_ptm_model_1_seed_051 took 1.6s (3 recycles)
+2024-09-26 08:10:05,418 alphafold2_ptm_model_2_seed_051 recycle=0 pLDDT=38.4 pTM=0.303
+2024-09-26 08:10:05,822 alphafold2_ptm_model_2_seed_051 recycle=1 pLDDT=55.3 pTM=0.471 tol=5.68
+2024-09-26 08:10:06,224 alphafold2_ptm_model_2_seed_051 recycle=2 pLDDT=55.3 pTM=0.458 tol=4.61
+2024-09-26 08:10:06,629 alphafold2_ptm_model_2_seed_051 recycle=3 pLDDT=78.2 pTM=0.695 tol=1.82
+2024-09-26 08:10:06,630 alphafold2_ptm_model_2_seed_051 took 1.6s (3 recycles)
+2024-09-26 08:10:07,057 alphafold2_ptm_model_3_seed_051 recycle=0 pLDDT=59 pTM=0.489
+2024-09-26 08:10:07,464 alphafold2_ptm_model_3_seed_051 recycle=1 pLDDT=82.2 pTM=0.722 tol=3.85
+2024-09-26 08:10:07,872 alphafold2_ptm_model_3_seed_051 recycle=2 pLDDT=84.9 pTM=0.758 tol=0.396
+2024-09-26 08:10:08,282 alphafold2_ptm_model_3_seed_051 recycle=3 pLDDT=87.4 pTM=0.788 tol=0.691
+2024-09-26 08:10:08,283 alphafold2_ptm_model_3_seed_051 took 1.6s (3 recycles)
+2024-09-26 08:10:08,707 alphafold2_ptm_model_4_seed_051 recycle=0 pLDDT=42.5 pTM=0.336
+2024-09-26 08:10:09,113 alphafold2_ptm_model_4_seed_051 recycle=1 pLDDT=80.8 pTM=0.69 tol=6.48
+2024-09-26 08:10:09,519 alphafold2_ptm_model_4_seed_051 recycle=2 pLDDT=83.1 pTM=0.732 tol=1.17
+2024-09-26 08:10:09,928 alphafold2_ptm_model_4_seed_051 recycle=3 pLDDT=87.1 pTM=0.78 tol=2.32
+2024-09-26 08:10:09,928 alphafold2_ptm_model_4_seed_051 took 1.6s (3 recycles)
+2024-09-26 08:10:10,356 alphafold2_ptm_model_5_seed_051 recycle=0 pLDDT=76.2 pTM=0.679
+2024-09-26 08:10:10,764 alphafold2_ptm_model_5_seed_051 recycle=1 pLDDT=83.1 pTM=0.761 tol=2.31
+2024-09-26 08:10:11,177 alphafold2_ptm_model_5_seed_051 recycle=2 pLDDT=86.4 pTM=0.79 tol=1.88
+2024-09-26 08:10:11,589 alphafold2_ptm_model_5_seed_051 recycle=3 pLDDT=87.1 pTM=0.801 tol=0.621
+2024-09-26 08:10:11,590 alphafold2_ptm_model_5_seed_051 took 1.6s (3 recycles)
+2024-09-26 08:10:13,143 alphafold2_ptm_model_1_seed_052 recycle=0 pLDDT=44.4 pTM=0.327
+2024-09-26 08:10:13,546 alphafold2_ptm_model_1_seed_052 recycle=1 pLDDT=64.6 pTM=0.509 tol=3.04
+2024-09-26 08:10:13,951 alphafold2_ptm_model_1_seed_052 recycle=2 pLDDT=83.3 pTM=0.724 tol=0.901
+2024-09-26 08:10:14,356 alphafold2_ptm_model_1_seed_052 recycle=3 pLDDT=83.4 pTM=0.735 tol=0.549
+2024-09-26 08:10:14,356 alphafold2_ptm_model_1_seed_052 took 1.6s (3 recycles)
+2024-09-26 08:10:14,780 alphafold2_ptm_model_2_seed_052 recycle=0 pLDDT=64.4 pTM=0.53
+2024-09-26 08:10:15,183 alphafold2_ptm_model_2_seed_052 recycle=1 pLDDT=64.8 pTM=0.548 tol=3.62
+2024-09-26 08:10:15,589 alphafold2_ptm_model_2_seed_052 recycle=2 pLDDT=81.9 pTM=0.727 tol=3.28
+2024-09-26 08:10:15,996 alphafold2_ptm_model_2_seed_052 recycle=3 pLDDT=83.4 pTM=0.751 tol=0.689
+2024-09-26 08:10:15,996 alphafold2_ptm_model_2_seed_052 took 1.6s (3 recycles)
+2024-09-26 08:10:16,419 alphafold2_ptm_model_3_seed_052 recycle=0 pLDDT=65.8 pTM=0.527
+2024-09-26 08:10:16,823 alphafold2_ptm_model_3_seed_052 recycle=1 pLDDT=68.3 pTM=0.567 tol=1.34
+2024-09-26 08:10:17,227 alphafold2_ptm_model_3_seed_052 recycle=2 pLDDT=76.9 pTM=0.633 tol=3.36
+2024-09-26 08:10:17,633 alphafold2_ptm_model_3_seed_052 recycle=3 pLDDT=84.7 pTM=0.749 tol=0.534
+2024-09-26 08:10:17,634 alphafold2_ptm_model_3_seed_052 took 1.6s (3 recycles)
+2024-09-26 08:10:18,058 alphafold2_ptm_model_4_seed_052 recycle=0 pLDDT=61.7 pTM=0.475
+2024-09-26 08:10:18,466 alphafold2_ptm_model_4_seed_052 recycle=1 pLDDT=84.2 pTM=0.746 tol=1.72
+2024-09-26 08:10:18,873 alphafold2_ptm_model_4_seed_052 recycle=2 pLDDT=86 pTM=0.766 tol=1.06
+2024-09-26 08:10:19,281 alphafold2_ptm_model_4_seed_052 recycle=3 pLDDT=86.6 pTM=0.766 tol=0.588
+2024-09-26 08:10:19,282 alphafold2_ptm_model_4_seed_052 took 1.6s (3 recycles)
+2024-09-26 08:10:19,709 alphafold2_ptm_model_5_seed_052 recycle=0 pLDDT=77.9 pTM=0.637
+2024-09-26 08:10:20,118 alphafold2_ptm_model_5_seed_052 recycle=1 pLDDT=84.9 pTM=0.771 tol=1.39
+2024-09-26 08:10:20,526 alphafold2_ptm_model_5_seed_052 recycle=2 pLDDT=85 pTM=0.772 tol=0.482
+2024-09-26 08:10:20,934 alphafold2_ptm_model_5_seed_052 recycle=3 pLDDT=84.3 pTM=0.763 tol=0.345
+2024-09-26 08:10:20,935 alphafold2_ptm_model_5_seed_052 took 1.6s (3 recycles)
+2024-09-26 08:10:22,467 alphafold2_ptm_model_1_seed_053 recycle=0 pLDDT=64.2 pTM=0.535
+2024-09-26 08:10:22,874 alphafold2_ptm_model_1_seed_053 recycle=1 pLDDT=83.9 pTM=0.741 tol=1.65
+2024-09-26 08:10:23,279 alphafold2_ptm_model_1_seed_053 recycle=2 pLDDT=83.8 pTM=0.743 tol=2.29
+2024-09-26 08:10:23,684 alphafold2_ptm_model_1_seed_053 recycle=3 pLDDT=83.5 pTM=0.731 tol=0.727
+2024-09-26 08:10:23,685 alphafold2_ptm_model_1_seed_053 took 1.6s (3 recycles)
+2024-09-26 08:10:24,111 alphafold2_ptm_model_2_seed_053 recycle=0 pLDDT=69.4 pTM=0.602
+2024-09-26 08:10:24,518 alphafold2_ptm_model_2_seed_053 recycle=1 pLDDT=86 pTM=0.771 tol=1.05
+2024-09-26 08:10:24,925 alphafold2_ptm_model_2_seed_053 recycle=2 pLDDT=83.9 pTM=0.761 tol=1.76
+2024-09-26 08:10:25,333 alphafold2_ptm_model_2_seed_053 recycle=3 pLDDT=82.7 pTM=0.745 tol=1.16
+2024-09-26 08:10:25,333 alphafold2_ptm_model_2_seed_053 took 1.6s (3 recycles)
+2024-09-26 08:10:25,761 alphafold2_ptm_model_3_seed_053 recycle=0 pLDDT=76.6 pTM=0.645
+2024-09-26 08:10:26,168 alphafold2_ptm_model_3_seed_053 recycle=1 pLDDT=85.1 pTM=0.765 tol=0.994
+2024-09-26 08:10:26,577 alphafold2_ptm_model_3_seed_053 recycle=2 pLDDT=86.3 pTM=0.777 tol=0.953
+2024-09-26 08:10:26,987 alphafold2_ptm_model_3_seed_053 recycle=3 pLDDT=86.7 pTM=0.777 tol=0.423
+2024-09-26 08:10:26,987 alphafold2_ptm_model_3_seed_053 took 1.6s (3 recycles)
+2024-09-26 08:10:27,415 alphafold2_ptm_model_4_seed_053 recycle=0 pLDDT=75.6 pTM=0.632
+2024-09-26 08:10:27,824 alphafold2_ptm_model_4_seed_053 recycle=1 pLDDT=87.8 pTM=0.789 tol=1.3
+2024-09-26 08:10:28,232 alphafold2_ptm_model_4_seed_053 recycle=2 pLDDT=88.2 pTM=0.789 tol=0.33
+2024-09-26 08:10:28,642 alphafold2_ptm_model_4_seed_053 recycle=3 pLDDT=87.9 pTM=0.785 tol=0.17
+2024-09-26 08:10:28,642 alphafold2_ptm_model_4_seed_053 took 1.6s (3 recycles)
+2024-09-26 08:10:29,070 alphafold2_ptm_model_5_seed_053 recycle=0 pLDDT=81.6 pTM=0.705
+2024-09-26 08:10:29,478 alphafold2_ptm_model_5_seed_053 recycle=1 pLDDT=84.1 pTM=0.767 tol=1.13
+2024-09-26 08:10:29,890 alphafold2_ptm_model_5_seed_053 recycle=2 pLDDT=87.2 pTM=0.792 tol=0.631
+2024-09-26 08:10:30,301 alphafold2_ptm_model_5_seed_053 recycle=3 pLDDT=86.7 pTM=0.787 tol=0.219
+2024-09-26 08:10:30,301 alphafold2_ptm_model_5_seed_053 took 1.6s (3 recycles)
+2024-09-26 08:10:31,887 alphafold2_ptm_model_1_seed_054 recycle=0 pLDDT=49.4 pTM=0.409
+2024-09-26 08:10:32,292 alphafold2_ptm_model_1_seed_054 recycle=1 pLDDT=77.6 pTM=0.66 tol=4.62
+2024-09-26 08:10:32,699 alphafold2_ptm_model_1_seed_054 recycle=2 pLDDT=84.9 pTM=0.755 tol=0.571
+2024-09-26 08:10:33,105 alphafold2_ptm_model_1_seed_054 recycle=3 pLDDT=84.9 pTM=0.75 tol=0.283
+2024-09-26 08:10:33,105 alphafold2_ptm_model_1_seed_054 took 1.6s (3 recycles)
+2024-09-26 08:10:33,531 alphafold2_ptm_model_2_seed_054 recycle=0 pLDDT=51.2 pTM=0.39
+2024-09-26 08:10:33,936 alphafold2_ptm_model_2_seed_054 recycle=1 pLDDT=77.6 pTM=0.666 tol=4.16
+2024-09-26 08:10:34,344 alphafold2_ptm_model_2_seed_054 recycle=2 pLDDT=83.9 pTM=0.753 tol=1.03
+2024-09-26 08:10:34,751 alphafold2_ptm_model_2_seed_054 recycle=3 pLDDT=84.9 pTM=0.766 tol=0.65
+2024-09-26 08:10:34,752 alphafold2_ptm_model_2_seed_054 took 1.6s (3 recycles)
+2024-09-26 08:10:35,175 alphafold2_ptm_model_3_seed_054 recycle=0 pLDDT=66.1 pTM=0.531
+2024-09-26 08:10:35,580 alphafold2_ptm_model_3_seed_054 recycle=1 pLDDT=78.2 pTM=0.67 tol=3.96
+2024-09-26 08:10:35,987 alphafold2_ptm_model_3_seed_054 recycle=2 pLDDT=84.2 pTM=0.758 tol=2.58
+2024-09-26 08:10:36,395 alphafold2_ptm_model_3_seed_054 recycle=3 pLDDT=86.1 pTM=0.774 tol=0.89
+2024-09-26 08:10:36,395 alphafold2_ptm_model_3_seed_054 took 1.6s (3 recycles)
+2024-09-26 08:10:36,819 alphafold2_ptm_model_4_seed_054 recycle=0 pLDDT=66.6 pTM=0.543
+2024-09-26 08:10:37,226 alphafold2_ptm_model_4_seed_054 recycle=1 pLDDT=82.1 pTM=0.72 tol=1.47
+2024-09-26 08:10:37,636 alphafold2_ptm_model_4_seed_054 recycle=2 pLDDT=86 pTM=0.772 tol=1.83
+2024-09-26 08:10:38,048 alphafold2_ptm_model_4_seed_054 recycle=3 pLDDT=87.4 pTM=0.788 tol=2.07
+2024-09-26 08:10:38,048 alphafold2_ptm_model_4_seed_054 took 1.6s (3 recycles)
+2024-09-26 08:10:38,472 alphafold2_ptm_model_5_seed_054 recycle=0 pLDDT=61.6 pTM=0.509
+2024-09-26 08:10:38,881 alphafold2_ptm_model_5_seed_054 recycle=1 pLDDT=84.2 pTM=0.759 tol=3.68
+2024-09-26 08:10:39,291 alphafold2_ptm_model_5_seed_054 recycle=2 pLDDT=86.8 pTM=0.784 tol=0.67
+2024-09-26 08:10:39,702 alphafold2_ptm_model_5_seed_054 recycle=3 pLDDT=86.4 pTM=0.786 tol=0.245
+2024-09-26 08:10:39,702 alphafold2_ptm_model_5_seed_054 took 1.6s (3 recycles)
+2024-09-26 08:10:41,233 alphafold2_ptm_model_1_seed_055 recycle=0 pLDDT=55 pTM=0.43
+2024-09-26 08:10:41,637 alphafold2_ptm_model_1_seed_055 recycle=1 pLDDT=76.6 pTM=0.646 tol=1.73
+2024-09-26 08:10:42,041 alphafold2_ptm_model_1_seed_055 recycle=2 pLDDT=81.8 pTM=0.709 tol=0.803
+2024-09-26 08:10:42,446 alphafold2_ptm_model_1_seed_055 recycle=3 pLDDT=83.4 pTM=0.73 tol=0.886
+2024-09-26 08:10:42,447 alphafold2_ptm_model_1_seed_055 took 1.6s (3 recycles)
+2024-09-26 08:10:42,870 alphafold2_ptm_model_2_seed_055 recycle=0 pLDDT=66.3 pTM=0.558
+2024-09-26 08:10:43,276 alphafold2_ptm_model_2_seed_055 recycle=1 pLDDT=82.3 pTM=0.729 tol=1.45
+2024-09-26 08:10:43,685 alphafold2_ptm_model_2_seed_055 recycle=2 pLDDT=83.1 pTM=0.752 tol=2.97
+2024-09-26 08:10:44,095 alphafold2_ptm_model_2_seed_055 recycle=3 pLDDT=85.1 pTM=0.767 tol=2.57
+2024-09-26 08:10:44,095 alphafold2_ptm_model_2_seed_055 took 1.6s (3 recycles)
+2024-09-26 08:10:44,520 alphafold2_ptm_model_3_seed_055 recycle=0 pLDDT=74 pTM=0.597
+2024-09-26 08:10:44,928 alphafold2_ptm_model_3_seed_055 recycle=1 pLDDT=86.9 pTM=0.769 tol=1.15
+2024-09-26 08:10:45,337 alphafold2_ptm_model_3_seed_055 recycle=2 pLDDT=86.5 pTM=0.772 tol=0.384
+2024-09-26 08:10:45,747 alphafold2_ptm_model_3_seed_055 recycle=3 pLDDT=88 pTM=0.792 tol=0.299
+2024-09-26 08:10:45,747 alphafold2_ptm_model_3_seed_055 took 1.6s (3 recycles)
+2024-09-26 08:10:46,171 alphafold2_ptm_model_4_seed_055 recycle=0 pLDDT=78.9 pTM=0.654
+2024-09-26 08:10:46,579 alphafold2_ptm_model_4_seed_055 recycle=1 pLDDT=85.6 pTM=0.753 tol=1.26
+2024-09-26 08:10:46,987 alphafold2_ptm_model_4_seed_055 recycle=2 pLDDT=85.9 pTM=0.767 tol=0.576
+2024-09-26 08:10:47,398 alphafold2_ptm_model_4_seed_055 recycle=3 pLDDT=88.4 pTM=0.79 tol=0.388
+2024-09-26 08:10:47,398 alphafold2_ptm_model_4_seed_055 took 1.6s (3 recycles)
+2024-09-26 08:10:47,824 alphafold2_ptm_model_5_seed_055 recycle=0 pLDDT=79.4 pTM=0.677
+2024-09-26 08:10:48,233 alphafold2_ptm_model_5_seed_055 recycle=1 pLDDT=84.9 pTM=0.761 tol=1.16
+2024-09-26 08:10:48,642 alphafold2_ptm_model_5_seed_055 recycle=2 pLDDT=84.4 pTM=0.766 tol=1.03
+2024-09-26 08:10:49,055 alphafold2_ptm_model_5_seed_055 recycle=3 pLDDT=87.8 pTM=0.798 tol=0.437
+2024-09-26 08:10:49,056 alphafold2_ptm_model_5_seed_055 took 1.6s (3 recycles)
+2024-09-26 08:10:51,082 alphafold2_ptm_model_1_seed_056 recycle=0 pLDDT=36.2 pTM=0.226
+2024-09-26 08:10:51,485 alphafold2_ptm_model_1_seed_056 recycle=1 pLDDT=53.8 pTM=0.415 tol=7.97
+2024-09-26 08:10:51,890 alphafold2_ptm_model_1_seed_056 recycle=2 pLDDT=84.2 pTM=0.737 tol=1.45
+2024-09-26 08:10:52,296 alphafold2_ptm_model_1_seed_056 recycle=3 pLDDT=84.9 pTM=0.749 tol=0.494
+2024-09-26 08:10:52,296 alphafold2_ptm_model_1_seed_056 took 1.6s (3 recycles)
+2024-09-26 08:10:52,722 alphafold2_ptm_model_2_seed_056 recycle=0 pLDDT=60.8 pTM=0.52
+2024-09-26 08:10:53,127 alphafold2_ptm_model_2_seed_056 recycle=1 pLDDT=78.2 pTM=0.674 tol=3.96
+2024-09-26 08:10:53,534 alphafold2_ptm_model_2_seed_056 recycle=2 pLDDT=83.2 pTM=0.747 tol=1.01
+2024-09-26 08:10:53,942 alphafold2_ptm_model_2_seed_056 recycle=3 pLDDT=84.2 pTM=0.758 tol=0.533
+2024-09-26 08:10:53,943 alphafold2_ptm_model_2_seed_056 took 1.6s (3 recycles)
+2024-09-26 08:10:54,368 alphafold2_ptm_model_3_seed_056 recycle=0 pLDDT=68.4 pTM=0.573
+2024-09-26 08:10:54,775 alphafold2_ptm_model_3_seed_056 recycle=1 pLDDT=83.5 pTM=0.729 tol=3.36
+2024-09-26 08:10:55,183 alphafold2_ptm_model_3_seed_056 recycle=2 pLDDT=85.9 pTM=0.766 tol=0.557
+2024-09-26 08:10:55,594 alphafold2_ptm_model_3_seed_056 recycle=3 pLDDT=87.4 pTM=0.787 tol=0.457
+2024-09-26 08:10:55,594 alphafold2_ptm_model_3_seed_056 took 1.6s (3 recycles)
+2024-09-26 08:10:56,019 alphafold2_ptm_model_4_seed_056 recycle=0 pLDDT=66.9 pTM=0.547
+2024-09-26 08:10:56,426 alphafold2_ptm_model_4_seed_056 recycle=1 pLDDT=83.9 pTM=0.737 tol=1.37
+2024-09-26 08:10:56,834 alphafold2_ptm_model_4_seed_056 recycle=2 pLDDT=85.8 pTM=0.762 tol=0.676
+2024-09-26 08:10:57,243 alphafold2_ptm_model_4_seed_056 recycle=3 pLDDT=86.4 pTM=0.771 tol=0.402
+2024-09-26 08:10:57,243 alphafold2_ptm_model_4_seed_056 took 1.6s (3 recycles)
+2024-09-26 08:10:57,670 alphafold2_ptm_model_5_seed_056 recycle=0 pLDDT=66.8 pTM=0.565
+2024-09-26 08:10:58,080 alphafold2_ptm_model_5_seed_056 recycle=1 pLDDT=85.7 pTM=0.776 tol=0.832
+2024-09-26 08:10:58,491 alphafold2_ptm_model_5_seed_056 recycle=2 pLDDT=86.9 pTM=0.788 tol=0.689
+2024-09-26 08:10:58,905 alphafold2_ptm_model_5_seed_056 recycle=3 pLDDT=87.3 pTM=0.801 tol=0.471
+2024-09-26 08:10:58,906 alphafold2_ptm_model_5_seed_056 took 1.6s (3 recycles)
+2024-09-26 08:11:00,425 alphafold2_ptm_model_1_seed_057 recycle=0 pLDDT=56.7 pTM=0.479
+2024-09-26 08:11:00,828 alphafold2_ptm_model_1_seed_057 recycle=1 pLDDT=68.7 pTM=0.601 tol=1.97
+2024-09-26 08:11:01,231 alphafold2_ptm_model_1_seed_057 recycle=2 pLDDT=77.1 pTM=0.631 tol=0.953
+2024-09-26 08:11:01,635 alphafold2_ptm_model_1_seed_057 recycle=3 pLDDT=76.1 pTM=0.656 tol=0.549
+2024-09-26 08:11:01,635 alphafold2_ptm_model_1_seed_057 took 1.6s (3 recycles)
+2024-09-26 08:11:02,062 alphafold2_ptm_model_2_seed_057 recycle=0 pLDDT=61.2 pTM=0.522
+2024-09-26 08:11:02,466 alphafold2_ptm_model_2_seed_057 recycle=1 pLDDT=71.8 pTM=0.626 tol=2.58
+2024-09-26 08:11:02,871 alphafold2_ptm_model_2_seed_057 recycle=2 pLDDT=81.2 pTM=0.716 tol=1.05
+2024-09-26 08:11:03,278 alphafold2_ptm_model_2_seed_057 recycle=3 pLDDT=82.8 pTM=0.744 tol=0.34
+2024-09-26 08:11:03,278 alphafold2_ptm_model_2_seed_057 took 1.6s (3 recycles)
+2024-09-26 08:11:03,703 alphafold2_ptm_model_3_seed_057 recycle=0 pLDDT=74.2 pTM=0.598
+2024-09-26 08:11:04,110 alphafold2_ptm_model_3_seed_057 recycle=1 pLDDT=85.8 pTM=0.751 tol=1.18
+2024-09-26 08:11:04,516 alphafold2_ptm_model_3_seed_057 recycle=2 pLDDT=83.9 pTM=0.74 tol=0.997
+2024-09-26 08:11:04,926 alphafold2_ptm_model_3_seed_057 recycle=3 pLDDT=85.8 pTM=0.764 tol=0.944
+2024-09-26 08:11:04,926 alphafold2_ptm_model_3_seed_057 took 1.6s (3 recycles)
+2024-09-26 08:11:05,352 alphafold2_ptm_model_4_seed_057 recycle=0 pLDDT=72.2 pTM=0.617
+2024-09-26 08:11:05,760 alphafold2_ptm_model_4_seed_057 recycle=1 pLDDT=85.1 pTM=0.754 tol=1.64
+2024-09-26 08:11:06,170 alphafold2_ptm_model_4_seed_057 recycle=2 pLDDT=86.6 pTM=0.775 tol=1.68
+2024-09-26 08:11:06,580 alphafold2_ptm_model_4_seed_057 recycle=3 pLDDT=87.6 pTM=0.785 tol=2.12
+2024-09-26 08:11:06,581 alphafold2_ptm_model_4_seed_057 took 1.6s (3 recycles)
+2024-09-26 08:11:07,007 alphafold2_ptm_model_5_seed_057 recycle=0 pLDDT=69.1 pTM=0.601
+2024-09-26 08:11:07,413 alphafold2_ptm_model_5_seed_057 recycle=1 pLDDT=82.2 pTM=0.716 tol=2.1
+2024-09-26 08:11:07,822 alphafold2_ptm_model_5_seed_057 recycle=2 pLDDT=85.8 pTM=0.774 tol=0.657
+2024-09-26 08:11:08,233 alphafold2_ptm_model_5_seed_057 recycle=3 pLDDT=86.9 pTM=0.789 tol=0.285
+2024-09-26 08:11:08,234 alphafold2_ptm_model_5_seed_057 took 1.6s (3 recycles)
+2024-09-26 08:11:09,757 alphafold2_ptm_model_1_seed_058 recycle=0 pLDDT=47.2 pTM=0.338
+2024-09-26 08:11:10,160 alphafold2_ptm_model_1_seed_058 recycle=1 pLDDT=75.8 pTM=0.64 tol=3.23
+2024-09-26 08:11:10,566 alphafold2_ptm_model_1_seed_058 recycle=2 pLDDT=83.2 pTM=0.734 tol=1.01
+2024-09-26 08:11:10,971 alphafold2_ptm_model_1_seed_058 recycle=3 pLDDT=83.1 pTM=0.739 tol=0.373
+2024-09-26 08:11:10,972 alphafold2_ptm_model_1_seed_058 took 1.6s (3 recycles)
+2024-09-26 08:11:11,397 alphafold2_ptm_model_2_seed_058 recycle=0 pLDDT=62.2 pTM=0.523
+2024-09-26 08:11:11,805 alphafold2_ptm_model_2_seed_058 recycle=1 pLDDT=85.6 pTM=0.762 tol=3.81
+2024-09-26 08:11:12,214 alphafold2_ptm_model_2_seed_058 recycle=2 pLDDT=85.3 pTM=0.773 tol=0.908
+2024-09-26 08:11:12,622 alphafold2_ptm_model_2_seed_058 recycle=3 pLDDT=84.5 pTM=0.768 tol=0.929
+2024-09-26 08:11:12,622 alphafold2_ptm_model_2_seed_058 took 1.6s (3 recycles)
+2024-09-26 08:11:13,046 alphafold2_ptm_model_3_seed_058 recycle=0 pLDDT=65.7 pTM=0.556
+2024-09-26 08:11:13,451 alphafold2_ptm_model_3_seed_058 recycle=1 pLDDT=82.7 pTM=0.691 tol=3.61
+2024-09-26 08:11:13,861 alphafold2_ptm_model_3_seed_058 recycle=2 pLDDT=87.1 pTM=0.781 tol=1.13
+2024-09-26 08:11:14,268 alphafold2_ptm_model_3_seed_058 recycle=3 pLDDT=85.3 pTM=0.759 tol=0.309
+2024-09-26 08:11:14,268 alphafold2_ptm_model_3_seed_058 took 1.6s (3 recycles)
+2024-09-26 08:11:14,691 alphafold2_ptm_model_4_seed_058 recycle=0 pLDDT=61.2 pTM=0.545
+2024-09-26 08:11:15,099 alphafold2_ptm_model_4_seed_058 recycle=1 pLDDT=86.1 pTM=0.759 tol=3.91
+2024-09-26 08:11:15,509 alphafold2_ptm_model_4_seed_058 recycle=2 pLDDT=86.1 pTM=0.774 tol=0.938
+2024-09-26 08:11:15,918 alphafold2_ptm_model_4_seed_058 recycle=3 pLDDT=85.9 pTM=0.769 tol=0.489
+2024-09-26 08:11:15,918 alphafold2_ptm_model_4_seed_058 took 1.6s (3 recycles)
+2024-09-26 08:11:16,345 alphafold2_ptm_model_5_seed_058 recycle=0 pLDDT=77.2 pTM=0.684
+2024-09-26 08:11:16,754 alphafold2_ptm_model_5_seed_058 recycle=1 pLDDT=85.8 pTM=0.78 tol=1.05
+2024-09-26 08:11:17,167 alphafold2_ptm_model_5_seed_058 recycle=2 pLDDT=87.8 pTM=0.801 tol=0.895
+2024-09-26 08:11:17,578 alphafold2_ptm_model_5_seed_058 recycle=3 pLDDT=86.7 pTM=0.799 tol=0.471
+2024-09-26 08:11:17,579 alphafold2_ptm_model_5_seed_058 took 1.6s (3 recycles)
+2024-09-26 08:11:19,102 alphafold2_ptm_model_1_seed_059 recycle=0 pLDDT=70.2 pTM=0.557
+2024-09-26 08:11:19,508 alphafold2_ptm_model_1_seed_059 recycle=1 pLDDT=84.5 pTM=0.744 tol=0.931
+2024-09-26 08:11:19,913 alphafold2_ptm_model_1_seed_059 recycle=2 pLDDT=82.8 pTM=0.733 tol=2.53
+2024-09-26 08:11:20,321 alphafold2_ptm_model_1_seed_059 recycle=3 pLDDT=83.9 pTM=0.745 tol=0.448
+2024-09-26 08:11:20,321 alphafold2_ptm_model_1_seed_059 took 1.6s (3 recycles)
+2024-09-26 08:11:20,753 alphafold2_ptm_model_2_seed_059 recycle=0 pLDDT=80.6 pTM=0.707
+2024-09-26 08:11:21,161 alphafold2_ptm_model_2_seed_059 recycle=1 pLDDT=84.8 pTM=0.763 tol=3.02
+2024-09-26 08:11:21,571 alphafold2_ptm_model_2_seed_059 recycle=2 pLDDT=85.5 pTM=0.779 tol=0.472
+2024-09-26 08:11:21,979 alphafold2_ptm_model_2_seed_059 recycle=3 pLDDT=82.9 pTM=0.75 tol=0.413
+2024-09-26 08:11:21,980 alphafold2_ptm_model_2_seed_059 took 1.6s (3 recycles)
+2024-09-26 08:11:22,407 alphafold2_ptm_model_3_seed_059 recycle=0 pLDDT=80.9 pTM=0.695
+2024-09-26 08:11:22,815 alphafold2_ptm_model_3_seed_059 recycle=1 pLDDT=88.8 pTM=0.793 tol=0.854
+2024-09-26 08:11:23,227 alphafold2_ptm_model_3_seed_059 recycle=2 pLDDT=86.9 pTM=0.783 tol=0.352
+2024-09-26 08:11:23,637 alphafold2_ptm_model_3_seed_059 recycle=3 pLDDT=87.4 pTM=0.788 tol=0.423
+2024-09-26 08:11:23,638 alphafold2_ptm_model_3_seed_059 took 1.6s (3 recycles)
+2024-09-26 08:11:24,064 alphafold2_ptm_model_4_seed_059 recycle=0 pLDDT=83.2 pTM=0.716
+2024-09-26 08:11:24,472 alphafold2_ptm_model_4_seed_059 recycle=1 pLDDT=86.4 pTM=0.771 tol=0.706
+2024-09-26 08:11:24,880 alphafold2_ptm_model_4_seed_059 recycle=2 pLDDT=85.9 pTM=0.772 tol=0.719
+2024-09-26 08:11:25,292 alphafold2_ptm_model_4_seed_059 recycle=3 pLDDT=88.1 pTM=0.794 tol=0.432
+2024-09-26 08:11:25,292 alphafold2_ptm_model_4_seed_059 took 1.6s (3 recycles)
+2024-09-26 08:11:25,720 alphafold2_ptm_model_5_seed_059 recycle=0 pLDDT=83.1 pTM=0.729
+2024-09-26 08:11:26,129 alphafold2_ptm_model_5_seed_059 recycle=1 pLDDT=85.4 pTM=0.779 tol=0.75
+2024-09-26 08:11:26,543 alphafold2_ptm_model_5_seed_059 recycle=2 pLDDT=87.4 pTM=0.806 tol=0.762
+2024-09-26 08:11:26,956 alphafold2_ptm_model_5_seed_059 recycle=3 pLDDT=88.3 pTM=0.806 tol=0.834
+2024-09-26 08:11:26,956 alphafold2_ptm_model_5_seed_059 took 1.6s (3 recycles)
+2024-09-26 08:11:28,475 alphafold2_ptm_model_1_seed_060 recycle=0 pLDDT=59.1 pTM=0.503
+2024-09-26 08:11:28,879 alphafold2_ptm_model_1_seed_060 recycle=1 pLDDT=65.9 pTM=0.586 tol=4.03
+2024-09-26 08:11:29,283 alphafold2_ptm_model_1_seed_060 recycle=2 pLDDT=77.3 pTM=0.668 tol=2.23
+2024-09-26 08:11:29,687 alphafold2_ptm_model_1_seed_060 recycle=3 pLDDT=81.7 pTM=0.716 tol=0.558
+2024-09-26 08:11:29,688 alphafold2_ptm_model_1_seed_060 took 1.6s (3 recycles)
+2024-09-26 08:11:30,112 alphafold2_ptm_model_2_seed_060 recycle=0 pLDDT=63.9 pTM=0.568
+2024-09-26 08:11:30,519 alphafold2_ptm_model_2_seed_060 recycle=1 pLDDT=83.1 pTM=0.748 tol=3.11
+2024-09-26 08:11:30,925 alphafold2_ptm_model_2_seed_060 recycle=2 pLDDT=82.1 pTM=0.746 tol=0.438
+2024-09-26 08:11:31,331 alphafold2_ptm_model_2_seed_060 recycle=3 pLDDT=82.1 pTM=0.738 tol=0.958
+2024-09-26 08:11:31,331 alphafold2_ptm_model_2_seed_060 took 1.6s (3 recycles)
+2024-09-26 08:11:31,756 alphafold2_ptm_model_3_seed_060 recycle=0 pLDDT=74.6 pTM=0.607
+2024-09-26 08:11:32,164 alphafold2_ptm_model_3_seed_060 recycle=1 pLDDT=85.6 pTM=0.761 tol=1.02
+2024-09-26 08:11:32,572 alphafold2_ptm_model_3_seed_060 recycle=2 pLDDT=85.4 pTM=0.764 tol=0.412
+2024-09-26 08:11:32,979 alphafold2_ptm_model_3_seed_060 recycle=3 pLDDT=85 pTM=0.751 tol=0.324
+2024-09-26 08:11:32,979 alphafold2_ptm_model_3_seed_060 took 1.6s (3 recycles)
+2024-09-26 08:11:33,403 alphafold2_ptm_model_4_seed_060 recycle=0 pLDDT=68.6 pTM=0.578
+2024-09-26 08:11:33,808 alphafold2_ptm_model_4_seed_060 recycle=1 pLDDT=84.3 pTM=0.725 tol=1.58
+2024-09-26 08:11:34,217 alphafold2_ptm_model_4_seed_060 recycle=2 pLDDT=86.6 pTM=0.777 tol=0.566
+2024-09-26 08:11:34,624 alphafold2_ptm_model_4_seed_060 recycle=3 pLDDT=85.4 pTM=0.755 tol=0.322
+2024-09-26 08:11:34,624 alphafold2_ptm_model_4_seed_060 took 1.6s (3 recycles)
+2024-09-26 08:11:35,050 alphafold2_ptm_model_5_seed_060 recycle=0 pLDDT=78.6 pTM=0.681
+2024-09-26 08:11:35,457 alphafold2_ptm_model_5_seed_060 recycle=1 pLDDT=83.1 pTM=0.755 tol=0.904
+2024-09-26 08:11:35,868 alphafold2_ptm_model_5_seed_060 recycle=2 pLDDT=85 pTM=0.785 tol=0.577
+2024-09-26 08:11:36,277 alphafold2_ptm_model_5_seed_060 recycle=3 pLDDT=84.7 pTM=0.767 tol=0.723
+2024-09-26 08:11:36,278 alphafold2_ptm_model_5_seed_060 took 1.6s (3 recycles)
+2024-09-26 08:11:37,798 alphafold2_ptm_model_1_seed_061 recycle=0 pLDDT=86.8 pTM=0.731
+2024-09-26 08:11:38,205 alphafold2_ptm_model_1_seed_061 recycle=1 pLDDT=85.4 pTM=0.755 tol=0.603
+2024-09-26 08:11:38,615 alphafold2_ptm_model_1_seed_061 recycle=2 pLDDT=86.1 pTM=0.768 tol=0.506
+2024-09-26 08:11:39,022 alphafold2_ptm_model_1_seed_061 recycle=3 pLDDT=85.2 pTM=0.762 tol=0.816
+2024-09-26 08:11:39,023 alphafold2_ptm_model_1_seed_061 took 1.6s (3 recycles)
+2024-09-26 08:11:39,451 alphafold2_ptm_model_2_seed_061 recycle=0 pLDDT=82.9 pTM=0.732
+2024-09-26 08:11:39,860 alphafold2_ptm_model_2_seed_061 recycle=1 pLDDT=85.9 pTM=0.777 tol=0.543
+2024-09-26 08:11:40,267 alphafold2_ptm_model_2_seed_061 recycle=2 pLDDT=84.7 pTM=0.757 tol=0.757
+2024-09-26 08:11:40,675 alphafold2_ptm_model_2_seed_061 recycle=3 pLDDT=85.1 pTM=0.765 tol=0.304
+2024-09-26 08:11:40,675 alphafold2_ptm_model_2_seed_061 took 1.6s (3 recycles)
+2024-09-26 08:11:41,107 alphafold2_ptm_model_3_seed_061 recycle=0 pLDDT=86.8 pTM=0.752
+2024-09-26 08:11:41,519 alphafold2_ptm_model_3_seed_061 recycle=1 pLDDT=87.2 pTM=0.788 tol=0.687
+2024-09-26 08:11:41,932 alphafold2_ptm_model_3_seed_061 recycle=2 pLDDT=88.2 pTM=0.798 tol=0.493
+2024-09-26 08:11:42,343 alphafold2_ptm_model_3_seed_061 recycle=3 pLDDT=88.4 pTM=0.797 tol=0.633
+2024-09-26 08:11:42,343 alphafold2_ptm_model_3_seed_061 took 1.6s (3 recycles)
+2024-09-26 08:11:42,773 alphafold2_ptm_model_4_seed_061 recycle=0 pLDDT=86.6 pTM=0.752
+2024-09-26 08:11:43,181 alphafold2_ptm_model_4_seed_061 recycle=1 pLDDT=86.2 pTM=0.763 tol=0.703
+2024-09-26 08:11:43,590 alphafold2_ptm_model_4_seed_061 recycle=2 pLDDT=86.9 pTM=0.777 tol=0.598
+2024-09-26 08:11:44,000 alphafold2_ptm_model_4_seed_061 recycle=3 pLDDT=87.9 pTM=0.789 tol=0.561
+2024-09-26 08:11:44,000 alphafold2_ptm_model_4_seed_061 took 1.6s (3 recycles)
+2024-09-26 08:11:44,430 alphafold2_ptm_model_5_seed_061 recycle=0 pLDDT=85.6 pTM=0.75
+2024-09-26 08:11:44,841 alphafold2_ptm_model_5_seed_061 recycle=1 pLDDT=87.2 pTM=0.794 tol=1.19
+2024-09-26 08:11:45,254 alphafold2_ptm_model_5_seed_061 recycle=2 pLDDT=87.8 pTM=0.804 tol=0.824
+2024-09-26 08:11:45,667 alphafold2_ptm_model_5_seed_061 recycle=3 pLDDT=89.6 pTM=0.821 tol=1.31
+2024-09-26 08:11:45,668 alphafold2_ptm_model_5_seed_061 took 1.6s (3 recycles)
+2024-09-26 08:11:47,196 alphafold2_ptm_model_1_seed_062 recycle=0 pLDDT=58.1 pTM=0.498
+2024-09-26 08:11:47,600 alphafold2_ptm_model_1_seed_062 recycle=1 pLDDT=78.2 pTM=0.678 tol=2.37
+2024-09-26 08:11:48,007 alphafold2_ptm_model_1_seed_062 recycle=2 pLDDT=85 pTM=0.759 tol=2.84
+2024-09-26 08:11:48,413 alphafold2_ptm_model_1_seed_062 recycle=3 pLDDT=83.9 pTM=0.741 tol=0.399
+2024-09-26 08:11:48,413 alphafold2_ptm_model_1_seed_062 took 1.6s (3 recycles)
+2024-09-26 08:11:48,840 alphafold2_ptm_model_2_seed_062 recycle=0 pLDDT=78.7 pTM=0.653
+2024-09-26 08:11:49,247 alphafold2_ptm_model_2_seed_062 recycle=1 pLDDT=84.4 pTM=0.762 tol=0.792
+2024-09-26 08:11:49,656 alphafold2_ptm_model_2_seed_062 recycle=2 pLDDT=84.9 pTM=0.769 tol=0.378
+2024-09-26 08:11:50,065 alphafold2_ptm_model_2_seed_062 recycle=3 pLDDT=85.4 pTM=0.766 tol=0.297
+2024-09-26 08:11:50,065 alphafold2_ptm_model_2_seed_062 took 1.6s (3 recycles)
+2024-09-26 08:11:50,489 alphafold2_ptm_model_3_seed_062 recycle=0 pLDDT=63.4 pTM=0.532
+2024-09-26 08:11:50,897 alphafold2_ptm_model_3_seed_062 recycle=1 pLDDT=86.1 pTM=0.764 tol=2.54
+2024-09-26 08:11:51,306 alphafold2_ptm_model_3_seed_062 recycle=2 pLDDT=86.7 pTM=0.78 tol=0.521
+2024-09-26 08:11:51,716 alphafold2_ptm_model_3_seed_062 recycle=3 pLDDT=87.4 pTM=0.787 tol=0.426
+2024-09-26 08:11:51,716 alphafold2_ptm_model_3_seed_062 took 1.6s (3 recycles)
+2024-09-26 08:11:52,142 alphafold2_ptm_model_4_seed_062 recycle=0 pLDDT=80.2 pTM=0.667
+2024-09-26 08:11:52,550 alphafold2_ptm_model_4_seed_062 recycle=1 pLDDT=86.2 pTM=0.77 tol=0.917
+2024-09-26 08:11:52,961 alphafold2_ptm_model_4_seed_062 recycle=2 pLDDT=87 pTM=0.781 tol=0.569
+2024-09-26 08:11:53,370 alphafold2_ptm_model_4_seed_062 recycle=3 pLDDT=86.7 pTM=0.776 tol=0.175
+2024-09-26 08:11:53,371 alphafold2_ptm_model_4_seed_062 took 1.6s (3 recycles)
+2024-09-26 08:11:53,799 alphafold2_ptm_model_5_seed_062 recycle=0 pLDDT=66.6 pTM=0.583
+2024-09-26 08:11:54,208 alphafold2_ptm_model_5_seed_062 recycle=1 pLDDT=84.9 pTM=0.773 tol=1.2
+2024-09-26 08:11:54,620 alphafold2_ptm_model_5_seed_062 recycle=2 pLDDT=87.2 pTM=0.795 tol=0.588
+2024-09-26 08:11:55,033 alphafold2_ptm_model_5_seed_062 recycle=3 pLDDT=87.1 pTM=0.793 tol=0.401
+2024-09-26 08:11:55,033 alphafold2_ptm_model_5_seed_062 took 1.6s (3 recycles)
+2024-09-26 08:11:56,547 alphafold2_ptm_model_1_seed_063 recycle=0 pLDDT=76.1 pTM=0.625
+2024-09-26 08:11:56,954 alphafold2_ptm_model_1_seed_063 recycle=1 pLDDT=84.9 pTM=0.734 tol=2.93
+2024-09-26 08:11:57,360 alphafold2_ptm_model_1_seed_063 recycle=2 pLDDT=84.6 pTM=0.74 tol=0.432
+2024-09-26 08:11:57,764 alphafold2_ptm_model_1_seed_063 recycle=3 pLDDT=82.8 pTM=0.737 tol=2.43
+2024-09-26 08:11:57,765 alphafold2_ptm_model_1_seed_063 took 1.6s (3 recycles)
+2024-09-26 08:11:58,189 alphafold2_ptm_model_2_seed_063 recycle=0 pLDDT=74.4 pTM=0.62
+2024-09-26 08:11:58,597 alphafold2_ptm_model_2_seed_063 recycle=1 pLDDT=86.8 pTM=0.771 tol=2.01
+2024-09-26 08:11:59,005 alphafold2_ptm_model_2_seed_063 recycle=2 pLDDT=85.2 pTM=0.767 tol=0.362
+2024-09-26 08:11:59,411 alphafold2_ptm_model_2_seed_063 recycle=3 pLDDT=84.1 pTM=0.759 tol=2.77
+2024-09-26 08:11:59,412 alphafold2_ptm_model_2_seed_063 took 1.6s (3 recycles)
+2024-09-26 08:11:59,839 alphafold2_ptm_model_3_seed_063 recycle=0 pLDDT=83.1 pTM=0.698
+2024-09-26 08:12:00,249 alphafold2_ptm_model_3_seed_063 recycle=1 pLDDT=87.2 pTM=0.778 tol=0.522
+2024-09-26 08:12:00,658 alphafold2_ptm_model_3_seed_063 recycle=2 pLDDT=87.8 pTM=0.778 tol=0.432
+2024-09-26 08:12:01,066 alphafold2_ptm_model_3_seed_063 recycle=3 pLDDT=87 pTM=0.779 tol=0.486
+2024-09-26 08:12:01,067 alphafold2_ptm_model_3_seed_063 took 1.6s (3 recycles)
+2024-09-26 08:12:01,491 alphafold2_ptm_model_4_seed_063 recycle=0 pLDDT=71.7 pTM=0.595
+2024-09-26 08:12:01,899 alphafold2_ptm_model_4_seed_063 recycle=1 pLDDT=85.8 pTM=0.758 tol=1.99
+2024-09-26 08:12:02,307 alphafold2_ptm_model_4_seed_063 recycle=2 pLDDT=85.8 pTM=0.754 tol=0.806
+2024-09-26 08:12:02,716 alphafold2_ptm_model_4_seed_063 recycle=3 pLDDT=86.4 pTM=0.774 tol=1.05
+2024-09-26 08:12:02,716 alphafold2_ptm_model_4_seed_063 took 1.6s (3 recycles)
+2024-09-26 08:12:03,142 alphafold2_ptm_model_5_seed_063 recycle=0 pLDDT=81.1 pTM=0.691
+2024-09-26 08:12:03,553 alphafold2_ptm_model_5_seed_063 recycle=1 pLDDT=86.8 pTM=0.785 tol=0.891
+2024-09-26 08:12:03,962 alphafold2_ptm_model_5_seed_063 recycle=2 pLDDT=87.4 pTM=0.788 tol=0.263
+2024-09-26 08:12:04,374 alphafold2_ptm_model_5_seed_063 recycle=3 pLDDT=86.9 pTM=0.792 tol=0.475
+2024-09-26 08:12:04,374 alphafold2_ptm_model_5_seed_063 took 1.6s (3 recycles)
+2024-09-26 08:12:04,394 reranking models by 'plddt' metric
+2024-09-26 08:12:04,411 rank_001_alphafold2_ptm_model_5_seed_011 pLDDT=91.3 pTM=0.833
+2024-09-26 08:12:04,412 rank_002_alphafold2_ptm_model_4_seed_003 pLDDT=90.6 pTM=0.82
+2024-09-26 08:12:04,413 rank_003_alphafold2_ptm_model_5_seed_061 pLDDT=89.6 pTM=0.821
+2024-09-26 08:12:04,414 rank_004_alphafold2_ptm_model_4_seed_011 pLDDT=89.4 pTM=0.798
+2024-09-26 08:12:04,415 rank_005_alphafold2_ptm_model_5_seed_035 pLDDT=89.2 pTM=0.814
+2024-09-26 08:12:04,415 rank_006_alphafold2_ptm_model_5_seed_045 pLDDT=89.2 pTM=0.814
+2024-09-26 08:12:04,416 rank_007_alphafold2_ptm_model_3_seed_044 pLDDT=89.1 pTM=0.807
+2024-09-26 08:12:04,416 rank_008_alphafold2_ptm_model_3_seed_002 pLDDT=89.1 pTM=0.812
+2024-09-26 08:12:04,417 rank_009_alphafold2_ptm_model_4_seed_013 pLDDT=89 pTM=0.799
+2024-09-26 08:12:04,418 rank_010_alphafold2_ptm_model_4_seed_022 pLDDT=89 pTM=0.802
+2024-09-26 08:12:04,418 rank_011_alphafold2_ptm_model_4_seed_046 pLDDT=88.9 pTM=0.799
+2024-09-26 08:12:04,419 rank_012_alphafold2_ptm_model_3_seed_025 pLDDT=88.9 pTM=0.8
+2024-09-26 08:12:04,420 rank_013_alphafold2_ptm_model_5_seed_003 pLDDT=88.9 pTM=0.811
+2024-09-26 08:12:04,420 rank_014_alphafold2_ptm_model_5_seed_022 pLDDT=88.9 pTM=0.806
+2024-09-26 08:12:04,421 rank_015_alphafold2_ptm_model_4_seed_029 pLDDT=88.9 pTM=0.795
+2024-09-26 08:12:04,422 rank_016_alphafold2_ptm_model_3_seed_022 pLDDT=88.9 pTM=0.798
+2024-09-26 08:12:04,422 rank_017_alphafold2_ptm_model_4_seed_049 pLDDT=88.8 pTM=0.805
+2024-09-26 08:12:04,423 rank_018_alphafold2_ptm_model_5_seed_006 pLDDT=88.8 pTM=0.812
+2024-09-26 08:12:04,424 rank_019_alphafold2_ptm_model_3_seed_049 pLDDT=88.7 pTM=0.802
+2024-09-26 08:12:04,424 rank_020_alphafold2_ptm_model_4_seed_035 pLDDT=88.7 pTM=0.8
+2024-09-26 08:12:04,425 rank_021_alphafold2_ptm_model_4_seed_008 pLDDT=88.7 pTM=0.796
+2024-09-26 08:12:04,426 rank_022_alphafold2_ptm_model_4_seed_041 pLDDT=88.6 pTM=0.791
+2024-09-26 08:12:04,426 rank_023_alphafold2_ptm_model_3_seed_048 pLDDT=88.6 pTM=0.803
+2024-09-26 08:12:04,427 rank_024_alphafold2_ptm_model_5_seed_034 pLDDT=88.6 pTM=0.817
+2024-09-26 08:12:04,428 rank_025_alphafold2_ptm_model_5_seed_043 pLDDT=88.6 pTM=0.806
+2024-09-26 08:12:04,428 rank_026_alphafold2_ptm_model_5_seed_044 pLDDT=88.6 pTM=0.814
+2024-09-26 08:12:04,429 rank_027_alphafold2_ptm_model_3_seed_026 pLDDT=88.6 pTM=0.803
+2024-09-26 08:12:04,430 rank_028_alphafold2_ptm_model_5_seed_019 pLDDT=88.6 pTM=0.803
+2024-09-26 08:12:04,430 rank_029_alphafold2_ptm_model_4_seed_002 pLDDT=88.5 pTM=0.799
+2024-09-26 08:12:04,431 rank_030_alphafold2_ptm_model_5_seed_001 pLDDT=88.5 pTM=0.807
+2024-09-26 08:12:04,432 rank_031_alphafold2_ptm_model_4_seed_055 pLDDT=88.4 pTM=0.79
+2024-09-26 08:12:04,432 rank_032_alphafold2_ptm_model_3_seed_014 pLDDT=88.4 pTM=0.79
+2024-09-26 08:12:04,433 rank_033_alphafold2_ptm_model_4_seed_005 pLDDT=88.4 pTM=0.799
+2024-09-26 08:12:04,434 rank_034_alphafold2_ptm_model_4_seed_038 pLDDT=88.4 pTM=0.792
+2024-09-26 08:12:04,434 rank_035_alphafold2_ptm_model_3_seed_061 pLDDT=88.4 pTM=0.797
+2024-09-26 08:12:04,435 rank_036_alphafold2_ptm_model_4_seed_010 pLDDT=88.4 pTM=0.788
+2024-09-26 08:12:04,436 rank_037_alphafold2_ptm_model_3_seed_003 pLDDT=88.3 pTM=0.799
+2024-09-26 08:12:04,436 rank_038_alphafold2_ptm_model_3_seed_045 pLDDT=88.3 pTM=0.796
+2024-09-26 08:12:04,437 rank_039_alphafold2_ptm_model_4_seed_040 pLDDT=88.3 pTM=0.799
+2024-09-26 08:12:04,438 rank_040_alphafold2_ptm_model_5_seed_059 pLDDT=88.3 pTM=0.806
+2024-09-26 08:12:04,438 rank_041_alphafold2_ptm_model_5_seed_026 pLDDT=88.2 pTM=0.807
+2024-09-26 08:12:04,439 rank_042_alphafold2_ptm_model_5_seed_014 pLDDT=88.2 pTM=0.795
+2024-09-26 08:12:04,440 rank_043_alphafold2_ptm_model_4_seed_032 pLDDT=88.2 pTM=0.795
+2024-09-26 08:12:04,440 rank_044_alphafold2_ptm_model_5_seed_039 pLDDT=88.2 pTM=0.805
+2024-09-26 08:12:04,441 rank_045_alphafold2_ptm_model_4_seed_034 pLDDT=88.2 pTM=0.794
+2024-09-26 08:12:04,442 rank_046_alphafold2_ptm_model_4_seed_006 pLDDT=88.2 pTM=0.795
+2024-09-26 08:12:04,442 rank_047_alphafold2_ptm_model_5_seed_007 pLDDT=88.1 pTM=0.807
+2024-09-26 08:12:04,443 rank_048_alphafold2_ptm_model_4_seed_059 pLDDT=88.1 pTM=0.794
+2024-09-26 08:12:04,444 rank_049_alphafold2_ptm_model_5_seed_025 pLDDT=88.1 pTM=0.81
+2024-09-26 08:12:04,444 rank_050_alphafold2_ptm_model_5_seed_038 pLDDT=88.1 pTM=0.805
+2024-09-26 08:12:04,445 rank_051_alphafold2_ptm_model_3_seed_039 pLDDT=88.1 pTM=0.795
+2024-09-26 08:12:04,445 rank_052_alphafold2_ptm_model_3_seed_010 pLDDT=88 pTM=0.792
+2024-09-26 08:12:04,446 rank_053_alphafold2_ptm_model_4_seed_044 pLDDT=88 pTM=0.795
+2024-09-26 08:12:04,447 rank_054_alphafold2_ptm_model_3_seed_055 pLDDT=88 pTM=0.792
+2024-09-26 08:12:04,447 rank_055_alphafold2_ptm_model_3_seed_018 pLDDT=88 pTM=0.796
+2024-09-26 08:12:04,448 rank_056_alphafold2_ptm_model_5_seed_032 pLDDT=88 pTM=0.805
+2024-09-26 08:12:04,449 rank_057_alphafold2_ptm_model_5_seed_016 pLDDT=87.9 pTM=0.8
+2024-09-26 08:12:04,449 rank_058_alphafold2_ptm_model_2_seed_049 pLDDT=87.9 pTM=0.798
+2024-09-26 08:12:04,450 rank_059_alphafold2_ptm_model_5_seed_040 pLDDT=87.9 pTM=0.806
+2024-09-26 08:12:04,451 rank_060_alphafold2_ptm_model_5_seed_002 pLDDT=87.9 pTM=0.809
+2024-09-26 08:12:04,451 rank_061_alphafold2_ptm_model_4_seed_053 pLDDT=87.9 pTM=0.785
+2024-09-26 08:12:04,452 rank_062_alphafold2_ptm_model_5_seed_050 pLDDT=87.9 pTM=0.803
+2024-09-26 08:12:04,452 rank_063_alphafold2_ptm_model_4_seed_001 pLDDT=87.9 pTM=0.789
+2024-09-26 08:12:04,453 rank_064_alphafold2_ptm_model_4_seed_061 pLDDT=87.9 pTM=0.789
+2024-09-26 08:12:04,454 rank_065_alphafold2_ptm_model_5_seed_055 pLDDT=87.8 pTM=0.798
+2024-09-26 08:12:04,454 rank_066_alphafold2_ptm_model_3_seed_001 pLDDT=87.8 pTM=0.794
+2024-09-26 08:12:04,455 rank_067_alphafold2_ptm_model_3_seed_029 pLDDT=87.8 pTM=0.785
+2024-09-26 08:12:04,456 rank_068_alphafold2_ptm_model_4_seed_026 pLDDT=87.8 pTM=0.79
+2024-09-26 08:12:04,456 rank_069_alphafold2_ptm_model_4_seed_000 pLDDT=87.8 pTM=0.789
+2024-09-26 08:12:04,457 rank_070_alphafold2_ptm_model_3_seed_033 pLDDT=87.8 pTM=0.785
+2024-09-26 08:12:04,458 rank_071_alphafold2_ptm_model_5_seed_048 pLDDT=87.8 pTM=0.809
+2024-09-26 08:12:04,458 rank_072_alphafold2_ptm_model_4_seed_025 pLDDT=87.8 pTM=0.79
+2024-09-26 08:12:04,459 rank_073_alphafold2_ptm_model_3_seed_023 pLDDT=87.8 pTM=0.793
+2024-09-26 08:12:04,460 rank_074_alphafold2_ptm_model_5_seed_008 pLDDT=87.8 pTM=0.8
+2024-09-26 08:12:04,460 rank_075_alphafold2_ptm_model_5_seed_018 pLDDT=87.7 pTM=0.803
+2024-09-26 08:12:04,461 rank_076_alphafold2_ptm_model_5_seed_047 pLDDT=87.7 pTM=0.807
+2024-09-26 08:12:04,462 rank_077_alphafold2_ptm_model_4_seed_037 pLDDT=87.7 pTM=0.79
+2024-09-26 08:12:04,462 rank_078_alphafold2_ptm_model_4_seed_020 pLDDT=87.7 pTM=0.788
+2024-09-26 08:12:04,463 rank_079_alphafold2_ptm_model_3_seed_040 pLDDT=87.7 pTM=0.791
+2024-09-26 08:12:04,464 rank_080_alphafold2_ptm_model_4_seed_057 pLDDT=87.6 pTM=0.785
+2024-09-26 08:12:04,465 rank_081_alphafold2_ptm_model_5_seed_010 pLDDT=87.6 pTM=0.802
+2024-09-26 08:12:04,465 rank_082_alphafold2_ptm_model_5_seed_049 pLDDT=87.6 pTM=0.807
+2024-09-26 08:12:04,466 rank_083_alphafold2_ptm_model_4_seed_048 pLDDT=87.6 pTM=0.796
+2024-09-26 08:12:04,466 rank_084_alphafold2_ptm_model_5_seed_009 pLDDT=87.6 pTM=0.797
+2024-09-26 08:12:04,467 rank_085_alphafold2_ptm_model_4_seed_043 pLDDT=87.6 pTM=0.784
+2024-09-26 08:12:04,468 rank_086_alphafold2_ptm_model_3_seed_009 pLDDT=87.6 pTM=0.787
+2024-09-26 08:12:04,468 rank_087_alphafold2_ptm_model_3_seed_028 pLDDT=87.6 pTM=0.781
+2024-09-26 08:12:04,469 rank_088_alphafold2_ptm_model_5_seed_027 pLDDT=87.6 pTM=0.801
+2024-09-26 08:12:04,470 rank_089_alphafold2_ptm_model_5_seed_020 pLDDT=87.5 pTM=0.798
+2024-09-26 08:12:04,470 rank_090_alphafold2_ptm_model_4_seed_009 pLDDT=87.5 pTM=0.784
+2024-09-26 08:12:04,471 rank_091_alphafold2_ptm_model_3_seed_016 pLDDT=87.5 pTM=0.784
+2024-09-26 08:12:04,472 rank_092_alphafold2_ptm_model_4_seed_007 pLDDT=87.5 pTM=0.785
+2024-09-26 08:12:04,473 rank_093_alphafold2_ptm_model_4_seed_018 pLDDT=87.5 pTM=0.786
+2024-09-26 08:12:04,473 rank_094_alphafold2_ptm_model_3_seed_032 pLDDT=87.4 pTM=0.786
+2024-09-26 08:12:04,474 rank_095_alphafold2_ptm_model_3_seed_019 pLDDT=87.4 pTM=0.786
+2024-09-26 08:12:04,475 rank_096_alphafold2_ptm_model_5_seed_013 pLDDT=87.4 pTM=0.798
+2024-09-26 08:12:04,475 rank_097_alphafold2_ptm_model_5_seed_037 pLDDT=87.4 pTM=0.804
+2024-09-26 08:12:04,476 rank_098_alphafold2_ptm_model_3_seed_042 pLDDT=87.4 pTM=0.793
+2024-09-26 08:12:04,477 rank_099_alphafold2_ptm_model_4_seed_054 pLDDT=87.4 pTM=0.788
+2024-09-26 08:12:04,477 rank_100_alphafold2_ptm_model_3_seed_006 pLDDT=87.4 pTM=0.787
+2024-09-26 08:12:04,478 rank_101_alphafold2_ptm_model_3_seed_059 pLDDT=87.4 pTM=0.788
+2024-09-26 08:12:04,479 rank_102_alphafold2_ptm_model_3_seed_051 pLDDT=87.4 pTM=0.788
+2024-09-26 08:12:04,479 rank_103_alphafold2_ptm_model_5_seed_015 pLDDT=87.4 pTM=0.801
+2024-09-26 08:12:04,480 rank_104_alphafold2_ptm_model_3_seed_056 pLDDT=87.4 pTM=0.787
+2024-09-26 08:12:04,480 rank_105_alphafold2_ptm_model_3_seed_062 pLDDT=87.4 pTM=0.787
+2024-09-26 08:12:04,481 rank_106_alphafold2_ptm_model_5_seed_000 pLDDT=87.4 pTM=0.794
+2024-09-26 08:12:04,482 rank_107_alphafold2_ptm_model_5_seed_030 pLDDT=87.3 pTM=0.787
+2024-09-26 08:12:04,482 rank_108_alphafold2_ptm_model_3_seed_017 pLDDT=87.3 pTM=0.792
+2024-09-26 08:12:04,483 rank_109_alphafold2_ptm_model_3_seed_041 pLDDT=87.3 pTM=0.788
+2024-09-26 08:12:04,484 rank_110_alphafold2_ptm_model_5_seed_056 pLDDT=87.3 pTM=0.801
+2024-09-26 08:12:04,484 rank_111_alphafold2_ptm_model_5_seed_004 pLDDT=87.2 pTM=0.801
+2024-09-26 08:12:04,485 rank_112_alphafold2_ptm_model_4_seed_016 pLDDT=87.2 pTM=0.783
+2024-09-26 08:12:04,486 rank_113_alphafold2_ptm_model_3_seed_030 pLDDT=87.2 pTM=0.777
+2024-09-26 08:12:04,487 rank_114_alphafold2_ptm_model_4_seed_023 pLDDT=87.2 pTM=0.788
+2024-09-26 08:12:04,488 rank_115_alphafold2_ptm_model_5_seed_017 pLDDT=87.2 pTM=0.803
+2024-09-26 08:12:04,488 rank_116_alphafold2_ptm_model_4_seed_014 pLDDT=87.1 pTM=0.773
+2024-09-26 08:12:04,489 rank_117_alphafold2_ptm_model_5_seed_051 pLDDT=87.1 pTM=0.801
+2024-09-26 08:12:04,490 rank_118_alphafold2_ptm_model_3_seed_005 pLDDT=87.1 pTM=0.782
+2024-09-26 08:12:04,490 rank_119_alphafold2_ptm_model_4_seed_050 pLDDT=87.1 pTM=0.779
+2024-09-26 08:12:04,491 rank_120_alphafold2_ptm_model_4_seed_027 pLDDT=87.1 pTM=0.781
+2024-09-26 08:12:04,491 rank_121_alphafold2_ptm_model_3_seed_011 pLDDT=87.1 pTM=0.779
+2024-09-26 08:12:04,492 rank_122_alphafold2_ptm_model_3_seed_037 pLDDT=87.1 pTM=0.782
+2024-09-26 08:12:04,493 rank_123_alphafold2_ptm_model_4_seed_019 pLDDT=87.1 pTM=0.775
+2024-09-26 08:12:04,493 rank_124_alphafold2_ptm_model_5_seed_062 pLDDT=87.1 pTM=0.793
+2024-09-26 08:12:04,494 rank_125_alphafold2_ptm_model_4_seed_051 pLDDT=87.1 pTM=0.78
+2024-09-26 08:12:04,494 rank_126_alphafold2_ptm_model_5_seed_023 pLDDT=87.1 pTM=0.799
+2024-09-26 08:12:04,495 rank_127_alphafold2_ptm_model_5_seed_005 pLDDT=87.1 pTM=0.797
+2024-09-26 08:12:04,496 rank_128_alphafold2_ptm_model_3_seed_063 pLDDT=87 pTM=0.779
+2024-09-26 08:12:04,496 rank_129_alphafold2_ptm_model_3_seed_007 pLDDT=87 pTM=0.792
+2024-09-26 08:12:04,497 rank_130_alphafold2_ptm_model_3_seed_004 pLDDT=86.9 pTM=0.777
+2024-09-26 08:12:04,498 rank_131_alphafold2_ptm_model_3_seed_020 pLDDT=86.9 pTM=0.779
+2024-09-26 08:12:04,498 rank_132_alphafold2_ptm_model_5_seed_033 pLDDT=86.9 pTM=0.788
+2024-09-26 08:12:04,499 rank_133_alphafold2_ptm_model_5_seed_063 pLDDT=86.9 pTM=0.792
+2024-09-26 08:12:04,500 rank_134_alphafold2_ptm_model_5_seed_057 pLDDT=86.9 pTM=0.789
+2024-09-26 08:12:04,500 rank_135_alphafold2_ptm_model_5_seed_041 pLDDT=86.9 pTM=0.792
+2024-09-26 08:12:04,501 rank_136_alphafold2_ptm_model_5_seed_024 pLDDT=86.9 pTM=0.792
+2024-09-26 08:12:04,502 rank_137_alphafold2_ptm_model_4_seed_047 pLDDT=86.9 pTM=0.777
+2024-09-26 08:12:04,502 rank_138_alphafold2_ptm_model_3_seed_038 pLDDT=86.9 pTM=0.778
+2024-09-26 08:12:04,503 rank_139_alphafold2_ptm_model_3_seed_050 pLDDT=86.8 pTM=0.773
+2024-09-26 08:12:04,504 rank_140_alphafold2_ptm_model_3_seed_031 pLDDT=86.8 pTM=0.782
+2024-09-26 08:12:04,504 rank_141_alphafold2_ptm_model_5_seed_036 pLDDT=86.8 pTM=0.788
+2024-09-26 08:12:04,505 rank_142_alphafold2_ptm_model_4_seed_015 pLDDT=86.8 pTM=0.773
+2024-09-26 08:12:04,505 rank_143_alphafold2_ptm_model_4_seed_017 pLDDT=86.8 pTM=0.787
+2024-09-26 08:12:04,506 rank_144_alphafold2_ptm_model_4_seed_045 pLDDT=86.8 pTM=0.771
+2024-09-26 08:12:04,507 rank_145_alphafold2_ptm_model_2_seed_006 pLDDT=86.8 pTM=0.79
+2024-09-26 08:12:04,507 rank_146_alphafold2_ptm_model_4_seed_062 pLDDT=86.7 pTM=0.776
+2024-09-26 08:12:04,508 rank_147_alphafold2_ptm_model_5_seed_058 pLDDT=86.7 pTM=0.799
+2024-09-26 08:12:04,509 rank_148_alphafold2_ptm_model_1_seed_018 pLDDT=86.7 pTM=0.777
+2024-09-26 08:12:04,509 rank_149_alphafold2_ptm_model_5_seed_028 pLDDT=86.7 pTM=0.791
+2024-09-26 08:12:04,510 rank_150_alphafold2_ptm_model_5_seed_029 pLDDT=86.7 pTM=0.782
+2024-09-26 08:12:04,511 rank_151_alphafold2_ptm_model_4_seed_024 pLDDT=86.7 pTM=0.772
+2024-09-26 08:12:04,511 rank_152_alphafold2_ptm_model_4_seed_021 pLDDT=86.7 pTM=0.773
+2024-09-26 08:12:04,512 rank_153_alphafold2_ptm_model_5_seed_053 pLDDT=86.7 pTM=0.787
+2024-09-26 08:12:04,513 rank_154_alphafold2_ptm_model_3_seed_053 pLDDT=86.7 pTM=0.777
+2024-09-26 08:12:04,513 rank_155_alphafold2_ptm_model_3_seed_015 pLDDT=86.7 pTM=0.774
+2024-09-26 08:12:04,514 rank_156_alphafold2_ptm_model_4_seed_052 pLDDT=86.6 pTM=0.766
+2024-09-26 08:12:04,515 rank_157_alphafold2_ptm_model_4_seed_031 pLDDT=86.6 pTM=0.779
+2024-09-26 08:12:04,515 rank_158_alphafold2_ptm_model_3_seed_043 pLDDT=86.6 pTM=0.775
+2024-09-26 08:12:04,516 rank_159_alphafold2_ptm_model_2_seed_026 pLDDT=86.6 pTM=0.782
+2024-09-26 08:12:04,516 rank_160_alphafold2_ptm_model_4_seed_030 pLDDT=86.6 pTM=0.767
+2024-09-26 08:12:04,517 rank_161_alphafold2_ptm_model_4_seed_033 pLDDT=86.6 pTM=0.777
+2024-09-26 08:12:04,518 rank_162_alphafold2_ptm_model_3_seed_024 pLDDT=86.5 pTM=0.772
+2024-09-26 08:12:04,518 rank_163_alphafold2_ptm_model_4_seed_056 pLDDT=86.4 pTM=0.771
+2024-09-26 08:12:04,519 rank_164_alphafold2_ptm_model_4_seed_063 pLDDT=86.4 pTM=0.774
+2024-09-26 08:12:04,520 rank_165_alphafold2_ptm_model_5_seed_054 pLDDT=86.4 pTM=0.786
+2024-09-26 08:12:04,520 rank_166_alphafold2_ptm_model_3_seed_034 pLDDT=86.4 pTM=0.779
+2024-09-26 08:12:04,521 rank_167_alphafold2_ptm_model_2_seed_033 pLDDT=86.3 pTM=0.778
+2024-09-26 08:12:04,522 rank_168_alphafold2_ptm_model_1_seed_022 pLDDT=86.3 pTM=0.763
+2024-09-26 08:12:04,522 rank_169_alphafold2_ptm_model_5_seed_021 pLDDT=86.2 pTM=0.787
+2024-09-26 08:12:04,523 rank_170_alphafold2_ptm_model_3_seed_021 pLDDT=86.2 pTM=0.776
+2024-09-26 08:12:04,524 rank_171_alphafold2_ptm_model_5_seed_012 pLDDT=86.2 pTM=0.788
+2024-09-26 08:12:04,524 rank_172_alphafold2_ptm_model_3_seed_008 pLDDT=86.2 pTM=0.762
+2024-09-26 08:12:04,525 rank_173_alphafold2_ptm_model_4_seed_042 pLDDT=86.2 pTM=0.77
+2024-09-26 08:12:04,526 rank_174_alphafold2_ptm_model_5_seed_046 pLDDT=86.2 pTM=0.779
+2024-09-26 08:12:04,526 rank_175_alphafold2_ptm_model_5_seed_042 pLDDT=86.1 pTM=0.784
+2024-09-26 08:12:04,527 rank_176_alphafold2_ptm_model_1_seed_026 pLDDT=86.1 pTM=0.77
+2024-09-26 08:12:04,527 rank_177_alphafold2_ptm_model_3_seed_012 pLDDT=86.1 pTM=0.776
+2024-09-26 08:12:04,528 rank_178_alphafold2_ptm_model_3_seed_046 pLDDT=86.1 pTM=0.768
+2024-09-26 08:12:04,529 rank_179_alphafold2_ptm_model_1_seed_033 pLDDT=86.1 pTM=0.763
+2024-09-26 08:12:04,529 rank_180_alphafold2_ptm_model_3_seed_054 pLDDT=86.1 pTM=0.774
+2024-09-26 08:12:04,530 rank_181_alphafold2_ptm_model_1_seed_034 pLDDT=86 pTM=0.762
+2024-09-26 08:12:04,530 rank_182_alphafold2_ptm_model_2_seed_050 pLDDT=85.9 pTM=0.777
+2024-09-26 08:12:04,531 rank_183_alphafold2_ptm_model_4_seed_028 pLDDT=85.9 pTM=0.771
+2024-09-26 08:12:04,532 rank_184_alphafold2_ptm_model_4_seed_058 pLDDT=85.9 pTM=0.769
+2024-09-26 08:12:04,532 rank_185_alphafold2_ptm_model_4_seed_036 pLDDT=85.9 pTM=0.771
+2024-09-26 08:12:04,533 rank_186_alphafold2_ptm_model_2_seed_043 pLDDT=85.9 pTM=0.777
+2024-09-26 08:12:04,534 rank_187_alphafold2_ptm_model_2_seed_022 pLDDT=85.8 pTM=0.769
+2024-09-26 08:12:04,534 rank_188_alphafold2_ptm_model_2_seed_036 pLDDT=85.8 pTM=0.776
+2024-09-26 08:12:04,535 rank_189_alphafold2_ptm_model_2_seed_041 pLDDT=85.8 pTM=0.771
+2024-09-26 08:12:04,535 rank_190_alphafold2_ptm_model_3_seed_057 pLDDT=85.8 pTM=0.764
+2024-09-26 08:12:04,536 rank_191_alphafold2_ptm_model_4_seed_012 pLDDT=85.8 pTM=0.767
+2024-09-26 08:12:04,537 rank_192_alphafold2_ptm_model_3_seed_047 pLDDT=85.8 pTM=0.768
+2024-09-26 08:12:04,537 rank_193_alphafold2_ptm_model_1_seed_039 pLDDT=85.8 pTM=0.765
+2024-09-26 08:12:04,538 rank_194_alphafold2_ptm_model_2_seed_034 pLDDT=85.7 pTM=0.765
+2024-09-26 08:12:04,539 rank_195_alphafold2_ptm_model_1_seed_007 pLDDT=85.6 pTM=0.761
+2024-09-26 08:12:04,539 rank_196_alphafold2_ptm_model_3_seed_036 pLDDT=85.6 pTM=0.765
+2024-09-26 08:12:04,540 rank_197_alphafold2_ptm_model_3_seed_000 pLDDT=85.5 pTM=0.769
+2024-09-26 08:12:04,541 rank_198_alphafold2_ptm_model_2_seed_037 pLDDT=85.5 pTM=0.775
+2024-09-26 08:12:04,541 rank_199_alphafold2_ptm_model_4_seed_004 pLDDT=85.5 pTM=0.764
+2024-09-26 08:12:04,542 rank_200_alphafold2_ptm_model_1_seed_050 pLDDT=85.5 pTM=0.761
+2024-09-26 08:12:04,542 rank_201_alphafold2_ptm_model_1_seed_044 pLDDT=85.5 pTM=0.768
+2024-09-26 08:12:04,543 rank_202_alphafold2_ptm_model_1_seed_006 pLDDT=85.5 pTM=0.763
+2024-09-26 08:12:04,544 rank_203_alphafold2_ptm_model_1_seed_001 pLDDT=85.4 pTM=0.76
+2024-09-26 08:12:04,544 rank_204_alphafold2_ptm_model_2_seed_023 pLDDT=85.4 pTM=0.777
+2024-09-26 08:12:04,545 rank_205_alphafold2_ptm_model_1_seed_049 pLDDT=85.4 pTM=0.765
+2024-09-26 08:12:04,546 rank_206_alphafold2_ptm_model_1_seed_025 pLDDT=85.4 pTM=0.764
+2024-09-26 08:12:04,546 rank_207_alphafold2_ptm_model_2_seed_062 pLDDT=85.4 pTM=0.766
+2024-09-26 08:12:04,547 rank_208_alphafold2_ptm_model_4_seed_060 pLDDT=85.4 pTM=0.755
+2024-09-26 08:12:04,547 rank_209_alphafold2_ptm_model_1_seed_017 pLDDT=85.4 pTM=0.769
+2024-09-26 08:12:04,548 rank_210_alphafold2_ptm_model_2_seed_030 pLDDT=85.4 pTM=0.764
+2024-09-26 08:12:04,549 rank_211_alphafold2_ptm_model_2_seed_044 pLDDT=85.4 pTM=0.771
+2024-09-26 08:12:04,549 rank_212_alphafold2_ptm_model_3_seed_058 pLDDT=85.3 pTM=0.759
+2024-09-26 08:12:04,550 rank_213_alphafold2_ptm_model_1_seed_040 pLDDT=85.3 pTM=0.76
+2024-09-26 08:12:04,551 rank_214_alphafold2_ptm_model_3_seed_035 pLDDT=85.3 pTM=0.754
+2024-09-26 08:12:04,551 rank_215_alphafold2_ptm_model_5_seed_031 pLDDT=85.2 pTM=0.777
+2024-09-26 08:12:04,552 rank_216_alphafold2_ptm_model_1_seed_061 pLDDT=85.2 pTM=0.762
+2024-09-26 08:12:04,552 rank_217_alphafold2_ptm_model_1_seed_009 pLDDT=85.2 pTM=0.759
+2024-09-26 08:12:04,553 rank_218_alphafold2_ptm_model_1_seed_046 pLDDT=85.1 pTM=0.751
+2024-09-26 08:12:04,554 rank_219_alphafold2_ptm_model_2_seed_055 pLDDT=85.1 pTM=0.767
+2024-09-26 08:12:04,554 rank_220_alphafold2_ptm_model_2_seed_061 pLDDT=85.1 pTM=0.765
+2024-09-26 08:12:04,555 rank_221_alphafold2_ptm_model_3_seed_027 pLDDT=85.1 pTM=0.762
+2024-09-26 08:12:04,556 rank_222_alphafold2_ptm_model_2_seed_014 pLDDT=85.1 pTM=0.764
+2024-09-26 08:12:04,556 rank_223_alphafold2_ptm_model_3_seed_060 pLDDT=85 pTM=0.751
+2024-09-26 08:12:04,557 rank_224_alphafold2_ptm_model_4_seed_039 pLDDT=84.9 pTM=0.76
+2024-09-26 08:12:04,558 rank_225_alphafold2_ptm_model_2_seed_054 pLDDT=84.9 pTM=0.766
+2024-09-26 08:12:04,558 rank_226_alphafold2_ptm_model_2_seed_032 pLDDT=84.9 pTM=0.77
+2024-09-26 08:12:04,559 rank_227_alphafold2_ptm_model_2_seed_017 pLDDT=84.9 pTM=0.768
+2024-09-26 08:12:04,560 rank_228_alphafold2_ptm_model_1_seed_005 pLDDT=84.9 pTM=0.759
+2024-09-26 08:12:04,560 rank_229_alphafold2_ptm_model_1_seed_054 pLDDT=84.9 pTM=0.75
+2024-09-26 08:12:04,561 rank_230_alphafold2_ptm_model_1_seed_056 pLDDT=84.9 pTM=0.749
+2024-09-26 08:12:04,562 rank_231_alphafold2_ptm_model_2_seed_019 pLDDT=84.9 pTM=0.765
+2024-09-26 08:12:04,562 rank_232_alphafold2_ptm_model_2_seed_045 pLDDT=84.8 pTM=0.768
+2024-09-26 08:12:04,563 rank_233_alphafold2_ptm_model_1_seed_042 pLDDT=84.8 pTM=0.757
+2024-09-26 08:12:04,564 rank_234_alphafold2_ptm_model_2_seed_024 pLDDT=84.8 pTM=0.771
+2024-09-26 08:12:04,564 rank_235_alphafold2_ptm_model_2_seed_005 pLDDT=84.8 pTM=0.768
+2024-09-26 08:12:04,565 rank_236_alphafold2_ptm_model_1_seed_019 pLDDT=84.8 pTM=0.754
+2024-09-26 08:12:04,566 rank_237_alphafold2_ptm_model_3_seed_052 pLDDT=84.7 pTM=0.749
+2024-09-26 08:12:04,566 rank_238_alphafold2_ptm_model_2_seed_007 pLDDT=84.7 pTM=0.764
+2024-09-26 08:12:04,567 rank_239_alphafold2_ptm_model_5_seed_060 pLDDT=84.7 pTM=0.767
+2024-09-26 08:12:04,567 rank_240_alphafold2_ptm_model_1_seed_013 pLDDT=84.7 pTM=0.744
+2024-09-26 08:12:04,568 rank_241_alphafold2_ptm_model_1_seed_000 pLDDT=84.7 pTM=0.753
+2024-09-26 08:12:04,569 rank_242_alphafold2_ptm_model_2_seed_025 pLDDT=84.7 pTM=0.764
+2024-09-26 08:12:04,569 rank_243_alphafold2_ptm_model_1_seed_037 pLDDT=84.6 pTM=0.755
+2024-09-26 08:12:04,570 rank_244_alphafold2_ptm_model_1_seed_036 pLDDT=84.6 pTM=0.753
+2024-09-26 08:12:04,571 rank_245_alphafold2_ptm_model_2_seed_058 pLDDT=84.5 pTM=0.768
+2024-09-26 08:12:04,571 rank_246_alphafold2_ptm_model_2_seed_018 pLDDT=84.5 pTM=0.762
+2024-09-26 08:12:04,572 rank_247_alphafold2_ptm_model_1_seed_032 pLDDT=84.5 pTM=0.752
+2024-09-26 08:12:04,573 rank_248_alphafold2_ptm_model_1_seed_011 pLDDT=84.4 pTM=0.74
+2024-09-26 08:12:04,573 rank_249_alphafold2_ptm_model_1_seed_041 pLDDT=84.4 pTM=0.75
+2024-09-26 08:12:04,574 rank_250_alphafold2_ptm_model_3_seed_013 pLDDT=84.4 pTM=0.737
+2024-09-26 08:12:04,575 rank_251_alphafold2_ptm_model_2_seed_010 pLDDT=84.4 pTM=0.754
+2024-09-26 08:12:04,575 rank_252_alphafold2_ptm_model_2_seed_001 pLDDT=84.4 pTM=0.766
+2024-09-26 08:12:04,576 rank_253_alphafold2_ptm_model_2_seed_011 pLDDT=84.3 pTM=0.757
+2024-09-26 08:12:04,576 rank_254_alphafold2_ptm_model_1_seed_045 pLDDT=84.3 pTM=0.757
+2024-09-26 08:12:04,577 rank_255_alphafold2_ptm_model_1_seed_014 pLDDT=84.3 pTM=0.746
+2024-09-26 08:12:04,578 rank_256_alphafold2_ptm_model_2_seed_000 pLDDT=84.3 pTM=0.765
+2024-09-26 08:12:04,578 rank_257_alphafold2_ptm_model_5_seed_052 pLDDT=84.3 pTM=0.763
+2024-09-26 08:12:04,579 rank_258_alphafold2_ptm_model_1_seed_020 pLDDT=84.3 pTM=0.743
+2024-09-26 08:12:04,580 rank_259_alphafold2_ptm_model_2_seed_056 pLDDT=84.2 pTM=0.758
+2024-09-26 08:12:04,580 rank_260_alphafold2_ptm_model_2_seed_029 pLDDT=84.2 pTM=0.762
+2024-09-26 08:12:04,581 rank_261_alphafold2_ptm_model_1_seed_016 pLDDT=84.2 pTM=0.751
+2024-09-26 08:12:04,582 rank_262_alphafold2_ptm_model_1_seed_028 pLDDT=84.1 pTM=0.745
+2024-09-26 08:12:04,582 rank_263_alphafold2_ptm_model_1_seed_015 pLDDT=84.1 pTM=0.74
+2024-09-26 08:12:04,583 rank_264_alphafold2_ptm_model_2_seed_038 pLDDT=84.1 pTM=0.75
+2024-09-26 08:12:04,584 rank_265_alphafold2_ptm_model_2_seed_063 pLDDT=84.1 pTM=0.759
+2024-09-26 08:12:04,584 rank_266_alphafold2_ptm_model_2_seed_039 pLDDT=84 pTM=0.757
+2024-09-26 08:12:04,585 rank_267_alphafold2_ptm_model_1_seed_059 pLDDT=83.9 pTM=0.745
+2024-09-26 08:12:04,586 rank_268_alphafold2_ptm_model_2_seed_012 pLDDT=83.9 pTM=0.757
+2024-09-26 08:12:04,586 rank_269_alphafold2_ptm_model_1_seed_029 pLDDT=83.9 pTM=0.736
+2024-09-26 08:12:04,587 rank_270_alphafold2_ptm_model_1_seed_010 pLDDT=83.9 pTM=0.735
+2024-09-26 08:12:04,588 rank_271_alphafold2_ptm_model_1_seed_062 pLDDT=83.9 pTM=0.741
+2024-09-26 08:12:04,588 rank_272_alphafold2_ptm_model_2_seed_040 pLDDT=83.8 pTM=0.761
+2024-09-26 08:12:04,589 rank_273_alphafold2_ptm_model_2_seed_002 pLDDT=83.8 pTM=0.766
+2024-09-26 08:12:04,590 rank_274_alphafold2_ptm_model_1_seed_023 pLDDT=83.8 pTM=0.75
+2024-09-26 08:12:04,590 rank_275_alphafold2_ptm_model_1_seed_002 pLDDT=83.8 pTM=0.741
+2024-09-26 08:12:04,591 rank_276_alphafold2_ptm_model_2_seed_021 pLDDT=83.8 pTM=0.756
+2024-09-26 08:12:04,592 rank_277_alphafold2_ptm_model_2_seed_015 pLDDT=83.6 pTM=0.75
+2024-09-26 08:12:04,592 rank_278_alphafold2_ptm_model_2_seed_013 pLDDT=83.5 pTM=0.747
+2024-09-26 08:12:04,593 rank_279_alphafold2_ptm_model_1_seed_053 pLDDT=83.5 pTM=0.731
+2024-09-26 08:12:04,593 rank_280_alphafold2_ptm_model_2_seed_047 pLDDT=83.4 pTM=0.755
+2024-09-26 08:12:04,594 rank_281_alphafold2_ptm_model_1_seed_052 pLDDT=83.4 pTM=0.735
+2024-09-26 08:12:04,595 rank_282_alphafold2_ptm_model_2_seed_052 pLDDT=83.4 pTM=0.751
+2024-09-26 08:12:04,595 rank_283_alphafold2_ptm_model_1_seed_031 pLDDT=83.4 pTM=0.748
+2024-09-26 08:12:04,596 rank_284_alphafold2_ptm_model_1_seed_055 pLDDT=83.4 pTM=0.73
+2024-09-26 08:12:04,597 rank_285_alphafold2_ptm_model_2_seed_003 pLDDT=83.3 pTM=0.749
+2024-09-26 08:12:04,597 rank_286_alphafold2_ptm_model_1_seed_035 pLDDT=83.2 pTM=0.723
+2024-09-26 08:12:04,598 rank_287_alphafold2_ptm_model_2_seed_009 pLDDT=83.2 pTM=0.746
+2024-09-26 08:12:04,599 rank_288_alphafold2_ptm_model_2_seed_028 pLDDT=83.2 pTM=0.751
+2024-09-26 08:12:04,599 rank_289_alphafold2_ptm_model_2_seed_046 pLDDT=83.1 pTM=0.745
+2024-09-26 08:12:04,600 rank_290_alphafold2_ptm_model_1_seed_058 pLDDT=83.1 pTM=0.739
+2024-09-26 08:12:04,600 rank_291_alphafold2_ptm_model_1_seed_021 pLDDT=83 pTM=0.742
+2024-09-26 08:12:04,601 rank_292_alphafold2_ptm_model_2_seed_059 pLDDT=82.9 pTM=0.75
+2024-09-26 08:12:04,601 rank_293_alphafold2_ptm_model_1_seed_047 pLDDT=82.9 pTM=0.734
+2024-09-26 08:12:04,602 rank_294_alphafold2_ptm_model_1_seed_008 pLDDT=82.9 pTM=0.725
+2024-09-26 08:12:04,603 rank_295_alphafold2_ptm_model_2_seed_031 pLDDT=82.9 pTM=0.751
+2024-09-26 08:12:04,603 rank_296_alphafold2_ptm_model_1_seed_024 pLDDT=82.9 pTM=0.723
+2024-09-26 08:12:04,604 rank_297_alphafold2_ptm_model_1_seed_038 pLDDT=82.8 pTM=0.721
+2024-09-26 08:12:04,604 rank_298_alphafold2_ptm_model_2_seed_057 pLDDT=82.8 pTM=0.744
+2024-09-26 08:12:04,605 rank_299_alphafold2_ptm_model_2_seed_016 pLDDT=82.8 pTM=0.747
+2024-09-26 08:12:04,606 rank_300_alphafold2_ptm_model_1_seed_063 pLDDT=82.8 pTM=0.737
+2024-09-26 08:12:04,606 rank_301_alphafold2_ptm_model_2_seed_053 pLDDT=82.7 pTM=0.745
+2024-09-26 08:12:04,607 rank_302_alphafold2_ptm_model_2_seed_008 pLDDT=82.6 pTM=0.73
+2024-09-26 08:12:04,607 rank_303_alphafold2_ptm_model_1_seed_051 pLDDT=82.5 pTM=0.709
+2024-09-26 08:12:04,608 rank_304_alphafold2_ptm_model_1_seed_012 pLDDT=82.5 pTM=0.729
+2024-09-26 08:12:04,609 rank_305_alphafold2_ptm_model_1_seed_003 pLDDT=82.3 pTM=0.73
+2024-09-26 08:12:04,610 rank_306_alphafold2_ptm_model_2_seed_060 pLDDT=82.1 pTM=0.738
+2024-09-26 08:12:04,610 rank_307_alphafold2_ptm_model_2_seed_042 pLDDT=82 pTM=0.734
+2024-09-26 08:12:04,611 rank_308_alphafold2_ptm_model_1_seed_060 pLDDT=81.7 pTM=0.716
+2024-09-26 08:12:04,611 rank_309_alphafold2_ptm_model_1_seed_043 pLDDT=81.7 pTM=0.707
+2024-09-26 08:12:04,612 rank_310_alphafold2_ptm_model_1_seed_030 pLDDT=81.6 pTM=0.698
+2024-09-26 08:12:04,613 rank_311_alphafold2_ptm_model_2_seed_048 pLDDT=81.4 pTM=0.732
+2024-09-26 08:12:04,613 rank_312_alphafold2_ptm_model_2_seed_020 pLDDT=79.5 pTM=0.705
+2024-09-26 08:12:04,614 rank_313_alphafold2_ptm_model_2_seed_035 pLDDT=79.1 pTM=0.701
+2024-09-26 08:12:04,614 rank_314_alphafold2_ptm_model_2_seed_027 pLDDT=79 pTM=0.689
+2024-09-26 08:12:04,615 rank_315_alphafold2_ptm_model_1_seed_027 pLDDT=78.9 pTM=0.665
+2024-09-26 08:12:04,616 rank_316_alphafold2_ptm_model_2_seed_051 pLDDT=78.2 pTM=0.695
+2024-09-26 08:12:04,616 rank_317_alphafold2_ptm_model_2_seed_004 pLDDT=77.2 pTM=0.684
+2024-09-26 08:12:04,617 rank_318_alphafold2_ptm_model_1_seed_057 pLDDT=76.1 pTM=0.656
+2024-09-26 08:12:04,618 rank_319_alphafold2_ptm_model_1_seed_004 pLDDT=60 pTM=0.471
+2024-09-26 08:12:04,618 rank_320_alphafold2_ptm_model_1_seed_048 pLDDT=57.4 pTM=0.496
+2024-09-26 08:12:05,620 Done
